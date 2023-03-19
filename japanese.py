@@ -1,5 +1,3 @@
-from typing import List
-
 HIRAGANAS = list(
     'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわゐゑをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょゎゔー'
 )
@@ -21,7 +19,7 @@ CONSONANTS = ['k', 's', 't', 'n', 'h', 'm', 'r', 'g', 'z',
 SPECIAL_MORAS = ['N', 'Q', 'H']  # 特殊拍
 
 HIRAGANA_TO_MORA = {
-    # empty, k, s, t, n, h, m, r
+    # (empty), k, s, t, n, h, m, r
     'あ':     'a', 'い':    'i', 'う':     'u', 'え':     'e', 'お':     'o',
     'や':    'ya',               'ゆ':    'yu', 'いぇ':  'ye', 'よ':    'yo',
     'わ':    'wa', 'うぃ': 'wi',                'うぇ':  'we', 'うぉ':  'wo',
@@ -62,7 +60,7 @@ HIRAGANA_TO_MORA = {
     'っ':  'Q',
     'ー':  'H',
     # N to 1 assignment
-    'ゐ':    'i',                'ゑ':     'e', 'を':     'o',
+    'ゐ':    'i', 'ゑ':     'e', 'を':     'o',
     'づぃ': 'zi', 'づ':    'zu',
     'ぢゃ': 'zya', 'ぢ':  'zyi', 'ぢゅ': 'zyu', 'ぢぇ': 'zye', 'ぢょ': 'zyo',
 }
@@ -135,7 +133,7 @@ def is_fricative(cons: str) -> bool:
     return cons in ['s', 'h', 'z', 'f', 'v']
 
 
-def hiragana_to_mora(hiragana: str) -> List[str]:
+def hiragana_to_mora(hiragana: str) -> list[str]:
     '''
     Convert hiragana string to moras
 
@@ -153,7 +151,7 @@ def hiragana_to_mora(hiragana: str) -> List[str]:
         elif s[:1] in HIRAGANA_TO_MORA:
             moras.append(HIRAGANA_TO_MORA[s[:1]])
             s = s[1:]
-        elif s[0] in 'ぁぃぅぇぉゎ':  # e.g. スゥルタイ
+        elif s[0] in 'ぁぃぅぇぉゎ':  # e.g. すぅるたい
             d = dict(zip('ぁぃぅぇぉゎ', ['a', 'i', 'u', 'e', 'o', 'wa']))
             moras.append(d[s[0]])
             s = s[1:]

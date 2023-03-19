@@ -1,12 +1,12 @@
 import math
-from typing import List, Optional
+from typing import Optional
 
 import numpy as np
 
 from japanese import (MORAS, VOWELS, hiragana_to_mora, is_affiricate,
                       is_consonant, is_fricative, is_lateral, is_nasal,
-                      is_obstruent, is_plosive, is_semivowel,
-                      is_special_mora, is_voiced, is_vowel)
+                      is_obstruent, is_plosive, is_semivowel, is_special_mora,
+                      is_voiced, is_vowel)
 
 VOWEL_COST_MATRIX = {c1: {c2: 0.0 for c2 in VOWELS} for c1 in VOWELS}
 VOWEL_COST_MATRIX['a']['i'] = VOWEL_COST_MATRIX['i']['a'] = 71 / (2 * 73)
@@ -130,7 +130,7 @@ COST_DELETE['Q'] = 0.3
 COST_INSERT = 20.0
 
 
-def replace_Hs(moras: List[str]) -> List[str]:
+def replace_Hs(moras: list[str]) -> list[str]:
     '''
     Replace every 'H' (長音) with previous vowel
 
@@ -138,7 +138,7 @@ def replace_Hs(moras: List[str]) -> List[str]:
     ['zye', 'i', 'su'] -> ['e', 'i', 'u']
     ['ka', 'H', 'N'] -> ['a', 'a', 'N']
     '''
-    result = []
+    result = []  # type: list[str]
     for mora in moras:
         if mora == 'H':
             assert is_vowel(result[-1][-1])
@@ -148,7 +148,7 @@ def replace_Hs(moras: List[str]) -> List[str]:
     return result
 
 
-def extract_vowels(moras: List[str]) -> List[str]:
+def extract_vowels(moras: list[str]) -> list[str]:
     '''
     Convert moras to vowels
     - leave special moras as they are
