@@ -3,35 +3,38 @@ from typing import Optional
 
 import numpy as np
 
-from japanese import (MORAS, VOWELS, hiragana_to_mora, is_affiricate,
+from japanese import (MORAS, VOWELS, hiraganas_to_mora, is_affiricate,
                       is_consonant, is_fricative, is_lateral, is_nasal,
                       is_obstruent, is_plosive, is_semivowel, is_special_mora,
                       is_voiced, is_vowel)
 
 VOWEL_COST_MATRIX = {c1: {c2: 0.0 for c2 in VOWELS} for c1 in VOWELS}
-VOWEL_COST_MATRIX['a']['i'] = VOWEL_COST_MATRIX['i']['a'] = 71 / (2 * 73)
-VOWEL_COST_MATRIX['a']['u'] = VOWEL_COST_MATRIX['u']['a'] = 51 / (2 * 73)
-VOWEL_COST_MATRIX['a']['e'] = VOWEL_COST_MATRIX['e']['a'] = 39 / (2 * 73)
-VOWEL_COST_MATRIX['a']['o'] = VOWEL_COST_MATRIX['o']['a'] = 37 / (2 * 73)
-VOWEL_COST_MATRIX['i']['u'] = VOWEL_COST_MATRIX['u']['i'] = 55 / (2 * 73)
-VOWEL_COST_MATRIX['i']['e'] = VOWEL_COST_MATRIX['e']['i'] = 32 / (2 * 73)
-VOWEL_COST_MATRIX['i']['o'] = VOWEL_COST_MATRIX['o']['i'] = 73 / (2 * 73)
-VOWEL_COST_MATRIX['u']['e'] = VOWEL_COST_MATRIX['e']['u'] = 44 / (2 * 73)
-VOWEL_COST_MATRIX['u']['o'] = VOWEL_COST_MATRIX['o']['u'] = 26 / (2 * 73)
-VOWEL_COST_MATRIX['e']['o'] = VOWEL_COST_MATRIX['o']['e'] = 51 / (2 * 73)
+VOWEL_COST_MATRIX['a']['i'] = VOWEL_COST_MATRIX['i']['a'] = 71 / 73
+VOWEL_COST_MATRIX['a']['u'] = VOWEL_COST_MATRIX['u']['a'] = 51 / 73
+VOWEL_COST_MATRIX['a']['e'] = VOWEL_COST_MATRIX['e']['a'] = 39 / 73
+VOWEL_COST_MATRIX['a']['o'] = VOWEL_COST_MATRIX['o']['a'] = 37 / 73
+VOWEL_COST_MATRIX['i']['u'] = VOWEL_COST_MATRIX['u']['i'] = 55 / 73
+VOWEL_COST_MATRIX['i']['e'] = VOWEL_COST_MATRIX['e']['i'] = 32 / 73
+VOWEL_COST_MATRIX['i']['o'] = VOWEL_COST_MATRIX['o']['i'] = 73 / 73
+VOWEL_COST_MATRIX['u']['e'] = VOWEL_COST_MATRIX['e']['u'] = 44 / 73
+VOWEL_COST_MATRIX['u']['o'] = VOWEL_COST_MATRIX['o']['u'] = 26 / 73
+VOWEL_COST_MATRIX['e']['o'] = VOWEL_COST_MATRIX['o']['e'] = 51 / 73
 # check symmetricity
 assert all(VOWEL_COST_MATRIX[c1][c2] == VOWEL_COST_MATRIX[c2][c1]
            for c1 in VOWELS for c2 in VOWELS)
 
 
-def compute_consonant_cost(cons1: str, cons2: str) -> float:
+def compute_consonant_cost(cons1: Optional[str], cons2: Optional[str]) -> float:
     '''
     Compute replacing cost between two consonants
     Assume that both cons1 and cons2 are consonants
-    0.0 <= cost <= 0.4
+    0.0 <= cost <= 1.0
     '''
     if cons1 == cons2:
         return 0.0
+
+    if cons1 is None or cons2 is None:
+        return 1.0
 
     cost = 0.2
     if is_voiced(cons1) != is_voiced(cons2):
@@ -61,7 +64,7 @@ def compute_consonant_cost(cons1: str, cons2: str) -> float:
             [0.2, 0.1, 0.0],
         ][get_index(cons1)][get_index(cons2)]
 
-    return 0.4 * cost
+    return cost
 
 
 def compute_mora_cost(mora1: str, mora2: str) -> float:
@@ -93,7 +96,7 @@ def compute_mora_cost(mora1: str, mora2: str) -> float:
     # 0 <= vowel cost <= 0.5
     vowel1 = get_vowel(mora1)
     vowel2 = get_vowel(mora2)
-    cost += VOWEL_COST_MATRIX[vowel1][vowel2]
+    cost += 0.5 * VOWEL_COST_MATRIX[vowel1][vowel2]
     # 0 <= semivowel cost <= 0.1
     semivowel1 = get_semivowel(mora1)
     semivowel2 = get_semivowel(mora2)
@@ -101,11 +104,7 @@ def compute_mora_cost(mora1: str, mora2: str) -> float:
     # 0 <= consonant cost <= 0.4
     consonant1 = get_consonant(mora1)
     consonant2 = get_consonant(mora2)
-    if consonant1 is None or consonant2 is None:
-        if consonant1 != consonant2:
-            cost += 0.4
-    else:
-        cost += compute_consonant_cost(consonant1, consonant2)
+    cost += 0.4 * compute_consonant_cost(consonant1, consonant2)
     return cost
 
 
@@ -125,9 +124,11 @@ assert all(COST_MATRIX[mora1][mora2] == COST_MATRIX[mora2][mora1]
 COST_DELETE = dict.fromkeys(MORAS, 5.0)
 COST_DELETE['N'] = 0.5
 COST_DELETE['Q'] = 0.3
+COST_DELETE['H'] = 0.1
 
 # 字足らずのコスト
-COST_INSERT = 20.0
+COST_INSERT = dict.fromkeys(MORAS, 20.0)
+COST_INSERT['H'] = 0.1
 
 
 def replace_Hs(moras: list[str]) -> list[str]:
@@ -186,8 +187,10 @@ def distance(
     NOTE: This may NOT satisfy the triangle inequality
     '''
 
-    s1 = replace_Hs(hiragana_to_mora(s1))
-    s2 = replace_Hs(hiragana_to_mora(s2))
+    s1 = hiraganas_to_mora(s1)
+    s2 = hiraganas_to_mora(s2)
+    # s1 = replace_Hs(s1)
+    # s2 = replace_Hs(s2)
     v1 = extract_vowels(s1)
     v2 = extract_vowels(s2)
 
@@ -197,7 +200,7 @@ def distance(
     for i in range(n1):
         dp[i + 1, 0] = dp[i, 0] + COST_DELETE[s1[i]]
     for j in range(n2):
-        dp[0, j + 1] = dp[0, j] + COST_INSERT
+        dp[0, j + 1] = dp[0, j] + COST_INSERT[s2[j]]
     for i in range(n1):
         cost_delete = COST_DELETE[s1[i]]
         for j in range(n2):
@@ -208,7 +211,7 @@ def distance(
                 cost_insert = math.inf
                 cost_replace = math.inf
             else:
-                cost_insert = COST_INSERT
+                cost_insert = COST_INSERT[s2[j]]
                 cost_replace = COST_MATRIX[s1[i]][s2[j]]
             dp[i + 1, j + 1] = min(
                 dp[i, j + 1] + cost_delete,

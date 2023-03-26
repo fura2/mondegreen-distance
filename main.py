@@ -27,7 +27,7 @@ def parse_args():
 
 def main():
     args = parse_args()
-    db_path: Path = args.db_path
+    db_path = args.db_path  # type: Path
     assert db_path.exists(), f'{db_path} does not exist'
 
     n_cards = args.n_cards

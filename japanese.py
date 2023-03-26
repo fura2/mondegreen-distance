@@ -133,7 +133,7 @@ def is_fricative(cons: str) -> bool:
     return cons in ['s', 'h', 'z', 'f', 'v']
 
 
-def hiragana_to_mora(hiragana: str) -> list[str]:
+def hiraganas_to_mora(hiragana: str) -> list[str]:
     '''
     Convert hiragana string to moras
 
