@@ -3,7 +3,7 @@ from typing import Optional
 
 import numpy as np
 
-from japanese import (MORAS, VOWELS, hiraganas_to_mora, is_affiricate,
+from japanese import (MORAS, VOWELS, hiraganas_to_moras, is_affiricate,
                       is_consonant, is_fricative, is_lateral, is_nasal,
                       is_obstruent, is_plosive, is_semivowel, is_special_mora,
                       is_voiced, is_vowel)
@@ -187,8 +187,8 @@ def distance(
     NOTE: This may NOT satisfy the triangle inequality
     '''
 
-    s1 = hiraganas_to_mora(s1)
-    s2 = hiraganas_to_mora(s2)
+    s1 = hiraganas_to_moras(s1)
+    s2 = hiraganas_to_moras(s2)
     # s1 = replace_Hs(s1)
     # s2 = replace_Hs(s2)
     v1 = extract_vowels(s1)
