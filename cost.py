@@ -182,8 +182,7 @@ def distance(
     # excess_moras: int = 0,
 ) -> float:
     '''
-    A Levenshtein-based cost function:
-        Minimum total cost of edits required to change s1 into s2
+    A Levenshtein-based cost function
     NOTE: This may NOT satisfy the triangle inequality
     '''
 
@@ -200,7 +199,11 @@ def distance(
     for i in range(n1):
         dp[i + 1, 0] = dp[i, 0] + COST_DELETE[s1[i]]
     for j in range(n2):
-        dp[0, j + 1] = dp[0, j] + COST_INSERT[s2[j]]
+        if j < same_first_n_moras or n2 - j <= same_last_n_moras:
+            cost_insert = math.inf
+        else:
+            cost_insert = COST_INSERT[s2[j]]
+        dp[0, j + 1] = dp[0, j] + cost_insert
     for i in range(n1):
         cost_delete = COST_DELETE[s1[i]]
         for j in range(n2):
