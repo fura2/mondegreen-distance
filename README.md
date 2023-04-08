@@ -1,4 +1,6 @@
 # Mondegreen Distance
+[![Actions Status](https://github.com/fura2/mondegreen-distance/actions/workflows/python-package.yml/badge.svg)](https://github.com/fura2/mondegreen-distance/actions)
+[![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/)
 
 日本語の響きの近さを測るモジュール
 
