@@ -5,13 +5,12 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from cost import distance
-from japanese import is_hiragana
+from mondegreen_distance import distance, is_hiragana
 
 
 def parse_args():
     parser = ArgumentParser()
-    parser.add_argument('db_path', type=Path, help='データベース(csvファイル)のパス')
+    parser.add_argument('db_path', type=Path, help='辞書(csvファイル)のパス')
     parser.add_argument('n_words', type=int, nargs='?', default=30,
                         help='出力件数 (デフォルト値: 30)')
     parser.add_argument('same_first_n_vowels', type=int, nargs='?', default=0,
@@ -65,7 +64,7 @@ def main() -> None:
                 same_last_n_moras=same_last_n_moras,
             )
             if len(pq) < n_words:
-                heapq.heappush(pq, (-cost, jp_name))  # Why max heap is not supported in Python??
+                heapq.heappush(pq, (-cost, jp_name))
             else:
                 heapq.heappushpop(pq, (-cost, jp_name))
         pq.sort(key=lambda x: -x[0])

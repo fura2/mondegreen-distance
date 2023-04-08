@@ -5,10 +5,10 @@ from typing import Optional
 
 import numpy as np
 
-from japanese import (MORAS, VOWELS, extract_vowels, hiraganas_to_moras,
-                      is_affiricate, is_consonant, is_fricative, is_lateral,
-                      is_nasal, is_obstruent, is_plosive, is_semivowel,
-                      is_special_mora, is_voiced, is_vowel)
+from .japanese import (MORAS, VOWELS, extract_vowels, hiraganas_to_moras,
+                       is_affiricate, is_consonant, is_fricative, is_lateral,
+                       is_nasal, is_obstruent, is_plosive, is_semivowel,
+                       is_special_mora, is_voiced, is_vowel)
 
 VOWEL_COST_MATRIX = {c1: {c2: 0.0 for c2 in VOWELS} for c1 in VOWELS}
 VOWEL_COST_MATRIX['a']['i'] = VOWEL_COST_MATRIX['i']['a'] = 71 / 73
