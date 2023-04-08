@@ -12,8 +12,8 @@ from japanese import is_hiragana
 def parse_args():
     parser = ArgumentParser()
     parser.add_argument('db_path', type=Path, help='データベース(csvファイル)のパス')
-    parser.add_argument('n_cards', type=int, nargs='?', default=30,
-                        help='何件のカードを表示するか (デフォルト値: 30)')
+    parser.add_argument('n_words', type=int, nargs='?', default=30,
+                        help='出力件数 (デフォルト値: 30)')
     parser.add_argument('same_first_n_vowels', type=int, nargs='?', default=0,
                         help='先頭何拍で韻を踏むことを強制するか (デフォルト値: 0)')
     parser.add_argument('same_last_n_vowels', type=int, nargs='?', default=0,
@@ -25,18 +25,18 @@ def parse_args():
     return parser.parse_args()
 
 
-def main():
+def main() -> None:
     args = parse_args()
     db_path = args.db_path  # type: Path
     assert db_path.exists(), f'{db_path} does not exist'
 
-    n_cards = args.n_cards
+    n_words = args.n_words
     same_first_n_vowels = args.same_first_n_vowels
     same_last_n_vowels = args.same_last_n_vowels
     same_first_n_moras = args.same_first_n_moras
     same_last_n_moras = args.same_last_n_moras
 
-    print(f'上位{n_cards}件を表示')
+    print(f'上位{n_words}件を表示')
     print('条件')
     print(f'  先頭{same_first_n_vowels}拍は必ず韻を踏む')
     print(f'  末尾{same_last_n_vowels}拍は必ず韻を踏む')
@@ -53,9 +53,9 @@ def main():
             print('Input string must be in hiragana')
             continue
 
-        pq = []
-        for card in tqdm(db):
-            _, jp_name, _, pronunciation = card
+        pq = []  # type: list[tuple[float, str]]
+        for word in tqdm(db):
+            _, jp_name, _, pronunciation = word
             cost = distance(
                 pronunciation,
                 target,
@@ -64,7 +64,7 @@ def main():
                 same_first_n_moras=same_first_n_moras,
                 same_last_n_moras=same_last_n_moras,
             )
-            if len(pq) < n_cards:
+            if len(pq) < n_words:
                 heapq.heappush(pq, (-cost, jp_name))  # Why max heap is not supported in Python??
             else:
                 heapq.heappushpop(pq, (-cost, jp_name))

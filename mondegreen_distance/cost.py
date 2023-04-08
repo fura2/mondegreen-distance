@@ -1,12 +1,14 @@
+# mypy: allow-redefinition
+
 import math
 from typing import Optional
 
 import numpy as np
 
-from japanese import (MORAS, VOWELS, hiraganas_to_moras, is_affiricate,
-                      is_consonant, is_fricative, is_lateral, is_nasal,
-                      is_obstruent, is_plosive, is_semivowel, is_special_mora,
-                      is_voiced, is_vowel)
+from japanese import (MORAS, VOWELS, extract_vowels, hiraganas_to_moras,
+                      is_affiricate, is_consonant, is_fricative, is_lateral,
+                      is_nasal, is_obstruent, is_plosive, is_semivowel,
+                      is_special_mora, is_voiced, is_vowel)
 
 VOWEL_COST_MATRIX = {c1: {c2: 0.0 for c2 in VOWELS} for c1 in VOWELS}
 VOWEL_COST_MATRIX['a']['i'] = VOWEL_COST_MATRIX['i']['a'] = 71 / 73
@@ -24,7 +26,7 @@ assert all(VOWEL_COST_MATRIX[c1][c2] == VOWEL_COST_MATRIX[c2][c1]
            for c1 in VOWELS for c2 in VOWELS)
 
 
-def compute_consonant_cost(cons1: Optional[str], cons2: Optional[str]) -> float:
+def _compute_consonant_cost(cons1: Optional[str], cons2: Optional[str]) -> float:
     '''
     Compute replacing cost between two consonants
     Assume that both cons1 and cons2 are consonants
@@ -67,7 +69,7 @@ def compute_consonant_cost(cons1: Optional[str], cons2: Optional[str]) -> float:
     return cost
 
 
-def compute_mora_cost(mora1: str, mora2: str) -> float:
+def _compute_mora_cost(mora1: str, mora2: str) -> float:
     '''
     Compute replacing cost between two moras
     Assume that both mora1 and mora2 are moras
@@ -104,14 +106,14 @@ def compute_mora_cost(mora1: str, mora2: str) -> float:
     # 0 <= consonant cost <= 0.4
     consonant1 = get_consonant(mora1)
     consonant2 = get_consonant(mora2)
-    cost += 0.4 * compute_consonant_cost(consonant1, consonant2)
+    cost += 0.4 * _compute_consonant_cost(consonant1, consonant2)
     return cost
 
 
 # precompute replacing cost matrix to improve performance
 COST_MATRIX = {
     mora1: {
-        mora2: compute_mora_cost(mora1, mora2)
+        mora2: _compute_mora_cost(mora1, mora2)
         for mora2 in MORAS
     }
     for mora1 in MORAS
@@ -149,27 +151,6 @@ def replace_Hs(moras: list[str]) -> list[str]:
     return result
 
 
-def extract_vowels(moras: list[str]) -> list[str]:
-    '''
-    Convert moras to vowels
-    - leave special moras as they are
-
-    Examples
-    ['zye', 'i', 'su'] -> ['e', 'i', 'u']
-    ['ni', 'Q', 'sa'] -> ['i', 'Q', 'a']
-    ['ka', 'H', 'N'] -> ['a', 'H', 'N']
-    '''
-    vowels = []
-    for mora in moras:
-        if is_vowel(mora[-1]):
-            vowels.append(mora[-1])
-        elif is_special_mora(mora):
-            vowels.append(mora)
-        else:
-            raise RuntimeError(f'Unexpected input: {mora} of {moras}')
-    return vowels
-
-
 def distance(
     s1: str,
     s2: str,
@@ -178,18 +159,16 @@ def distance(
     same_last_n_vowels: int = 0,
     same_first_n_moras: int = 0,
     same_last_n_moras: int = 0,
-    # deficient_moras: int = 0,
-    # excess_moras: int = 0,
 ) -> float:
     '''
     A Levenshtein-based cost function
     NOTE: This may NOT satisfy the triangle inequality
+
+    s1 and s2 must be given in hiragana
     '''
 
     s1 = hiraganas_to_moras(s1)
     s2 = hiraganas_to_moras(s2)
-    # s1 = replace_Hs(s1)
-    # s2 = replace_Hs(s2)
     v1 = extract_vowels(s1)
     v2 = extract_vowels(s2)
 

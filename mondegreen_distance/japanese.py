@@ -133,6 +133,27 @@ def is_fricative(cons: str) -> bool:
     return cons in ['s', 'h', 'z', 'f', 'v']
 
 
+def extract_vowels(moras: list[str]) -> list[str]:
+    '''
+    Convert moras to vowels
+    - leave special moras as they are
+
+    Examples
+    ['zye', 'i', 'su'] -> ['e', 'i', 'u']
+    ['ni', 'Q', 'sa'] -> ['i', 'Q', 'a']
+    ['ka', 'H', 'N'] -> ['a', 'H', 'N']
+    '''
+    vowels = []
+    for mora in moras:
+        if is_vowel(mora[-1]):
+            vowels.append(mora[-1])
+        elif is_special_mora(mora):
+            vowels.append(mora)
+        else:
+            raise RuntimeError(f'Unexpected input: {mora} of {moras}')
+    return vowels
+
+
 def hiraganas_to_moras(hiragana: str) -> list[str]:
     '''
     Convert the given hiragana string to the sequence of moras
