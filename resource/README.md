@@ -1,6 +1,6 @@
 # 辞書ファイルについて
 
-Magic: The Gatheringのカード名の辞書ファイル [db_mtg.csv](db_mtg.csv) を提供している。
+Magic: The Gatheringのカード名の辞書ファイル[db_mtg.csv](db_mtg.csv)を提供している。
 これには、2023年4月9日時点で発売済みのカードのうち、日本語名が存在するものが収録されている。
 間違いや収録漏れがあった場合は、issueかpull requestで報告していただけるとありがたい。
 

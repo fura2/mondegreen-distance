@@ -21,7 +21,7 @@ print(distance('ぴあならー', 'さよなら'))  # output: 1.0997260273972604
 
 ## デモ
 入力した単語に最も響きが近い単語を辞書ファイルから検索する。
-辞書ファイルの詳細は [resource](resource) を参照。
+辞書ファイルの詳細は[resource](resource)を参照。
 ```bash
 python3 demo/search.py resource/db_mtg.csv
 ```
