@@ -16,9 +16,9 @@ pip3 install .
 ## 使い方
 ```python
 from mondegreen_distance import distance
-print(distance('さよなら', 'さよなら'))    # output: 0.0
-print(distance('おはよう', 'さよなら'))    # output: 2.9095890410958907
-print(distance('ぴあならー', 'さよなら'))  # output: 1.0997260273972604
+print(distance('からあげ', 'からあげ'))  # output: 0.0
+print(distance('やきとり', 'からあげ'))  # output: 2.4189041095890413
+print(distance('からおけ', 'からあげ'))  # output: 0.4134246575342466
 ```
 
 ## デモ
