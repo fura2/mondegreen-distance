@@ -196,6 +196,7 @@ Aegis of the Heavens,天界の神盾,てんかいのしんじゅん,てんかい
 Aeon Chronicler,永劫の年代史家,えいごうのねんだいしか,えいごうのねんだいしか
 Aeon Engine,永劫機関,えいごうきかん,えいごうきかん
 Aerial Assault,空からの突撃,そらからのとつげき,そらからのとつげき
+Aerial Boost,空中ブースト,くうちゅうぶーすと,くうちゅうぶーすと
 Aerial Caravan,天駆ける隊商,あまかけるたいしょう,あまかけるたいしょう
 Aerial Engineer,空の技師,そらのぎし,そらのぎし
 Aerial Extortionist,天駆ける恐喝者,あまかけるきょうかつしゃ,あまかけるきょうかつしゃ
@@ -231,6 +232,7 @@ Aether Poisoner,霊気毒殺者,れいきどくさつしゃ,れいきどくさ�
 Aether Swooper,霊気急襲者,れいききゅうしゅうしゃ,れいききゅうしゅうしゃ
 Aether Theorist,理論霊気学者,りろんれいきがくしゃ,りろんれいきがくしゃ
 Aether Tunnel,霊気トンネル,れいきとんねる,れいきとんねる
+Aetherblade Agent,霊気刃の工作員,れいきやいばのこうさくいん,れいきやいばのこうさくいん
 Aetherborn Marauder,霊基体の匪賊,れいきたいのひぞく,れいきたいのひぞく
 Aetherflux Reservoir,霊気貯蔵器,れいきちょぞうき,れいきちょぞうき
 Aethergeode Miner,霊気晶の鉱夫,れいきしょうのこうふ,れいきしょうのこうふ
@@ -242,6 +244,7 @@ Aetherstream Leopard,霊気流の豹,れいきりゅうのひょう,れいきり
 Aethertide Whale,霊気海嘯の鯨,れいきかいしょうのくじら,れいきかいしょうのくじら
 Aethertorch Renegade,改革派の霊気砲手,かいかくはのれいきほうしゅ,かいかくはのれいきほうしゅ
 Aetherwind Basker,霊気風浴び,れいきふうあび,れいきふうあび
+"Aetherwing, Golden-Scale Flagship",黄金鱗の旗艦、エーテルウィング,おうごんうろこのきかんえーてるうぃんぐ,おうごんうろこのきかんえーてるうぃんぐ
 Aetherworks Marvel,霊気池の驚異,れいきちのきょうい,れいきちのきょうい
 "Aeve, Progenitor Ooze",前駆軟泥、エーヴ,ぜんくなんでいえーゔ,ぜんくなんでいえーゔ
 Affa Guard Hound,アーファの番犬,あーふぁのばんけん,あーふぁのばんけん
@@ -342,9 +345,11 @@ Akki Lavarunner,悪忌の溶岩走り,あっきのようがんばしり,あっ�
 Akki Raider,悪忌の略奪者,あっきのりゃくだつしゃ,あっきのりゃくだつしゃ
 Akki Rockspeaker,悪忌の岩語り,あっきのいわがたり,あっきのいわがたり
 Akki Ronin,悪忌の浪人,あっきのろうにん,あっきのろうにん
+Akki Scrapchomper,屑鉄食いの悪忌,くずてつぐいのあっき,くずてつぐいのあっき
 Akki Underling,悪忌の手下,あっきのてした,あっきのてした
 Akki Underminer,悪忌の蝕み屋,あっきのむしばみや,あっきのむしばみや
 Akki War Paint,悪忌の戦化粧,あっきのいくさげしょう,あっきのいくさげしょう
+Akoum,アクーム,あくーむ,あくーむ
 Akoum Battlesinger,アクームの戦歌い,あくーむのいくさうたい,あくーむのいくさうたい
 Akoum Boulderfoot,アクームの岩足,あくーむのいわあし,あくーむのいわあし
 Akoum Firebird,アクームの火の鳥,あくーむのひのとり,あくーむのひのとり
@@ -378,6 +383,8 @@ Akron Legionnaire,アクロンの軍団兵,あくろんのぐんだんへい,あ
 Aku Djinn,アクーのジン,あくーのじん,あくーのじん
 "Akuta, Born of Ash",灰生まれの阿苦多,はいうまれのあくた,はいうまれのあくた
 Alabaster Dragon,純白のドラゴン,じゅんぱくのどらごん,じゅんぱくのどらごん
+Alabaster Host Intercessor,雪花石の徒党の仲裁者,せっかせきのととうのちゅうさいしゃ,せっかせきのととうのちゅうさいしゃ
+Alabaster Host Sanctifier,雪花石の徒党の聖別者,せっかせきのととうのせいべつしゃ,せっかせきのととうのせいべつしゃ
 Alabaster Kirin,雪花石の麒麟,せっかせきのきりん,せっかせきのきりん
 Alabaster Leech,あられ石のヒル,あられいしのひる,あられいしのひる
 Alabaster Mage,雪花石の魔道士,せっかせきのまどうし,せっかせきのまどうし
@@ -571,6 +578,7 @@ Ancient Greenwarden,古の緑守り,いにしえのみどりもり,いにしえ�
 Ancient Grudge,古えの遺恨,いにしえのいこん,いにしえのいこん
 Ancient Hellkite,古えのヘルカイト,いにしえのへるかいと,いにしえのへるかいと
 Ancient Hydra,古代のハイドラ,こだいのはいどら,こだいのはいどら
+Ancient Imperiosaur,古の放漫トカゲ,いにしえのほうまんとかげ,いにしえのほうまんとかげ
 Ancient Kavu,年経たカヴー,としへたかゔー,としへたかゔー
 Ancient Lumberknot,古きもつれ樹,ふるきもつれぎ,ふるきもつれぎ
 Ancient Ooze,古代の軟泥,こだいのなんでい,こだいのなんでい
@@ -637,6 +645,7 @@ Angelic Favor,天使の好意,てんしのこうい,てんしのこうい
 Angelic Field Marshal,天使の元帥,てんしのげんすい,てんしのげんすい
 Angelic Gift,天使の贈り物,てんしのおくりもの,てんしのおくりもの
 Angelic Guardian,天使の守護者,てんしのしゅごしゃ,てんしのしゅごしゃ
+Angelic Intervention,天使の介入,てんしのかいにゅう,てんしのかいにゅう
 Angelic Observer,天使の観察者,てんしのかんさつしゃ,てんしのかんさつしゃ
 Angelic Overseer,天使の監視者,てんしのかんししゃ,てんしのかんししゃ
 Angelic Page,天使の従者,てんしのじゅうしゃ,てんしのじゅうしゃ
@@ -766,6 +775,7 @@ Araba Mothrider,荒場の蛾乗り,あらばのがのり,あらばのがのり
 Arachnoform,蜘蛛化,くもか,くもか
 Arachnogenesis,蜘蛛の襲来,くものしゅうらい,くものしゅうらい
 Arachnoid,機械蜘蛛,きかいぐも,きかいぐも
+Arachnoid Adaptation,機械蜘蛛の順応,きかいぐものじゅんのう,きかいぐものじゅんのう
 Arachnus Spinner,アラクナスの紡ぎ手,あらくなすのつむぎて,あらくなすのつむぎて
 Arachnus Web,アラクナスの蜘蛛の巣,あらくなすのくものす,あらくなすのくものす
 Aradara Express,アラダラ急行,あらだらきゅうこう,あらだらきゅうこう
@@ -849,6 +859,7 @@ Archaeomancer's Map,古術師の地図,こじゅつしのちず,こじゅつし�
 Archaeomender,修古師,しゅうこし,しゅうこし
 Archangel,大天使,だいてんし,だいてんし
 Archangel Avacyn,大天使アヴァシン,だいてんしあゔぁしん,だいてんしあゔぁしん
+Archangel Elspeth,大天使エルズペス,だいてんしえるずぺす,だいてんしえるずぺす
 Archangel of Strife,敵対の大天使,てきたいのだいてんし,てきたいのだいてんし
 Archangel of Thune,テューンの大天使,てゅーんのだいてんし,てゅーんのだいてんし
 Archangel of Tithes,徴税の大天使,ちょうぜいのだいてんし,ちょうぜいのだいてんし
@@ -896,6 +907,7 @@ Archon of Sun's Grace,太陽の恵みの執政官,たいようのめぐみのし
 Archon of Valor's Reach,武勇の場の執政官,ぶゆうのばのしっせいかん,ぶゆうのばのしっせいかん
 Archon of the Triumvirate,三巨頭の執政官,さんきょとうのしっせいかん,さんきょとうのしっせいかん
 Archpriest of Iona,イオナの大司祭,いおなのだいしさい,いおなのだいしさい
+Archpriest of Shadows,影の大司祭,かげのだいしさい,かげのだいしさい
 Archway Angel,アーチ道の天使,あーちどうのてんし,あーちどうのてんし
 Archway Commons,アーチ道の公共地,あーちどうのこうきょうち,あーちどうのこうきょうち
 Archweaver,大織り手,おおおりて,おおおりて
@@ -929,6 +941,7 @@ Arena Rector,競技場の首長,きょうぎじょうのしゅちょう,きょ�
 Arena Trickster,闘技場のペテン師,とうぎじょうのぺてんし,とうぎじょうのぺてんし
 Arena of the Ancients,古き者どもの闘技場,ふるきものどものとうぎじょう,ふるきものどものとうぎじょう
 Arenson's Aura,アレンスンのオーラ,あれんすんのおーら,あれんすんのおーら
+Aretopolis,アレトポリス,あれとぽりす,あれとぽりす
 Argent Mutation,銀白の突然変異,ぎんぱくのとつぜんへんい,ぎんぱくのとつぜんへんい
 Argent Sphinx,銀白のスフィンクス,ぎんぱくのすふぃんくす,ぎんぱくのすふぃんくす
 Argentum Armor,アージェンタムの鎧,あーじぇんたむのよろい,あーじぇんたむのよろい
@@ -1035,6 +1048,7 @@ Artillery Blast,弩弓破,どきゅうは,どきゅうは
 Artisan of Forms,形態の職工,けいたいのしょっこう,けいたいのしょっこう
 Artisan of Kozilek,コジレックの職工,こじれっくのしょっこう,こじれっくのしょっこう
 Artisan's Sorrow,職工の悲しみ,しょっこうのかなしみ,しょっこうのかなしみ
+Artistic Refusal,芸術的な拒絶,げいじゅつてきなきょぜつ,げいじゅつてきなきょぜつ
 Arvad the Cursed,呪われし者、アルヴァード,のろわれしものあるゔぁーど,のろわれしものあるゔぁーど
 "Aryel, Knight of Windgrace",ウィンドグレイスの騎士、アルイェール,うぃんどぐれいすのきしあるいぇーる,うぃんどぐれいすのきしあるいぇーる
 As Foretold,予言により,よげんにより,よげんにより
@@ -1059,6 +1073,7 @@ Ashen Firebeast,灰燼の火獣,かいじんのかじゅう,かいじんのか�
 Ashen Ghoul,灰燼のグール,かいじんのぐーる,かいじんのぐーる
 Ashen Monstrosity,灰燼の大怪物,かいじんのだいかいぶつ,かいじんのだいかいぶつ
 Ashen Powder,死灰の秘粉,しかいのひふん,しかいのひふん
+Ashen Reaper,灰の死神,はいのしにがみ,はいのしにがみ
 Ashen Rider,灰燼の乗り手,かいじんののりて,かいじんののりて
 Ashen-Skin Zubera,灰色肌のずべら,はいいろはだのずべら,はいいろはだのずべら
 Ashenmoor Cohort,アッシェンムーアの群勢,あっしぇんむーあのぐんぜい,あっしぇんむーあのぐんぜい
@@ -1121,16 +1136,19 @@ Assembled Alphas,集合した頭目,しゅうごうしたとうもく,しゅう�
 Assembly Hall,集会場,しゅうかいじょう,しゅうかいじょう
 Assembly-Worker,組立作業員,くみたてさぎょういん,くみたてさぎょういん
 Assert Authority,権威の確立,けんいのかくりつ,けんいのかくりつ
+Assimilate Essence,本質の同化,ほんしつのどうか,ほんしつのどうか
 Assure,確証,かくしょう,かくしょう
 Astarion's Thirst,アスタリオンの渇望,あすたりおんのかつぼう,あすたりおんのかつぼう
 "Astarion, the Decadent",堕落者、アスタリオン,だらくしゃあすたりおん,だらくしゃあすたりおん
 "Astor, Bearer of Blades",刃を持つ者、アスター,やいばをもつものあすたー,やいばをもつものあすたー
+Astral Arena,天界闘技場,てんかいとうぎじょう,てんかいとうぎじょう
 Astral Confrontation,アストラル対決,あすとらるたいけつ,あすとらるたいけつ
 Astral Cornucopia,霊体のヤギ角,れいたいのやぎづの,れいたいのやぎづの
 Astral Dragon,アストラル・ドラゴン,あすとらるどらごん,あすとらるどらごん
 Astral Drift,霊体の横滑り,れいたいのよこすべり,れいたいのよこすべり
 Astral Slide,霊体の地滑り,れいたいのじすべり,れいたいのじすべり
 Astral Steel,鋼の霊体,はがねのれいたい,はがねのれいたい
+Astral Wingspan,霊体の翼長,れいたいのよくちょう,れいたいのよくちょう
 Asylum Visitor,精神病棟の訪問者,せいしんびょうとうのほうもんしゃ,せいしんびょうとうのほうもんしゃ
 Atalan Jackal,アタラン・ジャッカル,あたらんじゃっかる,あたらんじゃっかる
 "Atalya, Samite Master",サマイトを総べる者アタリア,さまいとをすべるものあたりあ,さまいとをすべるものあたりあ
@@ -1147,6 +1165,7 @@ Atarka's Command,アタルカの命令,あたるかのめいれい,あたるか�
 Atmosphere Surgeon,大気の外科医,たいきのげかい,たいきのげかい
 Atog,エイトグ,えいとぐ,えいとぐ
 Atogatog,アトガトグ,あとがとぐ,あとがとぐ
+Atraxa's Fall,アトラクサの討死,あとらくさのうちじに,あとらくさのうちじに
 Atraxa's Skitterfang,アトラクサの疾牙,あとらくさのしっが,あとらくさのしっが
 "Atraxa, Grand Unifier",偉大なる統一者、アトラクサ,いだいなるとういつしゃあとらくさ,いだいなるとういつしゃあとらくさ
 "Atraxa, Praetors' Voice",法務官の声、アトラクサ,ほうむかんのこえあとらくさ,ほうむかんのこえあとらくさ
@@ -1157,6 +1176,7 @@ Attendant of Vraska,ヴラスカの従者,ゔらすかのじゅうしゃ,ゔら�
 Attended Healer,従者つきの癒し手,じゅうしゃつきのいやして,じゅうしゃつきのいやして
 Attended Knight,従者つきの騎士,じゅうしゃつきのきし,じゅうしゃつきのきし
 Attended Socialite,従者つきの社交家,じゅうしゃつきのしゃこうか,じゅうしゃつきのしゃこうか
+Attentive Skywarden,注意深い空守り,ちゅういぶかいそらまもり,ちゅういぶかいそらまもり
 Attrition,漸減,ぜんげん,ぜんげん
 Attune with Aether,霊気との調和,れいきとのちょうわ,れいきとのちょうわ
 Attunement,調律,ちょうりつ,ちょうりつ
@@ -1319,11 +1339,13 @@ Awaken the Ancient,古きものの目覚め,ふるきもののめざめ,ふる�
 Awaken the Bear,熊の覚醒,くまのかくせい,くまのかくせい
 Awaken the Blood Avatar,血の化身の目覚め,ちのけしんのめざめ,ちのけしんのめざめ
 Awaken the Erstwhile,往時軍の覚醒,おうじぐんのかくせい,おうじぐんのかくせい
+Awaken the Maelstrom,大渦の目覚め,おおうずのめざめ,おおうずのめざめ
 Awaken the Sky Tyrant,大空の暴君の目覚め,おおぞらのぼうくんのめざめ,おおぞらのぼうくんのめざめ
 Awaken the Sleeper,潜伏工作員の目覚め,せんぷくこうさくいんのめざめ,せんぷくこうさくいんのめざめ
 Awaken the Woods,森林の目覚め,しんりんのめざめ,しんりんのめざめ
 Awakened Amalgam,覚醒した融合体,かくせいしたゆうごうたい,かくせいしたゆうごうたい
 Awakened Awareness,覚醒した知覚,かくせいしたちかく,かくせいしたちかく
+Awakened Skyclave,覚醒したスカイクレイブ,かくせいしたすかいくれいぶ,かくせいしたすかいくれいぶ
 Awakener Druid,覚醒のドルイド,かくせいのどるいど,かくせいのどるいど
 Awakening,覚醒,かくせい,かくせい
 Awakening Zone,目覚めの領域,めざめのりょういき,めざめのりょういき
@@ -1339,11 +1361,14 @@ Axebane Stag,斧折りの雄鹿,おのおりのおじか,おのおりのおじ�
 Axegrinder Giant,斧研ぎの巨人,おのとぎのきょじん,おのとぎのきょじん
 Axelrod Gunnarson,アクセルロッド・グナーソン,あくせるろっどぐなーそん,あくせるろっどぐなーそん
 Axgard Armory,アクスガルドの武器庫,あくすがるどのぶきこ,あくすがるどのぶきこ
+Axgard Artisan,アクスガルドの職工,あくすがるどのしょっこう,あくすがるどのしょっこう
 Axgard Braggart,アクスガルドの自慢屋,あくすがるどのじまんや,あくすがるどのじまんや
 Axgard Cavalry,アクスガルドの騎兵,あくすがるどのきへい,あくすがるどのきへい
 Axiom Engraver,アクシオムの彫版師,あくしおむのちょうばんし,あくしおむのちょうばんし
 Axis of Mortality,定命の枢軸,じょうみょうのすうじく,じょうみょうのすうじく
 "Ayara, First of Locthwain",ロークスワインの元首、アヤーラ,ろーくすわいんのげんしゅあやーら,ろーくすわいんのげんしゅあやーら
+"Ayara, Furnace Queen",炉の女王、アヤーラ,ろのじょおうあやーら,ろのじょおうあやーら
+"Ayara, Widow of the Realm",王国の未亡人、アヤーラ,おうこくのみぼうじんあやーら,おうこくのみぼうじんあやーら
 Ayesha Tanaka,アーイシャ・タナカ,あーいしゃたなか,あーいしゃたなか
 "Ayesha Tanaka, Armorer",武具師、アーイシャ・タナカ,ぶぐしあーいしゃたなか,ぶぐしあーいしゃたなか
 "Ayli, Eternal Pilgrim",永代巡礼者、アイリ,えいだいじゅんれいしゃあいり,えいだいじゅんれいしゃあいり
@@ -1502,6 +1527,7 @@ Bant Sojourners,バントの滞留者,ばんとのたいりゅうしゃ,ばん�
 Bant Sureblade,バントの信刃,ばんとのしんじん,ばんとのしんじん
 Bar the Door,扉に閂,とびらにかんぬき,とびらにかんぬき
 Bar the Gate,ゲートを塞げ,げーとをふさげ,げーとをふさげ
+Baral and Kari Zev,バラルとカーリ・ゼヴ,ばらるとかーりぜゔ,ばらるとかーりぜゔ
 Baral's Expertise,バラルの巧技,ばらるのこうぎ,ばらるのこうぎ
 "Baral, Chief of Compliance",遵法長、バラル,じゅんぽうちょうばらる,じゅんぽうちょうばらる
 Barbarian Bully,蛮族の恐喝者,ばんぞくのきょうかつしゃ,ばんぞくのきょうかつしゃ
@@ -1675,6 +1701,7 @@ Beacon of Tomorrows,明日の標,あすのしるべ,あすのしるべ
 Beacon of Unrest,不穏の標,ふおんのしるべ,ふおんのしるべ
 Beaming Defiance,輝く抵抗,かがやくていこう,かがやくていこう
 Beamsplitter Mage,光線分割の魔道士,こうせんぶんかつのまどうし,こうせんぶんかつのまどうし
+Beamtown Beatstick,梁町の殴り棒,はりまちのなぐりぼう,はりまちのなぐりぼう
 Beanstalk Giant,豆の木の巨人,まめのきのきょじん,まめのきのきょじん
 Bear Cub,仔熊,こぐま,こぐま
 Bear Umbra,熊の陰影,くまのいんえい,くまのいんえい
@@ -1710,6 +1737,7 @@ Beetleform Mage,甲虫体の魔道士,こうちゅうたいのまどうし,こ�
 Befoul,汚れ,よごれ,よごれ
 Befriending the Moths,蛾との親睦,がとのしんぼく,がとのしんぼく
 Befuddle,混迷,こんめい,こんめい
+Begin the Invasion,侵攻開始,しんこうかいし,しんこうかいし
 Beguiler of Wills,意思の詐話師,いしのさわし,いしのさわし
 Behemoth Sledge,ビヒモスの大鎚,びひもすのおおづち,びひもすのおおづち
 Behemoth's Herald,ビヒモスの伝令,びひもすのでんれい,びひもすのでんれい
@@ -1723,6 +1751,7 @@ Belbe's Percher,ベルベイの怪鳥,べるべいのかいちょう,べるべ�
 Belbe's Portal,ベルベイの門,べるべいのもん,べるべいのもん
 "Belbe, Corrupted Observer",邪悪な選督使、ベルベイ,じゃあくなせんとくしべるべい,じゃあくなせんとくしべるべい
 Beledros Witherbloom,ベレドロス・ウィザーブルーム,べれどろすうぃざーぶるーむ,べれどろすうぃざーぶるーむ
+Belenon War Anthem,ベレノンの戦争頌歌,べれのんのせんそうしょうか,べれのんのせんそうしょうか
 Belfry Spirit,鐘楼のスピリット,しょうろうのすぴりっと,しょうろうのすぴりっと
 Believe,名分,めいぶん,めいぶん
 Belisarius Cawl,ベリサリウス・カウル,べりさりうすかうる,べりさりうすかうる
@@ -1731,6 +1760,7 @@ Belle of the Brawl,乱闘の華,らんとうのはな,らんとうのはな
 Belligerent Brontodon,好戦的なブロントドン,こうせんてきなぶろんとどん,こうせんてきなぶろんとどん
 Belligerent Guest,好戦的な客人,こうせんてきなきゃくじん,こうせんてきなきゃくじん
 Belligerent Hatchling,好戦的な雛,こうせんてきなひな,こうせんてきなひな
+Belligerent Regisaur,好戦的なレギサウルス,こうせんてきなれぎさうるす,こうせんてきなれぎさうるす
 Belligerent Sliver,好戦スリヴァー,こうせんすりゔぁー,こうせんすりゔぁー
 Belligerent Whiptail,好戦的な鞭尾,こうせんてきなむちお,こうせんてきなむちお
 Bellowing Aegisaur,吠えるイージサウルス,ほえるいーじさうるす,ほえるいーじさうるす
@@ -1864,6 +1894,7 @@ Bitterblade Warrior,苦刃の戦士,にがやいばのせんし,にがやいば�
 Bitterblossom,苦花,にがばな,にがばな
 Bitterbow Sharpshooters,苦弓の名射手,にがゆみのめいしゃしゅ,にがゆみのめいしゃしゅ
 Bitterheart Witch,苦心の魔女,くしんのまじょ,くしんのまじょ
+"Bitterthorn, Nissa's Animus",ニッサの欲動、苦茨,にっさのよくどうにがいばら,にっさのよくどうにがいばら
 Bituminous Blast,瀝青破,れきせいは,れきせいは
 Black Cat,黒猫,くろねこ,くろねこ
 Black Dragon,ブラック・ドラゴン,ぶらっくどらごん,ぶらっくどらごん
@@ -1905,6 +1936,7 @@ Bladeback Sliver,刃背スリヴァー,やいばせすりゔぁー,やいばせ�
 Bladebrand,焼印刃,やきいんやいば,やきいんやいば
 Bladecoil Serpent,刃とぐろの蛇,やいばとぐろのへび,やいばとぐろのへび
 Bladed Ambassador,刃ある大使,やいばあるたいし,やいばあるたいし
+Bladed Battle-Fan,刃の鉄扇,やいばのてっせん,やいばのてっせん
 Bladed Bracers,刃の篭手,やいばのこて,やいばのこて
 Bladed Pinions,刃の翼,やいばのつばさ,やいばのつばさ
 Bladed Sentinel,刃の歩哨,やいばのほしょう,やいばのほしょう
@@ -1982,12 +2014,14 @@ Blight Mamba,荒廃のマンバ,こうはいのまんば,こうはいのまん�
 Blight Mound,荒廃の塚,こうはいのつか,こうはいのつか
 Blight Pile,荒廃の塊,こうはいのかたまり,こうはいのかたまり
 Blight Sickle,荒廃の鎌,こうはいのかま,こうはいのかま
+Blight Titan,荒廃のタイタン,こうはいのたいたん,こうはいのたいたん
 Blight-Breath Catoblepas,枯れ息吹のカトブレパス,かれいぶきのかとぶれぱす,かれいぶきのかとぶれぱす
 Blightbeetle,荒廃甲虫,こうはいこうちゅう,こうはいこうちゅう
 Blightbelly Rat,腐り腹のネズミ,くさりばらのねずみ,くさりばらのねずみ
 Blightcaster,荒廃唱え,こうはいとなえ,こうはいとなえ
 Blighted Agent,荒廃の工作員,こうはいのこうさくいん,こうはいのこうさくいん
 Blighted Bat,枯死コウモリ,こしこうもり,こしこうもり
+Blighted Burgeoning,荒廃した芽ぐみ,こうはいしためぐみ,こうはいしためぐみ
 Blighted Cataract,荒廃した瀑布,こうはいしたばくふ,こうはいしたばくふ
 Blighted Fen,荒廃した湿原,こうはいしたしつげん,こうはいしたしつげん
 Blighted Gorge,荒廃した山峡,こうはいしたさんきょう,こうはいしたさんきょう
@@ -1995,7 +2029,9 @@ Blighted Shaman,破滅のシャーマン,はめつのしゃーまん,はめつ�
 Blighted Steppe,荒廃した草原,こうはいしたそうげん,こうはいしたそうげん
 Blighted Woodland,荒廃した森林,こうはいしたしんりん,こうはいしたしんりん
 Blightning,荒廃稲妻,こうはいいなずま,こうはいいなずま
+Blightreaper Thallid,荒廃刈りのサリッド,こうはいがりのさりっど,こうはいがりのさりっど
 Blightsoil Druid,病み土のドルイド,やみつちのどるいど,やみつちのどるいど
+Blightsower Thallid,荒廃蒔きのサリッド,こうはいまきのさりっど,こうはいまきのさりっど
 Blightspeaker,荒廃語り,こうはいがたり,こうはいがたり
 Blightsteel Colossus,荒廃鋼の巨像,こうはいはがねのきょぞう,こうはいはがねのきょぞう
 Blightstep Pathway,荒廃踏みの小道,こうはいふみのこみち,こうはいふみのこみち
@@ -2048,6 +2084,7 @@ Blizzard Elemental,吹雪の精霊,ふぶきのせいれい,ふぶきのせい�
 Blizzard Specter,吹雪の死霊,ふぶきのしりょう,ふぶきのしりょう
 Blizzard Strix,吹雪の大梟,ふぶきのおおふくろう,ふぶきのおおふくろう
 Bloated Contaminator,ふくれた汚染者,ふくれたおせんしゃ,ふくれたおせんしゃ
+Bloated Processor,ふくれた昇華者,ふくれたしょうかしゃ,ふくれたしょうかしゃ
 Bloated Toad,ふくれたヒキガエル,ふくれたひきがえる,ふくれたひきがえる
 Blockade Runner,封鎖破り,ふうさやぶり,ふうさやぶり
 Blockbuster,大爆発,だいばくはつ,だいばくはつ
@@ -2123,6 +2160,7 @@ Bloodcrazed Socialite,血に狂った社交家,ちにくるったしゃこうか
 Bloodcrusher of Khorne,ブラッドクラッシャー・オヴ・コーン,ぶらっどくらっしゃーおゔこーん,ぶらっどくらっしゃーおゔこーん
 Bloodcurdler,凍血鬼,とうけつき,とうけつき
 Bloodcurdling Scream,血も凍る悲鳴,ちもこおるひめい,ちもこおるひめい
+Bloodfeather Phoenix,血羽根のフェニックス,ちばねのふぇにっくす,ちばねのふぇにっくす
 Bloodfell Caves,血溜まりの洞窟,ちだまりのどうくつ,ちだまりのどうくつ
 Bloodfire Colossus,沸血の巨像,ふっけつのきょぞう,ふっけつのきょぞう
 Bloodfire Dwarf,沸血のドワーフ,ふっけつのどわーふ,ふっけつのどわーふ
@@ -2139,6 +2177,7 @@ Bloodgift Demon,血の贈与の悪魔,ちのぞうよのあくま,ちのぞう�
 Bloodhall Ooze,血の間の軟泥,ちのまのなんでい,ちのまのなんでい
 Bloodhall Priest,血の間の僧侶,ちのまのそうりょ,ちのまのそうりょ
 Bloodhaze Wolverine,血霞のクズリ,ちがすみのくずり,ちがすみのくずり
+Bloodhill Bastion,血丘の砦,けっきゅうのとりで,けっきゅうのとりで
 Bloodhunter Bat,血狩りコウモリ,ちがりこうもり,ちがりこうもり
 Bloodhusk Ritualist,血鞘の儀式者,ちざやのぎしきしゃ,ちざやのぎしきしゃ
 Bloodied Ghost,血まみれの幽霊,ちまみれのゆうれい,ちまみれのゆうれい
@@ -2192,6 +2231,7 @@ Bloody Betrayal,血の裏切り,ちのうらぎり,ちのうらぎり
 Bloom Hulk,開花の巨体,かいかのきょたい,かいかのきょたい
 Bloom Tender,花を手入れする者,はなをていれするもの,はなをていれするもの
 Blooming Marsh,花盛りの湿地,はなざかりのしっち,はなざかりのしっち
+Bloomwielder Dryads,花帯びのドライアド,はなおびのどらいあど,はなおびのどらいあど
 Blossom Dryad,開花のドライアド,かいかのどらいあど,かいかのどらいあど
 Blossom Prancer,花咲く跳獣,はなさくちょうじゅう,はなさくちょうじゅう
 Blossom-Clad Werewolf,花纏いの人狼,はなまといのじんろう,はなまといのじんろう
@@ -2272,6 +2312,7 @@ Boiling Earth,沸き立つ大地,わきたつだいち,わきたつだいち
 Boiling Seas,沸き立つ海,わきたつうみ,わきたつうみ
 Bojuka Bog,ボジューカの沼,ぼじゅーかのぬま,ぼじゅーかのぬま
 Bojuka Brigand,ボジューカの盗賊,ぼじゅーかのとうぞく,ぼじゅーかのとうぞく
+Bola Slinger,ボーラ投石手,ぼーらとうせきしゅ,ぼーらとうせきしゅ
 Bola Warrior,ボーラの戦士,ぼーらのせんし,ぼーらのせんし
 Bolas's Citadel,ボーラスの城塞,ぼーらすのじょうさい,ぼーらすのじょうさい
 Bold Defense,勇敢な防御,ゆうかんなぼうぎょ,ゆうかんなぼうぎょ
@@ -2298,6 +2339,7 @@ Bond of Passion,激情の絆,げきじょうのきずな,げきじょうのき�
 Bond of Revival,蘇生の絆,そせいのきずな,そせいのきずな
 Bonded Construct,結束した構築物,けっそくしたこうちくぶつ,けっそくしたこうちくぶつ
 Bonded Fetch,結ばれた奪い取り,むすばれたうばいとり,むすばれたうばいとり
+Bonded Herdbeast,結束した群獣,けっそくしたぐんじゅう,けっそくしたぐんじゅう
 Bonded Horncrest,結束した角冠,けっそくしたつのかんむり,けっそくしたつのかんむり
 Bonder's Ornament,眷者の装飾品,けんじゃのそうしょくひん,けんじゃのそうしょくひん
 Bonders' Enclave,眷者の居留地,けんじゃのきょりゅうち,けんじゃのきょりゅうち
@@ -2355,12 +2397,14 @@ Boon of Emrakul,エムラクールの加護,えむらくーるのかご,えむ�
 Boon of Erebos,エレボスの加護,えれぼすのかご,えれぼすのかご
 Boon of Safety,安全の加護,あんぜんのかご,あんぜんのかご
 Boon of the Wish-Giver,願い与えの加護,ねがいあたえのかご,ねがいあたえのかご
+Boon-Bringer Valkyrie,加護をもたらす戦乙女,かごをもたらすいくさおとめ,かごをもたらすいくさおとめ
 Boonweaver Giant,加護織りの巨人,かごおりのきょじん,かごおりのきょじん
 Boot Nipper,靴かじり,くつかじり,くつかじり
 Bootleggers' Stash,密造酒屋の隠し財産,みつぞうしゅやのかくしざいさん,みつぞうしゅやのかくしざいさん
 Boots of Speed,ブーツ・オヴ・スピード,ぶーつおゔすぴーど,ぶーつおゔすぴーど
 Borborygmos,腹音鳴らし,はらおとならし,はらおとならし
 Borborygmos Enraged,怒れる腹音鳴らし,いかれるはらおとならし,いかれるはらおとならし
+Borborygmos and Fblthp,腹音鳴らしとフブルスプ,はらおとならしとふぶるすぷ,はらおとならしとふぶるすぷ
 Border Guard,国境警備隊,こっきょうけいびたい,こっきょうけいびたい
 Border Patrol,国境巡回兵,こっきょうじゅんかいへい,こっきょうじゅんかいへい
 Borderland Behemoth,国境地帯のビヒモス,こっきょうちたいのびひもす,こっきょうちたいのびひもす
@@ -2406,6 +2450,7 @@ Boseiju Reaches Skyward,天空に到る母聖樹,てんくうにいたるぼせ�
 Bosium Strip,ブージーアムの輪,ぶーじーあむのわ,ぶーじーあむのわ
 Bosk Banneret,低木林の旗騎士,ていぼくりんのはたきし,ていぼくりんのはたきし
 Boss's Chauffeur,首領の運転手,しゅりょうのうんてんしゅ,しゅりょうのうんてんしゅ
+Botanical Brawler,植物の喧嘩屋,しょくぶつのけんかや,しょくぶつのけんかや
 Botanical Plaza,植物広場,しょくぶつひろば,しょくぶつひろば
 Botanical Sanctum,植物の聖域,しょくぶつのせいいき,しょくぶつのせいいき
 Bothersome Quasit,面倒なクアジット,めんどうなくあじっと,めんどうなくあじっと
@@ -2513,6 +2558,7 @@ Brazen Scourge,真鍮の災い魔,しんちゅうのわざわいま,しんちゅ
 Brazen Upstart,厚顔な成り上がり,こうがんななりあがり,こうがんななりあがり
 Brazen Wolves,猛々しい狼,たけだけしいおおかみ,たけだけしいおおかみ
 Breach,突入口,とつにゅうこう,とつにゅうこう
+Breach the Multiverse,多元宇宙の突破,たげんうちゅうのとっぱ,たげんうちゅうのとっぱ
 Breaching Hippocamp,水跳ねの海馬,みずはねのかいば,みずはねのかいば
 Breaching Leviathan,水跳ねのリバイアサン,みずはねのりばいあさん,みずはねのりばいあさん
 Break Asunder,破断,はだん,はだん
@@ -2563,6 +2609,7 @@ Bribery,袖の下,そでのした,そでのした
 Bride's Gown,花嫁衣装,はなよめいしょう,はなよめいしょう
 Bridge from Below,黄泉からの橋,よみからのはし,よみからのはし
 Bright Reprisal,輝く報復,かがやくほうふく,かがやくほうふく
+"Bright-Palm, Soul Awakener",魂を呼び覚ます者、煌拳,たましいをよびさますものおうけん,たましいをよびさますものおうけん
 Brightclimb Pathway,陽光昇りの小道,ようこうのぼりのこみち,ようこうのぼりのこみち
 Brightflame,光り輝く炎,ひかりかがやくほのお,ひかりかがやくほのお
 Brighthearth Banneret,ブライトハースの旗騎士,ぶらいとはーすのはたきし,ぶらいとはーすのはたきし
@@ -2576,6 +2623,7 @@ Brilliant Plan,妙計,みょうけい,みょうけい
 Brilliant Restoration,目覚ましい修復術,めざましいしゅうふくじゅつ,めざましいしゅうふくじゅつ
 Brilliant Spectrum,輝く光波,かがやくこうは,かがやくこうは
 Brilliant Ultimatum,輝く根本原理,かがやくこんぽんげんり,かがやくこんぽんげんり
+"Brimaz, Blight of Oreskos",オレスコスの破滅、ブリマーズ,おれすこすのはめつぶりまーず,おれすこすのはめつぶりまーず
 "Brimaz, King of Oreskos",オレスコスの王、ブリマーズ,おれすこすのおうぶりまーず,おれすこすのおうぶりまーず
 Brimstone Dragon,硫黄のドラゴン,いおうのどらごん,いおうのどらごん
 Brimstone Mage,硫黄石の魔道士,いおうせきのまどうし,いおうせきのまどうし
@@ -2737,6 +2785,7 @@ Burning Prophet,燃え立つ預言者,もえたつよげんしゃ,もえたつ�
 Burning Sands,熱砂,ねっさ,ねっさ
 Burning Shield Askari,燃ゆる盾のアスカーリ,もゆるたてのあすかーり,もゆるたてのあすかーり
 Burning Sun's Avatar,焼熱の太陽の化身,しょうねつのたいようのけしん,しょうねつのたいようのけしん
+Burning Sun's Fury,焼熱の太陽の激情,しょうねつのたいようのげきじょう,しょうねつのたいようのげきじょう
 Burning Vengeance,燃え立つ復讐,もえたつふくしゅう,もえたつふくしゅう
 Burning Wish,燃え立つ願い,もえたつねがい,もえたつねがい
 Burning of Xinye,新野の火計,しんやのかけい,しんやのかけい
@@ -2748,6 +2797,7 @@ Burning-Tree Emissary,炎樹族の使者,えんじゅぞくのししゃ,えん�
 Burning-Tree Shaman,炎樹族のシャーマン,えんじゅぞくのしゃーまん,えんじゅぞくのしゃーまん
 Burning-Tree Vandal,炎樹族の蛮人,えんじゅぞくのばんじん,えんじゅぞくのばんじん
 Burning-Yard Trainer,燃焦苑の教練者,ねんしょうえんのきょうれんしゃ,ねんしょうえんのきょうれんしゃ
+Burnished Dunestomper,つややかな砂丘踏み,つややかなさきゅうふみ,つややかなさきゅうふみ
 Burnished Hart,つややかな雄鹿,つややかなおじか,つややかなおじか
 Burr Grafter,刻みを継ぐもの,きざみをつぐもの,きざみをつぐもの
 Burrenton Bombardier,ブレンタンの爆撃手,ぶれんたんのばくげきしゅ,ぶれんたんのばくげきしゅ
@@ -2816,6 +2866,7 @@ Cadaverous Bloom,死体の花,したいのはな,したいのはな
 Cadaverous Knight,青褪めた騎士,あおざめたきし,あおざめたきし
 "Cadira, Caller of the Small",小さきものの呼び手、カディラ,ちいさきもののよびてかでぃら,ちいさきもののよびてかでぃら
 "Cadric, Soul Kindler",魂の焚きつけ屋、カドリック,たましいのたきつけやかどりっく,たましいのたきつけやかどりっく
+"Caetus, Sea Tyrant of Segovia",セゴビアの海暴君、カエトス,せごびあのうみぼうくんかえとす,せごびあのうみぼうくんかえとす
 Cage of Hands,手の檻,てのおり,てのおり
 Caged Sun,かごの中の太陽,かごのなかのたいよう,かごのなかのたいよう
 Caged Zombie,檻の中のゾンビ,おりのなかのぞんび,おりのなかのぞんび
@@ -2953,6 +3004,7 @@ Captivating Unicorn,蠱惑的なユニコーン,こわくてきなゆにこー�
 Captivating Vampire,蟲惑的な吸血鬼,こわくてきなきゅうけつき,こわくてきなきゅうけつき
 Captive Audience,囚われの聴衆,とらわれのちょうしゅう,とらわれのちょうしゅう
 Captive Flame,捕らわれの炎,とらわれのほのお,とらわれのほのお
+Captive Weird,囚われの奇魔,とらわれのきま,とらわれのきま
 Capture Sphere,捕獲球,ほかくきゅう,ほかくきゅう
 Capture of Jingzhou,荊州占拠,けいしゅうせんきょ,けいしゅうせんきょ
 Captured Sunlight,捕らえられた陽光,とらえられたようこう,とらえられたようこう
@@ -3283,6 +3335,7 @@ Chandra's Triumph,チャンドラの勝利,ちゃんどらのしょうり,ちゃ
 "Chandra, Flame's Fury",炎の憤怒、チャンドラ,ほのおのふんぬちゃんどら,ほのおのふんぬちゃんどら
 "Chandra, Flamecaller",炎呼び、チャンドラ,ほのおよびちゃんどら,ほのおよびちゃんどら
 "Chandra, Heart of Fire",炎の心、チャンドラ,ほのおのこころちゃんどら,ほのおのこころちゃんどら
+"Chandra, Hope's Beacon",希望の標、チャンドラ,きぼうのしるべちゃんどら,きぼうのしるべちゃんどら
 "Chandra, Novice Pyromancer",新米紅蓮術師、チャンドラ,しんまいぐれんじゅつしちゃんどら,しんまいぐれんじゅつしちゃんどら
 "Chandra, Pyrogenius",紅蓮の俊英、チャンドラ,ぐれんのしゅんえいちゃんどら,ぐれんのしゅんえいちゃんどら
 "Chandra, Pyromaster",紅蓮の達人チャンドラ,ぐれんのたつじんちゃんどら,ぐれんのたつじんちゃんどら
@@ -3292,6 +3345,7 @@ Chandra's Triumph,チャンドラの勝利,ちゃんどらのしょうり,ちゃ
 Change of Fortune,運命の改変,うんめいのかいへん,うんめいのかいへん
 Change of Heart,心変わり,こころがわり,こころがわり
 Change of Plans,予定変更,よていへんこう,よていへんこう
+Change the Equation,方程式の改変,ほうていしきのかいへん,ほうていしきのかいへん
 Changeling Berserker,変わり身の狂戦士,かわりみのきょうせんし,かわりみのきょうせんし
 Changeling Hero,変わり身の勇士,かわりみのゆうし,かわりみのゆうし
 Changeling Outcast,変わり身ののけ者,かわりみののけもの,かわりみののけもの
@@ -3317,6 +3371,7 @@ Chaos Wand,混沌のワンド,こんとんのわんど,こんとんのわんど
 Chaos Warp,混沌のねじれ,こんとんのねじれ,こんとんのねじれ
 Chaoslace,混沌の色,こんとんのいろ,こんとんのいろ
 Chaosphere,混沌界,こんとんかい,こんとんかい
+Chaotic AEther,混沌の霊気,こんとんのれいき,こんとんのれいき
 Chaotic Backlash,混沌とした反発,こんとんとしたはんぱつ,こんとんとしたはんぱつ
 Chaotic Goo,混沌のグー,こんとんのぐー,こんとんのぐー
 Chaotic Strike,混沌の一撃,こんとんのいちげき,こんとんのいちげき
@@ -3422,6 +3477,7 @@ Chittering Rats,騒がしいネズミ,さわがしいねずみ,さわがしい�
 Chittering Skitterling,騒がしい這い回り,さわがしいはいまわり,さわがしいはいまわり
 Chittering Witch,さえずる魔女,さえずるまじょ,さえずるまじょ
 Chitterspitter,囀り吐き,さえずりはき,さえずりはき
+Chivalric Alliance,騎士の団結,きしのだんけつ,きしのだんけつ
 Chlorophant,クロロファント,くろろふぁんと,くろろふぁんと
 Cho-Arrim Alchemist,チョー＝アリムの錬金術師,ちょーありむのれんきんじゅつし,ちょーありむのれんきんじゅつし
 Cho-Arrim Bruiser,チョー＝アリムの暴れ者,ちょーありむのあばれもの,ちょーありむのあばれもの
@@ -3437,6 +3493,7 @@ Choking Restraints,絞首束縛,こうしゅそくばく,こうしゅそくば�
 Choking Sands,押し寄せる砂,おしよせるすな,おしよせるすな
 Choking Tethers,締めつける綱,しめつけるつな,しめつけるつな
 Choking Vines,窒息ツタ,ちっそくつた,ちっそくつた
+Chomping Kavu,食らいつくカヴー,くらいつくかゔー,くらいつくかゔー
 Choose Your Champion,貴様共の勇者を選べ,きさまどものゆうしゃをえらべ,きさまどものゆうしゃをえらべ
 Choose Your Weapon,武器を選択せよ,ぶきをせんたくせよ,ぶきをせんたくせよ
 Chop Down,切り落とし,きりおとし,きりおとし
@@ -3454,6 +3511,8 @@ Chromatic Sphere,彩色の宝球,さいしょくのほうきゅう,さいしょ�
 Chromatic Star,彩色の星,さいしょくのほし,さいしょくのほし
 Chrome Cat,金属猫,きんぞくねこ,きんぞくねこ
 Chrome Courier,金属の急使,きんぞくのきゅうし,きんぞくのきゅうし
+Chrome Host Hulk,金属の徒党の大男,きんぞくのととうのおおおとこ,きんぞくのととうのおおおとこ
+Chrome Host Seedshark,金属の徒党の種子鮫,きんぞくのととうのしゅしざめ,きんぞくのととうのしゅしざめ
 Chrome Mox,金属モックス,きんぞくもっくす,きんぞくもっくす
 Chrome Prowler,金属のうろつくもの,きんぞくのうろつくもの,きんぞくのうろつくもの
 Chrome Replicator,金属複製機,きんぞくふくせいき,きんぞくふくせいき
@@ -3531,6 +3590,7 @@ Citizen's Crowbar,市民の鉄梃,しみんのかなてこ,しみんのかなて
 City of Brass,真鍮の都,しんちゅうのみやこ,しんちゅうのみやこ
 City of Solitude,孤独の都,こどくのみやこ,こどくのみやこ
 City of Traitors,裏切り者の都,うらぎりもののみやこ,うらぎりもののみやこ
+City on Fire,燃える都市,もえるとし,もえるとし
 Cityscape Leveler,街並みの地ならし屋,まちなみのじならしや,まちなみのじならしや
 Citywatch Sphinx,街見張りのスフィンクス,まちみはりのすふぃんくす,まちみはりのすふぃんくす
 Citywide Bust,一斉検挙,いっせいけんきょ,いっせいけんきょ
@@ -3752,6 +3812,7 @@ Collective Blessing,集団的祝福,しゅうだんてきしゅくふく,しゅ�
 Collective Brutality,集団的蛮行,しゅうだんてきばんこう,しゅうだんてきばんこう
 Collective Defiance,集団的抵抗,しゅうだんてきていこう,しゅうだんてきていこう
 Collective Effort,集団的努力,しゅうだんてきどりょく,しゅうだんてきどりょく
+Collective Nightmare,集団的悪夢,しゅうだんてきあくむ,しゅうだんてきあくむ
 Collective Restraint,集団監禁,しゅうだんかんきん,しゅうだんかんきん
 Collective Unconscious,集団潜在意識,しゅうだんせんざいいしき,しゅうだんせんざいいしき
 Collective Voyage,集団的航海,しゅうだんてきこうかい,しゅうだんてきこうかい
@@ -3789,6 +3850,7 @@ Combust,焼却,しょうきゃく,しょうきゃく
 Combustible Gearhulk,焼却の機械巨人,しょうきゃくのきかいきょじん,しょうきゃくのきかいきょじん
 Comet Storm,彗星の嵐,すいせいのあらし,すいせいのあらし
 Comeuppance,誅罰,ちゅうばつ,ちゅうばつ
+Coming In Hot,灼熱の突撃,しゃくねつのとつげき,しゃくねつのとつげき
 Command Beacon,統率の灯台,とうそつのとうだい,とうそつのとうだい
 Command Tower,統率の塔,とうそつのとう,とうそつのとう
 Command of Unsummoning,送還命令,そうかんめいれい,そうかんめいれい
@@ -3823,7 +3885,10 @@ Compelled Duel,コンペルド・デュエル,こんぺるどでゅえる,こん
 Compelling Argument,抗えない主張,あらがえないしゅちょう,あらがえないしゅちょう
 Compelling Deterrence,抗えない抑止,あらがえないよくし,あらがえないよくし
 Compleat Devotion,完成化の祈り,かんせいかのいのり,かんせいかのいのり
+Compleated Conjurer,完成化した妖術師,かんせいかしたようじゅつし,かんせいかしたようじゅつし
+Compleated Huntmaster,完成化した猟匠,かんせいかしたりょうしょう,かんせいかしたりょうしょう
 Complete Disregard,完全無視,かんぜんむし,かんぜんむし
+Complete the Circuit,回路の完成,かいろのかんせい,かいろのかんせい
 Complex Automaton,複雑な自動人形,ふくざつなじどうにんぎょう,ふくざつなじどうにんぎょう
 Complicate,紛糾,ふんきゅう,ふんきゅう
 Comply,面従,めんじゅう,めんじゅう
@@ -3845,6 +3910,7 @@ Conclave Guildmage,議事会のギルド魔道士,ぎじかいのぎるどまど
 Conclave Mentor,議事会の導師,ぎじかいのどうし,ぎじかいのどうし
 Conclave Naturalists,議事会の自然主義者,ぎじかいのしぜんしゅぎしゃ,ぎじかいのしぜんしゅぎしゃ
 Conclave Phalanx,議事会の密集軍,ぎじかいのみっしゅうぐん,ぎじかいのみっしゅうぐん
+Conclave Sledge-Captain,議事会の大鎚隊長,ぎじかいのおおづちたいちょう,ぎじかいのおおづちたいちょう
 Conclave Tribunal,議事会の裁き,ぎじかいのさばき,ぎじかいのさばき
 Conclave's Blessing,議事会の祝福,ぎじかいのしゅくふく,ぎじかいのしゅくふく
 Concoct,奇策,きさく,きさく
@@ -3880,6 +3946,7 @@ Conjured Currency,妖術による金,ようじゅつによるかね,ようじゅ
 Conjurer's Ban,妖術師の封印,ようじゅつしのふういん,ようじゅつしのふういん
 Conjurer's Bauble,妖術師のガラクタ,ようじゅつしのがらくた,ようじゅつしのがらくた
 Conjurer's Closet,妖術師の衣装部屋,ようじゅつしのいしょうべや,ようじゅつしのいしょうべや
+Conjurer's Mantle,妖術師の外套,ようじゅつしのがいとう,ようじゅつしのがいとう
 Connive,詭謀,きぼう,きぼう
 Conquer,征服,せいふく,せいふく
 Conquering Manticore,征服するマンティコア,せいふくするまんてぃこあ,せいふくするまんてぃこあ
@@ -3918,6 +3985,7 @@ Consume Spirit,魂の消耗,たましいのしょうもう,たましいのしょ
 Consume Strength,力の消耗,ちからのしょうもう,ちからのしょうもう
 Consume the Meek,弱者の消耗,じゃくしゃのしょうもう,じゃくしゃのしょうもう
 Consuming Aberration,破壊的な逸脱者,はかいてきないつだつしゃ,はかいてきないつだつしゃ
+Consuming Aetherborn,破壊的な霊基体,はかいてきなれいきたい,はかいてきなれいきたい
 Consuming Blob,消化の泥塊,しょうかのでいかい,しょうかのでいかい
 Consuming Bonfire,破壊的なかがり火,はかいてきなかがりび,はかいてきなかがりび
 Consuming Ferocity,血の狂乱,ちのきょうらん,ちのきょうらん
@@ -3963,6 +4031,7 @@ Convalescent Care,病みあがりの介護,やみあがりのかいご,やみあ
 Convergence of Dominion,結集せし支配碑,けっしゅうせししはいひ,けっしゅうせししはいひ
 Conversion,変換,へんかん,へんかん
 Conversion Chamber,変換室,へんかんしつ,へんかんしつ
+Converter Beast,改宗獣,かいしゅうじゅう,かいしゅうじゅう
 Convicted Killer,既決殺人犯,きけつさつじんはん,きけつさつじんはん
 Conviction,罪の自覚,つみのじかく,つみのじかく
 Convincing Mirage,見紛う蜃気楼,みまごうしんきろう,みまごうしんきろう
@@ -3974,6 +4043,7 @@ Coordinated Barrage,揃った連射,そろったれんしゃ,そろったれん�
 Coordinated Charge,揃った突撃,そろったとつげき,そろったとつげき
 Copper Carapace,銅の甲殻,どうのこうかく,どうのこうかく
 Copper Gnomes,銅のノーム,どうののーむ,どうののーむ
+Copper Host Crusher,銅の徒党の破壊屋,どうのととうのはかいや,どうのととうのはかいや
 Copper Longlegs,銅の足長虫,どうのあしながむし,どうのあしながむし
 Copper Myr,銅のマイア,どうのまいあ,どうのまいあ
 Copper-Leaf Angel,銅箔の天使,どうはくのてんし,どうはくのてんし
@@ -4028,6 +4098,7 @@ Corrupt Court Official,堕落した廷臣,だらくしたていしん,だらく�
 Corrupt Eunuchs,堕落した宦官,だらくしたかんがん,だらくしたかんがん
 Corrupt Official,堕落した役人,だらくしたやくにん,だらくしたやくにん
 Corrupted Conscience,堕落した良心,だらくしたりょうしん,だらくしたりょうしん
+Corrupted Conviction,堕落した確信,だらくしたかくしん,だらくしたかくしん
 Corrupted Crossroads,廃集落,はいしゅうらく,はいしゅうらく
 Corrupted Grafstone,崩れた墓石,くずれたぼせき,くずれたぼせき
 Corrupted Harvester,堕落した収穫者,だらくしたしゅうかくしゃ,だらくしたしゅうかくしゃ
@@ -4035,12 +4106,14 @@ Corrupted Resolve,堕落した決意,だらくしたけつい,だらくしたけ
 Corrupted Roots,腐敗した根,ふはいしたね,ふはいしたね
 Corrupted Zendikon,腐敗したゼンディコン,ふはいしたぜんでぃこん,ふはいしたぜんでぃこん
 Corrupting Licid,堕落するリシド,だらくするりしど,だらくするりしど
+Corruption of Towashi,都和市の堕落,とわしのだらく,とわしのだらく
 Corsair Captain,海賊船長,かいぞくせんちょう,かいぞくせんちょう
 Cosi's Ravager,コーシの荒廃者,こーしのこうはいしゃ,こーしのこうはいしゃ
 Cosi's Trickster,コーシのペテン師,こーしのぺてんし,こーしのぺてんし
 "Cosima, God of the Voyage",航海の神、コシマ,こうかいのかみこしま,こうかいのかみこしま
 Cosmic Epiphany,星界の天啓,せいかいのてんけい,せいかいのてんけい
 Cosmic Horror,星界からの恐怖,せいかいからのきょうふ,せいかいからのきょうふ
+Cosmic Hunger,星界の飢餓,せいかいのきが,せいかいのきが
 Cosmic Intervention,星界の介入,せいかいのかいにゅう,せいかいのかいにゅう
 Cosmic Larva,星界の幼生,せいかいのようせい,せいかいのようせい
 Cosmos Charger,星界の軍馬,せいかいのぐんば,せいかいのぐんば
@@ -4128,6 +4201,7 @@ Crag Saurian,岩山トカゲ,いわやまとかげ,いわやまとかげ
 Cragcrown Pathway,岩山被りの小道,いわやまかぶりのこみち,いわやまかぶりのこみち
 Cragganwick Cremator,クラガンウィックの死体焼却者,くらがんうぃっくのしたいしょうきゃくしゃ,くらがんうぃっくのしたいしょうきゃくしゃ
 Cragplate Baloth,岩山鎧のベイロス,いわやまよろいのべいろす,いわやまよろいのべいろす
+Cragsmasher Yeti,岩山砕きのイエティ,いわやまくだきのいえてぃ,いわやまくだきのいえてぃ
 Cram Session,詰め込み期間,つめこみきかん,つめこみきかん
 Cranial Archive,頭蓋書庫,ずがいしょこ,ずがいしょこ
 Cranial Extraction,頭蓋の摘出,ずがいのてきしゅつ,ずがいのてきしゅつ
@@ -4328,6 +4402,7 @@ Cryptothrall,クリプトスロール,くりぷとすろーる,くりぷとす�
 Cryptwailing,墓所の嘆き声,ぼしょのなげきごえ,ぼしょのなげきごえ
 Crystacean,晶殻ガニ,しょうかくがに,しょうかくがに
 Crystal Ball,水晶球,すいしょうきゅう,すいしょうきゅう
+Crystal Carapace,水晶の甲殻,すいしょうのこうかく,すいしょうのこうかく
 Crystal Chimes,水晶のチャイム,すいしょうのちゃいむ,すいしょうのちゃいむ
 Crystal Dragon,クリスタル・ドラゴン,くりすたるどらごん,くりすたるどらごん
 Crystal Golem,水晶のゴーレム,すいしょうのごーれむ,すいしょうのごーれむ
@@ -4456,6 +4531,7 @@ Custody Battle,権利争い,けんりあらそい,けんりあらそい
 Customs Depot,保税倉庫,ほぜいそうこ,ほぜいそうこ
 Cut,木端,こっぱ,こっぱ
 Cut Down,切り崩し,きりくずし,きりくずし
+Cut Short,割込み,わりこみ,わりこみ
 Cut Your Losses,損切り,そんきり,そんきり
 Cut a Deal,取り引き,とりひき,とりひき
 Cut of the Profits,一切れの利益,ひときれのりえき,ひときれのりえき
@@ -4464,6 +4540,7 @@ Cut the Tethers,いましめの切断,いましめのせつだん,いましめ�
 Cutthroat Centurion,殺しの百長,ころしのひゃくちょう,ころしのひゃくちょう
 Cutthroat Contender,殺しの競技者,ころしのきょうぎしゃ,ころしのきょうぎしゃ
 Cutthroat Maneuver,殺し屋の行動,ころしやのこうどう,ころしやのこうどう
+Cutthroat Negotiator,殺し屋の交渉人,ころしやのこうしょうにん,ころしやのこうしょうにん
 Cutthroat il-Dal,ダル追われの殺し屋,だるおわれのころしや,だるおわれのころしや
 Cyberdrive Awakener,サイバードライブの起動者,さいばーどらいぶのきどうしゃ,さいばーどらいぶのきどうしゃ
 Cybernetica Datasmith,サイバネティカ・データスミス,さいばねてぃかでーたすみす,さいばねてぃかでーたすみす
@@ -4529,6 +4606,7 @@ Dance of Many,あまたの舞い,あまたのまい,あまたのまい
 Dance of Shadows,影の舞い,かげのまい,かげのまい
 Dance of the Manse,屋敷の踊り,やしきのおどり,やしきのおどり
 Dance of the Skywise,空智の踊り,くうちのおどり,くうちのおどり
+Dance with Calamity,災厄と踊る,さいやくとおどる,さいやくとおどる
 Dance with Devils,悪魔と踊る,あくまとおどる,あくまとおどる
 "Dance, Pathetic Marionette",踊れ、哀れな人形よ,おどれあわれなにんぎょうよ,おどれあわれなにんぎょうよ
 Dancing Scimitar,踊る円月刀,おどるえんげつとう,おどるえんげつとう
@@ -4622,6 +4700,7 @@ Darksteel Plate,ダークスティールの板金鎧,だーくすてぃーるの
 Darksteel Reactor,ダークスティールの反応炉,だーくすてぃーるのはんのうろ,だーくすてぃーるのはんのうろ
 Darksteel Relic,ダークスティールの秘宝,だーくすてぃーるのひほう,だーくすてぃーるのひほう
 Darksteel Sentinel,ダークスティールの歩哨,だーくすてぃーるのほしょう,だーくすてぃーるのほしょう
+Darksteel Splicer,ダークスティールの接合者,だーくすてぃーるのせつごうしゃ,だーくすてぃーるのせつごうしゃ
 Darkthicket Wolf,暗茂みの狼,くらしげみのおおかみ,くらしげみのおおかみ
 Darkwatch Elves,闇番のエルフ,やみばんのえるふ,やみばんのえるふ
 Darkwater Catacombs,ダークウォーターの地下墓地,だーくうぉーたーのちかぼち,だーくうぉーたーのちかぼち
@@ -4740,6 +4819,7 @@ Deadly Alliance,命取りの協力,いのちとりのきょうりょく,いの�
 Deadly Allure,命取りの魅惑,いのちとりのみわく,いのちとりのみわく
 Deadly Brew,死に至る醸造,しにいたるじょうぞう,しにいたるじょうぞう
 Deadly Dancer,命取りの踊り手,いのちとりのおどりて,いのちとりのおどりて
+Deadly Derision,命を奪う嘲笑,いのちをうばうちょうしょう,いのちをうばうちょうしょう
 Deadly Designs,命取りの企て,いのちとりのくわだて,いのちとりのくわだて
 Deadly Dispute,命取りの論争,いのちとりのろんそう,いのちとりのろんそう
 Deadly Grub,命取りの幼虫,いのちとりのようちゅう,いのちとりのようちゅう
@@ -4794,6 +4874,7 @@ Death's Oasis,死のオアシス,しのおあしす,しのおあしす
 Death's Presence,死の存在,しのそんざい,しのそんざい
 Death's Shadow,死の影,しのかげ,しのかげ
 Death's-Head Buzzard,死神頭のノスリ,しにがみあたまののすり,しにがみあたまののすり
+Death-Greeter's Champion,死を出迎える勇者,しをでむかえるゆうしゃ,しをでむかえるゆうしゃ
 Death-Hood Cobra,死の頭巾のコブラ,しのずきんのこぶら,しのずきんのこぶら
 Death-Mask Duplicant,死面の映し身人形,しめんのうつしみにんぎょう,しめんのうつしみにんぎょう
 Death-Priest of Myrkul,ミルクルの死の僧侶,みるくるのしのそうりょ,みるくるのしのそうりょ
@@ -4892,6 +4973,7 @@ Deeproot Champion,深根の勇者,ふかねのゆうしゃ,ふかねのゆうし
 Deeproot Elite,深根の精鋭,ふかねのせいえい,ふかねのせいえい
 Deeproot Warrior,深根の戦士,ふかねのせんし,ふかねのせんし
 Deeproot Waters,深根の水域,ふかねのすいいき,ふかねのすいいき
+Deeproot Wayfinder,深根の道探し,ふかねのみちさがし,ふかねのみちさがし
 Deeptread Merrow,深海踏みのメロウ,しんかいふみのめろう,しんかいふみのめろう
 Deepwater Hypnotist,深海の催眠術師,しんかいのさいみんじゅつし,しんかいのさいみんじゅつし
 Deepwood Denizen,ディープウッドの住人,でぃーぷうっどのじゅうにん,でぃーぷうっどのじゅうにん
@@ -4928,6 +5010,7 @@ Defiant Ogre,反抗するオーガ,はんこうするおーが,はんこうす�
 Defiant Salvager,強気な回収者,つよきなかいしゅうしゃ,つよきなかいしゅうしゃ
 Defiant Stand,果敢な抵抗,かかんなていこう,かかんなていこう
 Defiant Strike,果敢な一撃,かかんないちげき,かかんないちげき
+Defiant Thundermaw,果敢な雷口,かかんならいこう,かかんならいこう
 Defiant Vanguard,果敢な先兵,かかんなせんぺい,かかんなせんぺい
 Defile,汚涜,おとく,おとく
 Defiler of Dreams,夢を穢すもの,ゆめをけがすもの,ゆめをけがすもの
@@ -4964,7 +5047,9 @@ Deliver,救難,きゅうなん,きゅうなん
 Deliver Unto Evil,悪への引き渡し,あくへのひきわたし,あくえのひきわたし
 Delraich,デルレイッチ,でるれいっち,でるれいっち
 Deluge,大洪水,だいこうずい,だいこうずい
+Deluge of the Dead,死者の氾濫,ししゃのはんらん,ししゃのはんらん
 Delusions of Mediocrity,凡人の錯覚,ぼんじんのさっかく,ぼんじんのさっかく
+Deluxe Dragster,高級競走車,こうきゅうきょうそうしゃ,こうきゅうきょうそうしゃ
 Delver of Secrets,秘密を掘り下げる者,ひみつをほりさげるもの,ひみつをほりさげるもの
 Delver's Torch,発掘者の松明,はっくつしゃのたいまつ,はっくつしゃのたいまつ
 Demand,需要,じゅよう,じゅよう
@@ -5276,6 +5361,7 @@ Disciple of the Ring,輪の信奉者,りんのしんぽうしゃ,りんのしん
 Disciple of the Sun,太陽の信奉者,たいようのしんぽうしゃ,たいようのしんぽうしゃ
 Disciple of the Vault,大霊堂の信奉者,だいれいどうのしんぽうしゃ,だいれいどうのしんぽうしゃ
 Disciples of Gix,ギックスの信奉者,ぎっくすのしんぽうしゃ,ぎっくすのしんぽうしゃ
+Disciples of the Inferno,業火の信奉者,ごうかのしんぽうしゃ,ごうかのしんぽうしゃ
 Disciplined Duelist,規律正しい決闘者,きりつただしいけっとうしゃ,きりつただしいけっとうしゃ
 Discombobulate,まごつき,まごつき,まごつき
 Discontinuity,不連続性,ふれんぞくせい,ふれんぞくせい
@@ -5349,6 +5435,7 @@ Distracting Geist,撹乱する霊,かくらんするれい,かくらんするれ
 Distress,困窮,こんきゅう,こんきゅう
 District Guide,管区の案内人,かんくのあんないにん,かんくのあんないにん
 Disturbed Burial,中断された埋葬,ちゅうだんされたまいそう,ちゅうだんされたまいそう
+Disturbing Conversion,不穏な変換,ふおんなへんかん,ふおんなへんかん
 Disturbing Plot,困惑する策謀,こんわくするさくぼう,こんわくするさくぼう
 Dive Bomber,急降下爆撃兵,きゅうこうかばくげきへい,きゅうこうかばくげきへい
 Dive Down,潜水,せんすい,せんすい
@@ -5386,6 +5473,7 @@ Divinity of Pride,名誉の御身,めいよのおんみ,めいよのおんみ
 Dizzy Spell,目くらましの呪文,めくらましのじゅもん,めくらましのじゅもん
 Dizzying Gaze,眩惑の凝視,げんわくのぎょうし,げんわくのぎょうし
 Dizzying Swoop,眩惑する急襲,げんわくするきゅうしゅう,げんわくするきゅうしゅう
+Djeru and Hazoret,デジェルとハゾレト,でじぇるとはぞれと,でじぇるとはぞれと
 Djeru's Renunciation,デジェルの拒絶,でじぇるのきょぜつ,でじぇるのきょぜつ
 Djeru's Resolve,デジェルの決意,でじぇるのけつい,でじぇるのけつい
 "Djeru, With Eyes Open",目を開いた者、デジェル,めをひらいたものでじぇる,めをひらいたものでじぇる
@@ -5446,6 +5534,7 @@ Doomsday Specter,終末の死霊,しゅうまつのしりょう,しゅうまつ�
 Doomskar,ドゥームスカール,どぅーむすかーる,どぅーむすかーる
 Doomskar Oracle,ドゥームスカールの神託者,どぅーむすかーるのしんたくしゃ,どぅーむすかーるのしんたくしゃ
 Doomskar Titan,ドゥームスカールのタイタン,どぅーむすかーるのたいたん,どぅーむすかーるのたいたん
+Doomskar Warrior,ドゥームスカールの戦士,どぅーむすかーるのせんし,どぅーむすかーるのせんし
 Doomwake Giant,破滅喚起の巨人,はめつかんきのきょじん,はめつかんきのきょじん
 Door of Destinies,運命の扉,うんめいのとびら,うんめいのとびら
 Door to Nothingness,空虚への扉,くうきょへのとびら,くうきょえのとびら
@@ -5588,6 +5677,7 @@ Dramatic Finale,劇的な終焉,げきてきなしゅうえん,げきてきな�
 Dramatic Rescue,劇的な救出,げきてきなきゅうしゅつ,げきてきなきゅうしゅつ
 Dramatic Reversal,劇的な逆転,げきてきなぎゃくてん,げきてきなぎゃくてん
 Dramatist's Puppet,劇作家の人形,げきさっかのにんぎょう,げきさっかのにんぎょう
+Drana and Linvala,ドラーナとリンヴァーラ,どらーなとりんゔぁーら,どらーなとりんゔぁーら
 Drana's Chosen,ドラーナに選ばれし者,どらーなにえらばれしもの,どらーなにえらばれしもの
 Drana's Emissary,ドラーナの使者,どらーなのししゃ,どらーなのししゃ
 Drana's Silencer,ドラーナの口封じ,どらーなのくちふうじ,どらーなのくちふうじ
@@ -5677,6 +5767,7 @@ Dredge the Mire,ぬかるみさらい,ぬかるみさらい,ぬかるみさら�
 Dredging Claw,底ざらいの鉤爪,そこざらいのかぎづめ,そこざらいのかぎづめ
 Dreg Mangler,屑肉の刻み獣,くずにくのきざみじゅう,くずにくのきざみじゅう
 Dreg Reaver,屑肉を引き裂くもの,くずにくをひきさくもの,くずにくをひきさくもの
+Dreg Recycler,屑肉の再利用者,くずにくのさいりようしゃ,くずにくのさいりようしゃ
 Dregs of Sorrow,悲しみの残りカス,かなしみののこりかす,かなしみののこりかす
 Dregscape Sliver,屑肉スリヴァー,しにくすりゔぁー,しにくすりゔぁー
 Dregscape Zombie,屑肉の地のゾンビ,くずにくのちのぞんび,くずにくのちのぞんび
@@ -5835,6 +5926,7 @@ Dusk Charger,薄暮の軍馬,はくぼのぐんば,はくぼのぐんば
 Dusk Feaster,薄暮の饗宴者,はくぼのきょうえんしゃ,はくぼのきょうえんしゃ
 Dusk Imp,薄暮のインプ,はくぼのいんぷ,はくぼのいんぷ
 Dusk Legion Dreadnought,薄暮軍団の弩級艦,はくぼぐんだんのどきゅうかん,はくぼぐんだんのどきゅうかん
+Dusk Legion Duelist,薄暮軍団の決闘者,はくぼぐんだんのけっとうしゃ,はくぼぐんだんのけっとうしゃ
 Dusk Legion Zealot,薄暮軍団の盲信者,はくぼぐんだんのもうしんしゃ,はくぼぐんだんのもうしんしゃ
 Dusk Mangler,薄暮の刻み獣,はくぼのきざみじゅう,はくぼのきざみじゅう
 Dusk Urchins,薄暮の小僧,はくぼのこぞう,はくぼのこぞう
@@ -5976,6 +6068,7 @@ Edgar Markov's Coffin,エドガー・マルコフの棺,えどがーまるこふ
 Edgar's Awakening,エドガーの覚醒,えどがーのかくせい,えどがーのかくせい
 "Edgar, Charmed Groom",魅せられた花婿、エドガー,みせられたはなむこえどがー,みせられたはなむこえどがー
 Edge of Autumn,秋の際,あきのきわ,あきのきわ
+Edge of Malacol,マラコールの際,まらこーるのきわ,まらこーるのきわ
 Edge of the Divinity,御身の刃,おんみのやいば,おんみのやいば
 Edgewalker,境を歩む者,さかいをあゆむもの,さかいをあゆむもの
 Edgewall Innkeeper,エッジウォールの亭主,えっじうぉーるのていしゅ,えっじうぉーるのていしゅ
@@ -6063,11 +6156,13 @@ Elemental Resonance,精霊の共鳴,せいれいのきょうめい,せいれい�
 Elemental Summoning,精霊召喚学,せいれいしょうかんがく,せいれいしょうかんがく
 Elemental Uprising,大自然の反撃,だいしぜんはんげき,だいしぜんはんげき
 Elementalist's Palette,精霊術士のパレット,せいれいじゅつしのぱれっと,せいれいじゅつしのぱれっと
+Elenda and Azor,エレンダとアゾール,えれんだとあぞーる,えれんだとあぞーる
 "Elenda, the Dusk Rose",薄暮薔薇、エレンダ,はくぼばらえれんだ,はくぼばらえれんだ
 Elephant Ambush,象の待ち伏せ,ぞうのまちぶせ,ぞうのまちぶせ
 Elephant Grass,エレファント・グラス,えれふぁんとぐらす,えれふぁんとぐらす
 Elephant Guide,象の導き,ぞうのみちびき,ぞうのみちびき
 Elephant Resurgence,象の復活,ぞうのふっかつ,ぞうのふっかつ
+Elesh Norn,エリシュ・ノーン,えりしゅのーん,えりしゅのーん
 "Elesh Norn, Grand Cenobite",大修道士、エリシュ・ノーン,だいしゅうどうしえりしゅのーん,だいしゅうどうしえりしゅのーん
 "Elesh Norn, Mother of Machines",機械の母、エリシュ・ノーン,きかいのははえりしゅのーん,きかいのははえりしゅのーん
 Elf Replica,エルフの模造品,えるふのもぞうひん,えるふのもぞうひん
@@ -6109,6 +6204,8 @@ Elspeth Resplendent,華やいだエルズペス,はなやいだえるずぺす,�
 Elspeth Tirel,エルズペス・ティレル,えるずぺすてぃれる,えるずぺすてぃれる
 Elspeth's Devotee,エルズペスの信奉者,えるずぺすのしんぽうしゃ,えるずぺすのしんぽうしゃ
 Elspeth's Nightmare,エルズペスの悪夢,えるずぺすのあくむ,えるずぺすのあくむ
+Elspeth's Smite,エルズペスの強打,えるずぺすのきょうだ,えるずぺすのきょうだ
+Elspeth's Talent,エルズペスの才能,えるずぺすのさいのう,えるずぺすのさいのう
 "Elspeth, Knight-Errant",遍歴の騎士、エルズペス,へんれきのきしえるずぺす,へんれきのきしえるずぺす
 "Elspeth, Sun's Champion",太陽の勇者、エルズペス,たいようのゆうしゃえるずぺす,たいようのゆうしゃえるずぺす
 "Elspeth, Sun's Nemesis",太陽の宿敵、エルズペス,たいようのしゅくてきえるずぺす,たいようのしゅくてきえるずぺす
@@ -6159,6 +6256,7 @@ Elvish Skysweeper,エルフの空掃き,えるふのそらはき,えるふのそ
 Elvish Soultiller,魂を養うエルフ,たましいをやしなうえるふ,たましいをやしなうえるふ
 Elvish Spirit Guide,エルフの指導霊,えるふのしどうれい,えるふのしどうれい
 Elvish Vanguard,エルフの先兵,えるふのせんぺい,えるふのせんぺい
+Elvish Vatkeeper,エルフの桶守り,えるふのおけもり,えるふのおけもり
 Elvish Visionary,エルフの幻想家,えるふのげんそうか,えるふのげんそうか
 Elvish Warmaster,エルフの戦練者,えるふのせんれんしゃ,えるふのせんれんしゃ
 Elvish Warrior,エルフの戦士,えるふのせんし,えるふのせんし
@@ -6211,6 +6309,7 @@ Emergency Weld,応急溶接,おうきゅうようせつ,おうきゅうようせ
 Emergent Growth,創発的成長,そうはつてきせいちょう,そうはつてきせいちょう
 Emergent Sequence,創発的配列,そうはつてきはいれつ,そうはつてきはいれつ
 Emergent Ultimatum,出現の根本原理,しゅつげんのこんぽんげんり,しゅつげんのこんぽんげんり
+Emergent Woodwurm,突出した森ワーム,とっしゅつしたもりわーむ,とっしゅつしたもりわーむ
 Emeria Angel,エメリアの天使,えめりあのてんし,えめりあのてんし
 Emeria Captain,エメリアの隊長,えめりあのたいちょう,えめりあのたいちょう
 Emeria Shepherd,エメリアの番人,えめりあのばんにん,えめりあのばんにん
@@ -6292,6 +6391,7 @@ Ends,結末,けつまつ,けつまつ
 Endurance,忍耐,にんたい,にんたい
 Endure,耐え忍び,たえしのび,たえしのび
 Enduring Angel,不朽の天使,ふきゅうのてんし,ふきゅうのてんし
+Enduring Bondwarden,忍耐の繋守り,にんたいのつなぎまもり,にんたいのつなぎまもり
 Enduring Ideal,不朽の理想,ふきゅうのりそう,ふきゅうのりそう
 Enduring Renewal,永劫の輪廻,えいごうのりんね,えいごうのりんね
 Enduring Scalelord,忍耐の鱗王,にんたいのりんおう,にんたいのりんおう
@@ -6321,6 +6421,7 @@ Enhanced Awareness,強化された知覚,きょうかされたちかく,きょ�
 Enhanced Surveillance,諜報強化,ちょうほうきょうか,ちょうほうきょうか
 Enigma Drake,奇怪なドレイク,きかいなどれいく,きかいなどれいく
 Enigma Eidolon,謎の幻霊,なぞのげんれい,なぞのげんれい
+Enigma Ridges,謎の峰,なぞのみね,なぞのみね
 Enigma Sphinx,謎のスフィンクス,なぞのすふぃんくす,なぞのすふぃんくす
 Enigma Thief,謎の盗人,なぞのぬすびと,なぞのぬすびと
 Enigmatic Incarnation,奇怪な具現,きかいなぐげん,きかいなぐげん
@@ -6374,9 +6475,11 @@ Envelop,被覆,ひふく,ひふく
 Environmental Sciences,環境科学,かんきょうかがく,かんきょうかがく
 Eon Frolicker,永劫にはしゃぐもの,えいごうにはしゃぐもの,えいごうにはしゃぐもの
 Eon Hub,永劫の中軸,えいごうのちゅうじく,えいごうのちゅうじく
+Ephara's Dispersal,エファラの分散,えふぁらのぶんさん,えふぁらのぶんさん
 Ephara's Enlightenment,エファラの啓蒙,えふぁらのけいもう,えふぁらのけいもう
 Ephara's Radiance,エファラの輝き,えふぁらのかがやき,えふぁらのかがやき
 Ephara's Warden,エファラの管理人,えふぁらのかんりにん,えふぁらのかんりにん
+"Ephara, Ever-Sheltering",永久防護のエファラ,えいきゅうぼうごのえふぁら,えいきゅうぼうごのえふぁら
 "Ephara, God of the Polis",都市国家の神、エファラ,としこっかのかみえふぁら,としこっかのかみえふぁら
 Ephemeral Shields,儚き盾,はかなきたて,はかなきたて
 Ephemerate,儚い存在,はかないそんざい,はかないそんざい
@@ -6419,6 +6522,7 @@ Eron the Relentless,情け知らずのエロン,なさけしらずのえろん,�
 Erosion,浸食,しんしょく,しんしょく
 Errant Doomsayers,遍歴の宿命語り,へんれきのしゅくめいがたり,へんれきのしゅくめいがたり
 Errant Ephemeron,遍歴のカゲロウ獣,へんれきのかげろうじゅう,へんれきのかげろうじゅう
+Errant and Giada,エラントとジアーダ,えらんととじあーだ,えらんととじあーだ
 "Errant, Street Artist",路上芸術家、エラント,ろじょうげいじゅつかえらんと,ろじょうげいじゅつかえらんと
 Errantry,単独行,たんどくこう,たんどくこう
 Erratic Cyclops,奇矯なサイクロプス,ききょうなさいくろぷす,ききょうなさいくろぷす
@@ -6450,6 +6554,7 @@ Esika's Chariot,エシカの戦車,えしかのせんしゃ,えしかのせん�
 "Esika, God of the Tree",樹の神、エシカ,きのかみえしか,きのかみえしか
 "Esior, Wardwing Familiar",守り翼の使い魔、エシオル,もりつばさのつかいまえしおる,もりつばさのつかいまえしおる
 "Esix, Fractal Bloom",フラクタルの花、エシックス,ふらくたるのはなえしっくす,ふらくたるのはなえしっくす
+Esper,エスパー,えすぱー,えすぱー
 Esper Battlemage,エスパーの戦闘魔道士,えすぱーのせんとうまどうし,えすぱーのせんとうまどうし
 Esper Charm,エスパーの魔除け,えすぱーのまよけ,えすぱーのまよけ
 Esper Cormorants,エスパーの鵜,えすぱーのう,えすぱーのう
@@ -6476,12 +6581,17 @@ Essence Scatter,本質の散乱,ほんしつのさんらん,ほんしつのさ�
 Essence Sliver,精油スリヴァー,せいゆすりゔぁー,せいゆすりゔぁー
 Essence Symbiote,本質共生体,ほんしつきょうせいたい,ほんしつきょうせいたい
 Essence Warden,本質の管理人,ほんしつのかんりにん,ほんしつのかんりにん
+Essence of Orthodoxy,正典の本質,せいてんのほんしつ,せいてんのほんしつ
 Essence of the Wild,荒れ野の本質,あれののほんしつ,あれののほんしつ
 Estrid's Invocation,エストリッドの祈祷,えすとりっどのきとう,えすとりっどのきとう
 "Estrid, the Masked",仮面使い、エストリッド,かめんつかいえすとりっど,かめんつかいえすとりっど
 Estwald Shieldbasher,エストワルドの盾殴り,えすとわるどのたてなぐり,えすとわるどのたてなぐり
+"Etali, Primal Conqueror",原初の征服者、エターリ,げんしょのせいふくしゃえたーり,げんしょのせいふくしゃえたーり
+"Etali, Primal Sickness",原初の病、エターリ,げんしょのやまいえたーり,げんしょのやまいえたーり
 "Etali, Primal Storm",原初の嵐、エターリ,げんしょのあらしえたーり,げんしょのあらしえたーり
 Etched Champion,刻まれた勇者,きざまれたゆうしゃ,きざまれたゆうしゃ
+Etched Familiar,刻まれた使い魔,きざまれたつかいま,きざまれたつかいま
+Etched Host Doombringer,刻印の徒党の破滅運び,こくいんのととうのはめつはこび,こくいんのととうのはめつはこび
 Etched Monstrosity,刻まれた大怪物,きざまれただいかいぶつ,きざまれただいかいぶつ
 Etched Oracle,刻まれた巫女,きざまれたみこ,きざまれたみこ
 Etching of Kumano,熊野の食刻,くまののしょっこく,くまののしょっこく
@@ -6585,6 +6695,7 @@ Excavation Technique,発掘の技,はっくつのわざ,はっくつのわざ
 Excavator,掘削機,くっさくき,くっさくき
 Excess,三昧,ざんまい,ざんまい
 Excise,切り取り,きりとり,きりとり
+Excise the Imperfect,不完全者の排除,ふかんぜんしゃのはいじょ,ふかんぜんしゃのはいじょ
 Exclude,除外,じょがい,じょがい
 Exclusion Mage,排斥する魔道士,はいせきするまどうし,はいせきするまどうし
 Exclusion Ritual,排他の儀式,はいたのぎしき,はいたのぎしき
@@ -6620,6 +6731,7 @@ Expedition Champion,探検隊の勇者,たんけんたいのゆうしゃ,たん�
 Expedition Diviner,探検隊の占者,たんけんたいのせんじゃ,たんけんたいのせんじゃ
 Expedition Envoy,探検隊の特使,たんけんたいのとくし,たんけんたいのとくし
 Expedition Healer,探検隊の癒し手,たんけんたいのいやして,たんけんたいのいやして
+Expedition Lookout,探検隊の見張り,たんけんたいのみはり,たんけんたいのみはり
 Expedition Map,探検の地図,たんけんのちず,たんけんのちず
 Expedition Raptor,探検の猛禽,たんけんのもうきん,たんけんのもうきん
 Expedition Skulker,探検隊の潜伏者,たんけんたいのせんぷくしゃ,たんけんたいのせんぷくしゃ
@@ -6662,6 +6774,7 @@ Exquisite Blood,極上の血,ごくじょうのち,ごくじょうのち
 Exquisite Firecraft,極上の炎技,ごくじょうのえんぎ,ごくじょうのえんぎ
 Exquisite Huntmaster,極上の狩りの達人,ごくじょうのかりのたつじん,ごくじょうのかりのたつじん
 Exsanguinate,瀉血,しゃけつ,しゃけつ
+Exsanguinator Cavalry,騎兵隊の血抜き師,きへいたいのちぬきし,きへいたいのちぬきし
 Exterminatus,究極浄化,きゅうきょくじょうか,きゅうきょくじょうか
 Extinction,絶滅,ぜつめつ,ぜつめつ
 Extinction Event,絶滅の契機,ぜつめつのけいき,ぜつめつのけいき
@@ -6710,6 +6823,7 @@ Eyekite,ミルカイト,みるかいと,みるかいと
 Eyeless Watcher,目なしの見張り,めなしのみはり,めなしのみはり
 Eyes Everywhere,一面の視線,いちめんのしせん,いちめんのしせん
 Eyes in the Skies,天空の目,てんくうのめ,てんくうのめ
+Eyes of Gitaxias,ギタクシアスの眼,ぎたくしあすのめ,ぎたくしあすのめ
 Eyes of the Beholder,ビホルダーの眼,びほるだーのめ,びほるだーのめ
 Eyes of the Watcher,見張る者の目,みはるもののめ,みはるもののめ
 Eyes of the Wisent,猛牛の目,もうぎゅうのめ,もうぎゅうのめ
@@ -6755,6 +6869,7 @@ Faerie Harbinger,妖精の先触れ,ようせいのさきぶれ,ようせいの�
 Faerie Impostor,フェアリーの騙し屋,ふぇありーのだましや,ふぇありーのだましや
 Faerie Invaders,フェアリーの侵略者,ふぇありーのしんりゃくしゃ,ふぇありーのしんりゃくしゃ
 Faerie Macabre,フェアリーの忌み者,ふぇありーのいみもの,ふぇありーのいみもの
+Faerie Mastermind,フェアリーの黒幕,ふぇありーのくろまく,ふぇありーのくろまく
 Faerie Mechanist,フェアリーの機械論者,ふぇありーのきかいろんじゃ,ふぇありーのきかいろんじゃ
 Faerie Miscreant,フェアリーの悪党,ふぇありーのあくとう,ふぇありーのあくとう
 Faerie Seer,フェアリーの予見者,ふぇありーのよけんしゃ,ふぇありーのよけんしゃ
@@ -6763,6 +6878,7 @@ Faerie Swarm,群がるフェアリー,むらがるふぇありー,むらがる�
 Faerie Tauntings,フェアリーの嘲り,ふぇありーのあざけり,ふぇありーのあざけり
 Faerie Trickery,妖精の計略,ようせいのけいりゃく,ようせいのけいりゃく
 Faerie Vandal,フェアリーの荒らし屋,ふぇありーのあらしや,ふぇありーのあらしや
+Failed Conversion,失敗した変換,しっぱいしたへんかん,しっぱいしたへんかん
 Failed Inspection,検査不合格,けんさふごうかく,けんさふごうかく
 Failure,腹背,ふくはい,ふくはい
 "Fain, the Broker",仲介人、フェイン,ちゅうかいにんふぇいん,ちゅうかいにんふぇいん
@@ -6929,6 +7045,7 @@ Fearless Fledgling,恐れなき雛,おそれなきひな,おそれなきひな
 Fearless Halberdier,恐れなき矛槍兵,おそれなきほこやりへい,おそれなきほこやりへい
 Fearless Liberator,恐れなき解放者,おそれなきかいほうしゃ,おそれなきかいほうしゃ
 Fearless Pup,恐れなき仔,おそれなきこ,おそれなきこ
+Fearless Skald,不敵なスカルド,ふてきなすかるど,ふてきなすかるど
 Fearsome Awakening,恐るべき目覚め,おそるべきめざめ,おそるべきめざめ
 Fearsome Temper,恐るべき気質,おそるべききしつ,おそるべききしつ
 Fearsome Werewolf,恐れられる人狼,おそれられるじんろう,おそれられるじんろう
@@ -7020,6 +7137,7 @@ Fertile Ground,肥沃な大地,ひよくなだいち,ひよくなだいち
 Fertile Imagination,肥沃な想像力,ひよくなそうぞうりょく,ひよくなそうぞうりょく
 Fertile Thicket,肥沃な茂み,ひよくなしげみ,ひよくなしげみ
 Fertilid,ファーティリド,ふぁーてぃりど,ふぁーてぃりど
+Fertilid's Favor,ファーティリドの好意,ふぁーてぃりどのこうい,ふぁーてぃりどのこうい
 Fervent Cathar,熱血漢の聖戦士,ねっけつかんのせいせんし,ねっけつかんのせいせんし
 Fervent Champion,熱烈な勇者,ねつれつなゆうしゃ,ねつれつなゆうしゃ
 Fervent Charge,熱烈な突撃,ねつれつなとつげき,ねつれつなとつげき
@@ -7112,12 +7230,14 @@ Filigree Crawler,金線這行機,きんせんしゃこうき,きんせんしゃ�
 Filigree Familiar,金線の使い魔,きんせんのつかいま,きんせんのつかいま
 Filigree Fracture,金線の破れ目,きんせんのやぶれめ,きんせんのやぶれめ
 Filigree Sages,金線の賢者,きんせんのけんじゃ,きんせんのけんじゃ
+Filigree Vector,金線の媒介者,きんせんのばいかいしゃ,きんせんのばいかいしゃ
 Fill with Fright,襲い掛かる恐怖,おそいかかるきょうふ,おそいかかるきょうふ
 Filth,不浄,ふじょう,ふじょう
 Filthy Cur,汚い野犬,きたないやけん,きたないやけん
 Fin-Clade Fugitives,流翼組の脱走者,りゅうよくぐみのだっそうしゃ,りゅうよくぐみのだっそうしゃ
 Final Death,最後の死,さいごのし,さいごのし
 Final Flare,最期の噴炎,さいごのふんえん,さいごのふんえん
+Final Flourish,最期の一花,さいごのひとはな,さいごのひとはな
 Final Fortune,最後の賭け,さいごのかけ,さいごのかけ
 Final Iteration,繰り返しつくしたもの,くりかえしつくしたもの,くりかえしつくしたもの
 Final Judgment,最後の裁き,さいごのさばき,さいごのさばき
@@ -7184,6 +7304,7 @@ Firefright Mage,恐火魔道士,きょうかまどうし,きょうかまどう�
 Firehoof Cavalry,炎蹄の騎兵,ほのおひづめきへい,ほのおひづめきへい
 Firemane Angel,炎まといの天使,ほのおまといのてんし,ほのおまといのてんし
 Firemane Avenger,炎まといの報復者,ほのおまといのほうふくしゃ,ほのおまといのほうふくしゃ
+Firemane Commando,炎まといの猛士,ほのおまといのもうし,ほのおまといのもうし
 Firemantle Mage,炎套の魔道士,えんとうのまどうし,えんとうのまどうし
 Firemaw Kavu,大火口のカヴー,だいかこうのかゔー,だいかこうのかゔー
 Firemind Vessel,火想者の器,かそうしゃのうつわ,かそうしゃのうつわ
@@ -7364,8 +7485,10 @@ Flint Golem,火打ち石のゴーレム,ひうちいしのごーれむ,ひうち
 Flinthoof Boar,火打ち蹄の猪,ひうちひづめのいのしし,ひうちひづめのいのしし
 Flip the Switch,回路切り替え,かいろきりかえ,かいろきりかえ
 Flitterstep Eidolon,閃足の幻霊,せんそくのげんれい,せんそくのげんれい
+Flitting Guerrilla,飛び回るゲリラ,とびまわるげりら,とびまわるげりら
 Floating Shield,浮揚盾,ふようたて,ふようたて
 Floating-Dream Zubera,浮き夢のずべら,うきゆめのずべら,うきゆめのずべら
+Flockchaser Phantom,群れ追いの幻影,むれおいのげんえい,むれおいのげんえい
 Flood,洪水,こうずい,こうずい
 Flood Plain,氾濫原,はんらんげん,はんらんげん
 Flood of Recollection,想起横溢,そうきおういつ,そうきおういつ
@@ -7429,6 +7552,7 @@ Flycatcher Giraffid,ハエ捕り長首,はえとりながくび,はえとりな�
 Flying Carpet,空飛ぶ絨毯,そらとぶじゅうたん,そらとぶじゅうたん
 Flying Crane Technique,飛鶴の技,ひかくのわざ,ひかくのわざ
 Flying Men,空飛ぶ男,そらとぶおとこ,そらとぶおとこ
+Flywheel Racer,飛車輪の競争車,ひしゃりんのきょうそうしゃ,ひしゃりんのきょうそうしゃ
 Fodder Cannon,有象無象の大砲,うぞうむぞうのたいほう,うぞうむぞうのたいほう
 Fodder Launch,有象無象の発射,うぞうむぞうのはっしゃ,うぞうむぞうのはっしゃ
 Fodder Tosser,餌投げ,えさなげ,えさなげ
@@ -7733,14 +7857,20 @@ Furious Rise,猛然たる顕現,もうぜんたるけんげん,もうぜんた�
 Furnace Brood,灼熱洞の仲間,しゃくねつどうのなかま,しゃくねつどうのなかま
 Furnace Celebration,炉の式典,ろのしきてん,ろのしきてん
 Furnace Dragon,炉のドラゴン,ろのどらごん,ろのどらごん
+Furnace Gremlin,焼炉のグレムリン,しょうろのぐれむりん,しょうろのぐれむりん
+Furnace Host Charger,焼炉の徒党の突撃者,しょうろのととうのとつげきしゃ,しょうろのととうのとつげきしゃ
+Furnace Layer,溶鉱炉階層,ようこうろかいそう,ようこうろかいそう
 Furnace Punisher,焼炉の懲罰者,しょうろのちょうばつしゃ,しょうろのちょうばつしゃ
+Furnace Reins,焼炉の手綱,しょうろのたづな,しょうろのたづな
 Furnace Scamp,焼炉の悪獣,しょうろのあくじゅう,しょうろのあくじゅう
 Furnace Skullbomb,焼炉の頭蓋爆弾,しょうろのずがいばくだん,しょうろのずがいばくだん
 Furnace Spirit,灼熱洞のスピリット,しゃくねつどうのすぴりっと,しゃくねつどうのすぴりっと
 Furnace Strider,焼炉の徘徊者,しょうろのはいかいしゃ,しょうろのはいかいしゃ
 Furnace Whelp,焼炉の仔,しょうろのこ,しょうろのこ
 Furnace of Rath,ラースの灼熱洞,らーすのしゃくねつどう,らーすのしゃくねつどう
+Furnace-Blessed Conqueror,炉恵みの征服者,ろめぐみのせいふくしゃ,ろめぐみのせいふくしゃ
 Furor of the Bitten,噛み傷への興奮,かみきずへのこうふん,かみきずえのこうふん
+Furtive Analyst,隠れる分析者,かくれるぶんせきしゃ,かくれるぶんせきしゃ
 Furtive Homunculus,隠れるホムンクルス,かくれるほむんくるす,かくれるほむんくるす
 Fury,激情,げきじょう,げきじょう
 Fury Charm,憤怒の魔除け,ふんぬのまよけ,ふんぬのまよけ
@@ -7828,6 +7958,7 @@ Garenbrig Carver,ギャレンブリグの木工師,ぎゃれんぶりぐのも�
 Garenbrig Paladin,ギャレンブリグの聖騎士,ぎゃれんぶりぐのせいきし,ぎゃれんぶりぐのせいきし
 Garenbrig Squire,ギャレンブリグの従者,ぎゃれんぶりぐのじゅうしゃ,ぎゃれんぶりぐのじゅうしゃ
 Gargadon,ガルガドン,がるがどん,がるがどん
+Gargantuan Slabhorn,巨大な板岩角,きょだいなばんがんづの,きょだいなばんがんづの
 "Gargos, Vicious Watcher",凶暴な見張り、ガーゴス,きょうぼうなみはりがーごす,きょうぼうなみはりがーごす
 Gargoyle Castle,ガーゴイルの城,がーごいるのしろ,がーごいるのしろ
 Gargoyle Flock,ガーゴイルの戦群,がーごいるのせんぐん,がーごいるのせんぐん
@@ -7888,6 +8019,7 @@ Gauntlets of Chaos,混沌の篭手,こんとんのこて,こんとんのこて
 Gauntlets of Light,光の篭手,ひかりのこて,ひかりのこて
 Gavel of the Righteous,裁きの木槌,さばきのきづち,さばきのきづち
 "Gavi, Nest Warden",巣守り、ガヴィ,すまもりがゔぃ,すまもりがゔぃ
+Gavony,ガヴォニー,がゔぉにー,がゔぉにー
 Gavony Dawnguard,ガヴォニーの黎明護衛,がゔぉにーのれいめいごえい,がゔぉにーのれいめいごえい
 Gavony Ironwright,ガヴォニーの鉄大工,がゔぉにーのてつだいく,がゔぉにーのてつだいく
 Gavony Silversmith,ガヴォニーの銀鍛冶師,がゔぉにーのぎんかじし,がゔぉにーのぎんかじし
@@ -7994,6 +8126,7 @@ Geyadrone Dihada,ジアドロン・ディハーダ,じあどろんでぃはー�
 Geyser Glider,噴火滑り,ふんかすべり,ふんかすべり
 Geyserfield Stalker,間欠泉の忍び寄り,かんけつせんのしのびより,かんけつせんのしのびより
 Ghalma's Warden,ガルマの保護者,がるまのほごしゃ,がるまのほごしゃ
+Ghalta and Mavren,ガルタとマーブレン,がるたとまーぶれん,がるたとまーぶれん
 "Ghalta, Primal Hunger",原初の飢え、ガルタ,げんしょのうえがるた,げんしょのうえがるた
 Ghastbark Twins,恐吠の双子,きょうばいのふたご,きょうばいのふたご
 Ghastlord of Fugue,遁走の恐君主,とんそうのきょうくんしゅ,とんそうのきょうくんしゅ
@@ -8008,6 +8141,7 @@ Ghastly Remains,恐ろしい残存者,おそろしいざんぞんしゃ,おそ�
 "Ghave, Guru of Spores",胞子の教祖、ゲイヴ,ほうしのきょうそげいゔ,ほうしのきょうそげいゔ
 Ghazban Ogre,ガズバンのオーガ,がずばんのおーが,がずばんのおーが
 "Ghen, Arcanum Weaver",秘儀の織り手、ゲン,ひぎのおりてげん,ひぎのおりてげん
+Ghirapur,ギラプール,ぎらぷーる,ぎらぷーる
 Ghirapur AEther Grid,ギラプールの霊気格子,ぎらぷーるのれいきごうし,ぎらぷーるのれいきごうし
 Ghirapur Gearcrafter,ギラプールの歯車造り,ぎらぷーるのはぐるまづくり,ぎらぷーるのはぐるまづくり
 Ghirapur Guide,ギラプールの案内人,ぎらぷーるのあんないにん,ぎらぷーるのあんないにん
@@ -8132,6 +8266,7 @@ Gideon's Triumph,ギデオンの勝利,ぎでおんのしょうり,ぎでおん�
 "Gideon, Champion of Justice",正義の勇者ギデオン,せいぎのゆうしゃぎでおん,せいぎのゆうしゃぎでおん
 "Gideon, Martial Paragon",武芸の模範、ギデオン,ぶげいのもはんぎでおん,ぶげいのもはんぎでおん
 "Gideon, the Oathsworn",誓いを立てた者、ギデオン,ちかいをたてたものぎでおん,ちかいをたてたものぎでおん
+Gift of Compleation,完成化という名の贈り物,かんせいかというなのおくりもの,かんせいかというなのおくりもの
 Gift of Doom,破滅の贈り物,はめつのおくりもの,はめつのおくりもの
 Gift of Estates,土地の寄進,とちのきしん,とちのきしん
 Gift of Fangs,牙の天稟,きばのてんぴん,きばのてんぴん
@@ -8173,6 +8308,7 @@ Gilt-Leaf Seer,光り葉の予見者,ひかりばのよけんしゃ,ひかりば
 Gilt-Leaf Winnower,光り葉の選別者,ひかりばのせんべつしゃ,ひかりばのせんべつしゃ
 Giltgrove Stalker,金林の追跡者,きんりんのついせきしゃ,きんりんのついせきしゃ
 Giltspire Avenger,黄金塔の報復者,おうごんとうのほうふくしゃ,おうごんとうのほうふくしゃ
+"Gimbal, Gremlin Prodigy",グレムリンの神童、ジンバル,ぐれむりんのしんどうじんばる,ぐれむりんのしんどうじんばる
 Gingerbread Cabin,お菓子の小屋,おかしのこや,おかしのこや
 Gingerbrute,ジンジャーブルート,じんじゃーぶるーと,じんじゃーぶるーと
 Gird for Battle,戦いの覚悟,たたかいのかくご,たたかいのかくご
@@ -8184,8 +8320,10 @@ Gisa's Bidding,ギサの召集,ぎさのしょうしゅう,ぎさのしょうし
 "Gisela, the Broken Blade",折れた刃、ギセラ,おれたやいばぎせら,おれたやいばぎせら
 "Gishath, Sun's Avatar",太陽の化身、ギシャス,たいようのけしんぎしゃす,たいようのけしんぎしゃす
 Gitaxian Anatomist,ギタクシア派の解剖学者,ぎたくしあはのかいぼうがくしゃ,ぎたくしあはのかいぼうがくしゃ
+Gitaxian Mindstinger,ギタクシア派の精神刺し,ぎたくしあはのせいしんさし,ぎたくしあはのせいしんさし
 Gitaxian Probe,ギタクシア派の調査,ぎたくしあはのちょうさ,ぎたくしあはのちょうさ
 Gitaxian Raptor,ギタクシア派の猛禽,ぎたくしあはのもうきん,ぎたくしあはのもうきん
+Gitaxian Spellstalker,ギタクシア派の呪文追い,ぎたくしあはのじゅもんおい,ぎたくしあはのじゅもんおい
 Githzerai Monk,ギスゼライのモンク,ぎすぜらいのもんく,ぎすぜらいのもんく
 Give,投与,とうよ,とうよ
 Give No Ground,一所懸命,いっしょけんめい,いっしょけんめい
@@ -8241,6 +8379,7 @@ Gleaming Overseer,煌めく監視者,きらめくかんししゃ,きらめくか
 Gleancrawler,這い集め虫,はいあつめむし,はいあつめむし
 Gleeful Demolition,上機嫌の解体,じょうきげんのかいたい,じょうきげんのかいたい
 Gleeful Sabotage,上機嫌の破壊,じょうきげんのはかい,じょうきげんのはかい
+Glen Elendra,エレンドラ谷,えれんどらたに,えれんどらたに
 Glen Elendra Archmage,エレンドラ谷の大魔導師,えれんどらたにのだいまどうし,えれんどらたにのだいまどうし
 Glen Elendra Liege,エレンドラ谷のしもべ,えれんどらたにのしもべ,えれんどらたにのしもべ
 Glen Elendra Pranksters,エレンドラ谷のいたずら者,えれんどらたにのいたずらもの,えれんどらたにのいたずらもの
@@ -8254,6 +8393,7 @@ Glimmering Angel,薄光の天使,うすひかりのてんし,うすひかりの�
 Glimmerpoint Stag,微光角の鹿,びこうづののしか,びこうづののしか
 Glimmerpost,微光地,びこうち,びこうち
 Glimmervoid,空僻地,くうへきち,くうへきち
+Glimmervoid Basin,空僻の盆地,くうへきのぼんち,くうへきのぼんち
 Glimpse of Freedom,垣間見た自由,かいまみたじゆう,かいまみたじゆう
 Glimpse of Nature,垣間見る自然,かいまみるしぜん,かいまみるしぜん
 Glimpse of Tomorrow,明日の瞥見,あすのべっけん,あすのべっけん
@@ -8277,9 +8417,13 @@ Glissa Sunslayer,グリッサ・サンスレイヤー,ぐりっささんすれ�
 Glissa's Courier,グリッサの急使,ぐりっさのきゅうし,ぐりっさのきゅうし
 Glissa's Retriever,グリッサの回収者,ぐりっさのかいしゅうしゃ,ぐりっさのかいしゅうしゃ
 Glissa's Scorn,グリッサの嘲笑,ぐりっさのちょうしょう,ぐりっさのちょうしょう
+"Glissa, Herald of Predation",捕食の伝令、グリッサ,ほしょくのでんれいぐりっさ,ほしょくのでんれいぐりっさ
 "Glissa, the Traitor",裏切り者グリッサ,うらぎりものぐりっさ,うらぎりものぐりっさ
 Glistener Elf,ぎらつかせのエルフ,ぎらつかせのえるふ,ぎらつかせのえるふ
 Glistener Seer,ぎらつく予見者,ぎらつくよけんしゃ,ぎらつくよけんしゃ
+Glistening Dawn,ぎらつく夜明け,ぎらつくよあけ,ぎらつくよあけ
+Glistening Deluge,ぎらつく氾濫,ぎらつくはんらん,ぎらつくはんらん
+Glistening Goremonger,ぎらつく暴力屋,ぎらつくぼうりょくや,ぎらつくぼうりょくや
 Glistening Oil,ぎらつく油,ぎらつくあぶら,ぎらつくあぶら
 Glistening Sphere,ぎらつく宝球,ぎらつくほうきゅう,ぎらつくほうきゅう
 Glitterfang,閃き牙,ひらめききば,ひらめききば
@@ -8296,6 +8440,7 @@ Gloom Sower,憂鬱蒔き,ゆううつまき,ゆううつまき
 Gloom Stalker,グルーム・ストーカー,ぐるーむすとーかー,ぐるーむすとーかー
 Gloom Surgeon,鬱外科医,うつげかい,うつげかい
 Gloomdrifter,薄暗がりを漂うもの,うすくらがりをただようもの,うすくらがりをただようもの
+Gloomfang Mauler,鬱牙のやっかいもの,うつきばのやっかいもの,うつきばのやっかいもの
 Gloomhunter,薄暗狩り,うすぐらがり,うすぐらがり
 Gloomlance,憂鬱の槍,ゆううつのやり,ゆううつのやり
 Gloomshrieker,闇叫び,やみさけび,やみさけび
@@ -8349,6 +8494,7 @@ Gnawing Zombie,かじりつくゾンビ,かじりつくぞんび,かじりつく
 Gnoll Hunter,ノールの狩人,のーるのかりゅうど,のーるのかりゅうど
 Gnoll War Band,ノールの戦団,のーるのせんだん,のーるのせんだん
 "Gnostro, Voice of the Crags",岩山の声、ノストロ,いわやまのこえのすとろ,いわやまのこえのすとろ
+Gnottvold Hermit,ノットヴォルドの隠遁者,のっとゔぉるどのいんとんしゃ,のっとゔぉるどのいんとんしゃ
 Gnottvold Recluse,ノットヴォルドのイトグモ,のっとゔぉるどのいとぐも,のっとゔぉるどのいとぐも
 Gnottvold Slumbermound,ノットヴォルドの眠り塚,のっとゔぉるどのねむりづか,のっとゔぉるどのねむりづか
 Go Blank,真っ白,まっしろ,まっしろ
@@ -8550,6 +8696,7 @@ Golden Hind,黄金の雌鹿,おうごんのめじか,おうごんのめじか
 Golden Ratio,黄金比,おうごんひ,おうごんひ
 Golden Urn,黄金の甕,おうごんのかめ,おうごんのかめ
 Golden Wish,黄金の願い,おうごんのねがい,おうごんのねがい
+Golden-Scale Aeronaut,黄金鱗の飛空士,おうごんうろこのひくうし,おうごんうろこのひくうし
 Golden-Tail Disciple,金之尾の門弟,きんのおのもんてい,きんのおのもんてい
 Goldenglow Moth,黄金光の蛾,おうごんこうのが,おうごんこうのが
 Goldenhide Ox,黄金皮の雄牛,おうごんがわのおうし,おうごんがわのおうし
@@ -8627,6 +8774,7 @@ Goring Ceratops,突き刺すケラトプス,つきさすけらとぷす,つき�
 Goring Warplow,突き刺す戦耕し,つきさすいくさたがやし,つきさすいくさたがやし
 "Gorion, Wise Mentor",賢明な導師、ゴライオン,けんめいなどうしごらいおん,けんめいなどうしごらいおん
 Gorm the Great,豪胆のゴルム,ごうたんのごるむ,ごうたんのごるむ
+Goro-Goro and Satoru,ゴロゴロと悟,ごろごろとさとる,ごろごろとさとる
 "Goro-Goro, Disciple of Ryusei",流星の信奉者、ゴロゴロ,りゅうせいのしんぽうしゃごろごろ,りゅうせいのしんぽうしゃごろごろ
 Goryo's Vengeance,御霊の復讐,ごりょうのふくしゅう,ごりょうのふくしゅう
 Gossamer Chains,霊糸の鎖,れいしのくさり,れいしのくさり
@@ -8646,6 +8794,7 @@ Graf Mole,墓モグラ,はかもぐら,はかもぐら
 Graf Rats,墓ネズミ,はかねずみ,はかねずみ
 Graf Reaver,墓の肉裂き,はかのにくさき,はかのにくさき
 Grafdigger's Cage,墓掘りの檻,はかほりのおり,はかほりのおり
+Grafted Butcher,生体融合の解体者,せいたいゆうごうのかいたいしゃ,せいたいゆうごうのかいたいしゃ
 Grafted Exoskeleton,生体融合外骨格,せいたいゆうごうがいこっかく,せいたいゆうごうがいこっかく
 Grafted Growth,融合する成長,ゆうごうするせいちょう,ゆうごうするせいちょう
 Grafted Identity,移植された自我,いしょくされたじが,いしょくされたじが
@@ -8659,7 +8808,9 @@ Grand Coliseum,大闘技場,だいとうぎじょう,だいとうぎじょう
 Grand Crescendo,盛大なるクレッシェンド,せいだいなるくれっしぇんど,せいだいなるくれっしぇんど
 Grand Master of Flowers,花の大導師,はなのだいどうし,はなのだいどうし
 Grand Melee,大会戦,だいかいせん,だいかいせん
+Grand Ossuary,大納骨堂,だいのうこつどう,だいのうこつどう
 Grand Warlord Radha,総将軍ラーダ,そうしょうぐんらーだ,そうしょうぐんらーだ
+Grandmother Ravi Sengir,太母、ラヴィ・センギア,たいぼらゔぃせんぎあ,たいぼらゔぃせんぎあ
 Granger Guildmage,農芸師ギルドの魔道士,のうげいしぎるどのまどうし,のうげいしぎるどのまどうし
 Granite Grip,花崗岩の装着,かこうがんのそうちゃく,かこうがんのそうちゃく
 Granite Shard,花崗岩の破片,かこうがんのはへん,かこうがんのはへん
@@ -8908,6 +9059,7 @@ Groundskeeper,土地守,とちもり,とちもり
 Groundswell,地うねり,じうねり,じうねり
 Grove Rumbler,林の喧騒者,はやしのけんそうしゃ,はやしのけんそうしゃ
 Grove of the Burnwillows,燃え柳の木立ち,もえやなぎのこだち,もえやなぎのこだち
+Grove of the Dreampods,夢鞘の木立ち,ゆめさやのこだち,ゆめさやのこだち
 Grove of the Guardian,守護者の木立ち,しゅごしゃのこだち,しゅごしゃのこだち
 Grovetender Druids,林番のドルイド,はやしばんのどるいど,はやしばんのどるいど
 Grow from the Ashes,灰からの成長,はいからのせいちょう,はいからのせいちょう
@@ -8962,11 +9114,13 @@ Guardian Kirin,守護麒麟,しゅごきりん,しゅごきりん
 Guardian Lions,守護ライオン,しゅごらいおん,しゅごらいおん
 Guardian Naga,ガーディアン・ナーガ,がーでぃあんなーが,がーでぃあんなーが
 Guardian Project,守護者計画,しゅごしゃけいかく,しゅごしゃけいかく
+Guardian Scalelord,守護の鱗王,しゅごのりんおう,しゅごのりんおう
 Guardian Seraph,守護熾天使,しゅごしてんし,しゅごしてんし
 Guardian Shield-Bearer,盾を持つ守護者,たてをもつしゅごしゃ,たてをもつしゅごしゃ
 Guardian Zendikon,護衛のゼンディコン,ごえいのぜんでぃこん,ごえいのぜんでぃこん
 Guardian of Cloverdell,クローバーデルの守護者,くろーばーでるのしゅごしゃ,くろーばーでるのしゅごしゃ
 Guardian of Faith,ガーディアン・オヴ・フェイス,がーでぃあんおゔふぇいす,がーでぃあんおゔふぇいす
+Guardian of Ghirapur,ギラプールの守護者,ぎらぷーるのしゅごしゃ,ぎらぷーるのしゅごしゃ
 Guardian of New Benalia,新ベナリアの守護者,しんべなりあのしゅごしゃ,しんべなりあのしゅごしゃ
 Guardian of Pilgrims,巡礼者の守護霊,じゅんれいしゃのしゅごれい,じゅんれいしゃのしゅごれい
 Guardian of Solitude,孤独の守護者,こどくのしゅごしゃ,こどくのしゅごしゃ
@@ -8997,6 +9151,7 @@ Guild Thief,ギルドのシーフ,ぎるどのしーふ,ぎるどのしーふ
 Guildless Commons,ギルド無しの公共地,ぎるどなしのこうきょうち,ぎるどなしのこうきょうち
 Guildmages' Forum,ギルド魔道士の広場,ぎるどまどうしのひろば,ぎるどまどうしのひろば
 Guildpact Informant,ギルドパクトの密通者,ぎるどぱくとのみっつうしゃ,ぎるどぱくとのみっつうしゃ
+Guildpact Paragon,ギルドパクトの模範,ぎるどぱくとのもはん,ぎるどぱくとのもはん
 Guildscorn Ward,ギルド嘲笑いの護法印,ぎるどわらいのごほういん,ぎるどわらいのごほういん
 Guildsworn Prowler,ギルド公認のこそ泥,ぎるどこうにんのこそどろ,ぎるどこうにんのこそどろ
 Guile,狡知,こうち,こうち
@@ -9101,9 +9256,12 @@ Hallowed Healer,尊い癒し手,とうといいやして,とうといいやし�
 Hallowed Moonlight,神聖なる月光,しんせいなるげっこう,しんせいなるげっこう
 Hallowed Respite,神聖なる休止,しんせいなるきゅうし,しんせいなるきゅうし
 Hallowed Spiritkeeper,神聖なる魂の守り手,しんせいなるたましいのまもりて,しんせいなるたましいのまもりて
+Halo Forager,光素を漁る者,こうそをあさるもの,こうそをあさるもの
 Halo Fountain,光素の泉,こうそのいずみ,こうそのいずみ
+Halo Hopper,光素跳び,こうそとび,こうそとび
 Halo Hunter,光輪狩り,こうりんがり,こうりんがり
 Halo Scarab,光素のスカラベ,こうそのすからべ,こうそのすからべ
+Halo-Charged Skaab,光素蓄積のスカーブ,こうそちくせきのすかーぶ,こうそちくせきのすかーぶ
 "Halsin, Emerald Archdruid",エメラルドの大ドルイド、ハルシン,えめらるどのだいどるいどはるしん,えめらるどのだいどるいどはるしん
 Halt Order,停止命令,ていしめいれい,ていしめいれい
 "Halvar, God of Battle",戦闘の神、ハルヴァール,せんとうのかみはるゔぁーる,せんとうのかみはるゔぁーる
@@ -9136,6 +9294,7 @@ Hand of Vecna,ハンド・オヴ・ヴェクナ,はんどおゔゔぇくな,は�
 Hand of the Praetors,法務官の手,ほうむかんのて,ほうむかんのて
 Hand to Hand,白兵戦,はくへいせん,はくへいせん
 Hands of Binding,束縛の手,そくばくのて,そくばくのて
+Hangar Scrounger,格納庫のたかり屋,かくのうこのたかりや,かくのうこのたかりや
 Hangarback Walker,搭載歩行機械,とうさいほこうきかい,とうさいほこうきかい
 Hanged Executioner,絞首された処刑人,こうしゅされたしょけいにん,こうしゅされたしょけいにん
 Hankyu,半弓,はんきゅう,はんきゅう
@@ -9188,6 +9347,7 @@ Harnessed Lightning,蓄霊稲妻,ちくれいいなずま,ちくれいいなず�
 "Harnfel, Horn of Bounty",豊潤の角杯、ハーンフェル,ほうじゅんのかくはいはーんふぇる,ほうじゅんのかくはいはーんふぇる
 Harper Recruiter,ハーパーの勧誘者,はーぱーのかんゆうしゃ,はーぱーのかんゆうしゃ
 Harpoon Sniper,銛撃ちの狙撃者,もりうちのそげきしゃ,もりうちのそげきしゃ
+Harried Artisan,悩まされる職工,なやまされるしょっこう,なやまされるしょっこう
 Harrier Griffin,侵略グリフィン,しんりゃくぐりふぃん,しんりゃくぐりふぃん
 Harrier Naga,侵略ナーガ,しんりゃくなーが,しんりゃくなーが
 Harrow,砕土,さいど,さいど
@@ -9352,6 +9512,8 @@ Hedron Archive,面晶体の記録庫,めんしょうたいのきろくこ,めん
 Hedron Blade,面晶体の刃,めんしょうたいのやいば,めんしょうたいのやいば
 Hedron Crab,面晶体のカニ,めんしょうたいのかに,めんしょうたいのかに
 Hedron Crawler,面晶体の這行器,めんしょうたいのしゃこうき,めんしょうたいのしゃこうき
+Hedron Detonator,面晶体の起爆屋,めんしょうたいのきばくや,めんしょうたいのきばくや
+Hedron Fields of Agadeem,アガディームの面晶体原,あがでぃーむのめんしょうたいげん,あがでぃーむのめんしょうたいげん
 Hedron Matrix,面晶体のマトリックス,めんしょうたいのまとりっくす,めんしょうたいのまとりっくす
 Hedron Rover,面晶体の流浪者,めんしょうたいのるろうしゃ,めんしょうたいのるろうしゃ
 Hedron Scrabbler,面晶体集め,めんしょうたいあつめ,めんしょうたいあつめ
@@ -9378,6 +9540,8 @@ Heliod's Pilgrim,ヘリオッドの巡礼者,へりおっどのじゅんれい�
 Heliod's Punishment,ヘリオッドの神罰,へりおっどのしんばつ,へりおっどのしんばつ
 "Heliod, God of the Sun",太陽の神、ヘリオッド,たいようのかみへりおっど,たいようのかみへりおっど
 "Heliod, Sun-Crowned",太陽冠のヘリオッド,たいようかんのへりおっど,たいようかんのへりおっど
+"Heliod, the Radiant Dawn",光輝の夜明け、ヘリオッド,こうきのよあけへりおっど,こうきのよあけへりおっど
+"Heliod, the Warped Eclipse",歪んだ日食、ヘリオッド,ゆがんだにっしょくへりおっど,ゆがんだにっしょくへりおっど
 Helionaut,陽光の降下兵,ようこうのこうかへい,ようこうのこうかへい
 Heliophial,陽光の薬瓶,ようこうのくすりびん,ようこうのくすりびん
 Helium Squirter,ヘリウム噴射獣,へりうむふんしゃじゅう,へりうむふんしゃじゅう
@@ -9427,6 +9591,7 @@ Herald of Anguish,艱苦の伝令,かんくのでんれい,かんくのでんれ
 Herald of Dromoka,ドロモカの伝令,どろもかのでんれい,どろもかのでんれい
 Herald of Faith,信仰の伝令,しんこうのでんれい,しんこうのでんれい
 Herald of Hadar,ハダルの伝令,はだるのでんれい,はだるのでんれい
+Herald of Hoofbeats,蹄音の伝令,ていおんのでんれい,ていおんのでんれい
 Herald of Kozilek,コジレックの伝令,こじれっくのでんれい,こじれっくのでんれい
 Herald of Leshrac,レシュラックの伝令,れしゅらっくのでんれい,れしゅらっくのでんれい
 Herald of Secret Streams,秘滝の軍使,ひろうのぐんし,ひろうのぐんし
@@ -9444,6 +9609,7 @@ Herald's Horn,通報の角笛,つうほうのつのぶえ,つうほうのつの�
 Heraldic Banner,紋章旗,もんしょうき,もんしょうき
 Heralds of Tzeentch,ヘラルド・オヴ・ティーンチ,へらるどおゔてぃーんち,へらるどおゔてぃーんち
 Herbal Poultice,薬草の湿布,やくそうのしっぷ,やくそうのしっぷ
+Herbology Instructor,雑草学の指導者,ざっそうがくのしどうしゃ,ざっそうがくのしどうしゃ
 Herd Baloth,獣群のベイロス,じゅうぐんのべいろす,じゅうぐんのべいろす
 Herd Gnarr,獣群のナール,じゅうぐんのなーる,じゅうぐんのなーる
 Herd Migration,群れの渡り,むれのわたり,むれのわたり
@@ -9516,9 +9682,11 @@ Hidden Stockpile,秘密の備蓄品,ひみつのびちくひん,ひみつのび�
 Hidden Strings,見えざる糸,みえざるいと,みえざるいと
 Hide,隠匿,いんとく,いんとく
 Hideous End,忌まわしい最期,いまわしいさいご,いまわしいさいご
+Hideous Fleshwheeler,忌まわしい風癘坊,いまわしいふうらいぼう,いまわしいふうらいぼう
 Hideous Laughter,忌まわしい笑い,いまわしいわらい,いまわしいわらい
 Hideous Visage,忌まわしい容貌,いまわしいようぼう,いまわしいようぼう
 Hidetsugu Consumes All,碑出告が全てを貪る,ひでつぐがすべてをむさぼる,ひでつぐがすべてをむさぼる
+Hidetsugu and Kairi,碑出告と開璃,ひでつぐとかいり,ひでつぐとかいり
 Hidetsugu's Second Rite,碑出告の第二の儀式,ひでつぐのだいにのぎしき,ひでつぐのだいにのぎしき
 "Hidetsugu, Devouring Chaos",貪る混沌、碑出告,むさぼるこんとんひでつぐ,むさぼるこんとんひでつぐ
 Hieroglyphic Illumination,ヒエログリフの輝き,ひえろぐりふのかがやき,ひえろぐりふのかがやき
@@ -9595,6 +9763,7 @@ Hoard Hauler,貯めこむ運び屋,ためこむはこびや,ためこむはこ�
 Hoard Robber,財宝荒らし,ざいほうあらし,ざいほうあらし
 Hoard-Smelter Dragon,蔵製錬のドラゴン,くらせいれんのどらごん,くらせいれんのどらごん
 Hoarder's Greed,貯め込み屋の欲,ためこみやのよく,ためこみやのよく
+Hoarding Broodlord,溜め込む親玉,ためこむおやだま,ためこむおやだま
 Hoarding Dragon,溜め込むドラゴン,ためこむどらごん,ためこむどらごん
 Hoarding Ogre,溜め込むオーガ,ためこむおーが,ためこむおーが
 Hoarding Recluse,溜め込むイトグモ,ためこむいとぐも,ためこむいとぐも
@@ -9631,6 +9800,7 @@ Hollowsage,虚賢者,きょけんじゃ,きょけんじゃ
 Holy Armor,聖なる鎧,せいなるよろい,せいなるよろい
 Holy Avenger,ホーリィ・アヴェンジャー,ほーりぃあゔぇんじゃー,ほーりぃあゔぇんじゃー
 Holy Day,聖なる日,せいなるひ,せいなるひ
+Holy Frazzle-Cannon,聖なる焼尽砲,せいなるしょうじんほう,せいなるしょうじんほう
 Holy Justiciar,聖なる司法高官,せいなるしほうこうかん,せいなるしほうこうかん
 Holy Mantle,聖なるマントル,せいなるまんとる,せいなるまんとる
 Holy Strength,聖なる力,せいなるちから,せいなるちから
@@ -9927,8 +10097,11 @@ Icehide Troll,氷皮のトロール,こおりがわのとろーる,こおりが�
 Icewind Stalwart,アイスウィンドの重鎮,あいすうぃんどのじゅうちん,あいすうぃんどのじゅうちん
 "Ich-Tekik, Salvage Splicer",回収の接合者、イチ＝テキク,かいしゅうのせつごうしゃいちてきく,かいしゅうのせつごうしゃいちてきく
 "Ichiga, Who Topples Oaks",樫倒しの伊馳我,かしたおしのいちが,かしたおしのいちが
+Ichor Drinker,胆液飲み,たんえきのみ,たんえきのみ
+Ichor Elixir,胆液の霊薬,たんえきのれいやく,たんえきのれいやく
 Ichor Explosion,胆液の爆発,たんえきのばくはつ,たんえきのばくはつ
 Ichor Rats,胆液の鼠,たんえきのねずみ,たんえきのねずみ
+Ichor Shade,胆液の影,たんえきのかげ,たんえきのかげ
 Ichor Slick,滑る胆液,すべるたんえき,すべるたんえき
 Ichor Synthesizer,胆液の合成者,たんえきのごうせいしゃ,たんえきのごうせいしゃ
 Ichor Wellspring,胆液の水源,たんえきのすいげん,たんえきのすいげん
@@ -10161,6 +10334,7 @@ Inevitable End,避け難い最期,さけがたいさいご,さけがたいさい
 Inexorable Blob,容赦無い泥塊,ようしゃないでいかい,ようしゃないでいかい
 Inexorable Tide,容赦無い潮流,ようしゃないちょうりゅう,ようしゃないちょうりゅう
 Infantry Veteran,歴戦の歩兵,れきせんのほへい,れきせんのほへい
+Infected Defector,感染した離反者,かんせんしたりはんしゃ,かんせんしたりはんしゃ
 Infected Vermin,保菌獣,ほきんじゅう,ほきんじゅう
 Infectious Bite,伝染する一噛み,でんせんするひとかみ,でんせんするひとかみ
 Infectious Bloodlust,伝染性渇血症,でんせんせいかっけつしょう,でんせんせいかっけつしょう
@@ -10181,6 +10355,7 @@ Infernal Pet,冥府のペット,めいふのぺっと,めいふのぺっと
 Infernal Plunge,業火への突入,ごうかへのとつにゅう,ごうかえのとつにゅう
 Infernal Reckoning,冥府の報い,めいふのむくい,めいふのむくい
 Infernal Scarring,冥府の傷跡,めいふのきずあと,めいふのきずあと
+Infernal Sovereign,冥府の君主,めいふのくんしゅ,めいふのくんしゅ
 Infernal Tribute,冥府への貢ぎ物,めいふへのみつぎもの,めいふえのみつぎもの
 Infernal Tutor,冥府の教示者,めいふのきょうじしゃ,めいふのきょうじしゃ
 Inferno,インフェルノ,いんふぇるの,いんふぇるの
@@ -10211,6 +10386,7 @@ Infuse with Vitality,活力の注入,かつりょくのちゅうにゅう,かつ
 Infuse with the Elements,大自然の注入,だいしぜんのちゅうにゅう,だいしぜんのちゅうにゅう
 Infused Arrows,注入の矢,ちゅうにゅうのや,ちゅうにゅうのや
 Inga Rune-Eyes,ルーン目のインガ,るーんめのいんが,るーんめのいんが
+Inga and Esika,インガとエシカ,いんがとえしか,いんがとえしか
 Ingenious Artillerist,巧妙な砲術家,こうみょうなほうじゅつか,こうみょうなほうじゅつか
 Ingenious Infiltrator,巧妙な潜入者,こうみょうなせんにゅうしゃ,こうみょうなせんにゅうしゃ
 Ingenious Leonin,巧妙なレオニン,こうみょうなれおにん,こうみょうなれおにん
@@ -10224,6 +10400,7 @@ Inherited Fiend,相続された悪鬼,そうぞくされたあっき,そうぞ�
 Initiate of Blood,血の信徒,ちのしんと,ちのしんと
 Initiate's Companion,修練者の相棒,しゅうれんしゃのあいぼう,しゅうれんしゃのあいぼう
 Initiates of the Ebon Hand,漆黒の手の信徒,しっこくのてのしんと,しっこくのてのしんと
+Injector Crocodile,注入クロコダイル,ちゅうにゅうくろこだいる,ちゅうにゅうくろこだいる
 Injury,負傷,ふしょう,ふしょう
 Ink Dissolver,墨溶かし,すみとかし,すみとかし
 "Ink-Eyes, Servant of Oni",鬼の下僕、墨目,おにのげぼくすみめ,おにのげぼくすみめ
@@ -10315,6 +10492,7 @@ Intellect Devourer,インテレクト・ディヴァウラー,いんてれくと
 Intellectual Offering,知性の捧げ物,ちせいのささげもの,ちせいのささげもの
 Intercessor's Arrest,仲裁者の拘束,ちゅうさいしゃのこうそく,ちゅうさいしゃのこうそく
 Interdict,阻止,そし,そし
+Interdisciplinary Mascot,学際的なマスコット,がくさいてきなますこっと,がくさいてきなますこっと
 Interplanar Beacon,次元間の標,じげんかんのしるべ,じげんかんのしるべ
 Interpret the Signs,啓示の解読,けいじのかいどく,けいじのかいどく
 Intervene,介入,かいにゅう,かいにゅう
@@ -10327,6 +10505,7 @@ Intimidator Initiate,威嚇者の信徒,いかくしゃのしんと,いかくし
 Into Thin Air,霧散,むさん,むさん
 Into the Core,核への投入,かくへのとうにゅう,かくえのとうにゅう
 Into the Earthen Maw,地の大口の中へ,ちのおおぐちのなかへ,ちのおおぐちのなかえ
+Into the Fire,炎の中へ,ほのおのなかへ,ほのおのなかえ
 Into the Fray,騒乱への突入,そうらんへのとつにゅう,そうらんえのとつにゅう
 Into the Maw of Hell,地獄の口の中,じごくのくちのなか,じごくのくちのなか
 Into the Night,夜へ,よるへ,よるえ
@@ -10350,6 +10529,42 @@ Invade the City,都市侵略,とししんりゃく,とししんりゃく
 Invader Parasite,侵略の寄生虫,しんりゃくのきせいちゅう,しんりゃくのきせいちゅう
 Invading Manticore,侵略するマンティコア,しんりゃくするまんてぃこあ,しんりゃくするまんてぃこあ
 Invasion Plans,侵略計画,しんりゃくけいかく,しんりゃくけいかく
+Invasion of Alara,アラーラへの侵攻,あらーらへのしんこう,あらーらえのしんこう
+Invasion of Amonkhet,アモンケットへの侵攻,あもんけっとへのしんこう,あもんけっとえのしんこう
+Invasion of Arcavios,アルケヴィオスへの侵攻,あるけゔぃおすへのしんこう,あるけゔぃおすえのしんこう
+Invasion of Azgol,アズゴルへの侵攻,あずごるへのしんこう,あずごるえのしんこう
+Invasion of Belenon,ベレノンへの侵攻,べれのんへのしんこう,べれのんえのしんこう
+Invasion of Dominaria,ドミナリアへの侵攻,どみなりあへのしんこう,どみなりあえのしんこう
+Invasion of Eldraine,エルドレインへの侵攻,えるどれいんへのしんこう,えるどれいんえのしんこう
+Invasion of Ergamon,エルガモンへの侵攻,えるがもんへのしんこう,えるがもんえのしんこう
+Invasion of Fiora,フィオーラへの侵攻,ふぃおーらへのしんこう,ふぃおーらえのしんこう
+Invasion of Gobakhan,ゴバカーンへの侵攻,ごばかーんへのしんこう,ごばかーんえのしんこう
+Invasion of Ikoria,イコリアへの侵攻,いこりあへのしんこう,いこりあえのしんこう
+Invasion of Innistrad,イニストラードへの侵攻,いにすとらーどへのしんこう,いにすとらーどえのしんこう
+Invasion of Ixalan,イクサランへの侵攻,いくさらんへのしんこう,いくさらんえのしんこう
+Invasion of Kaladesh,カラデシュへの侵攻,からでしゅへのしんこう,からでしゅえのしんこう
+Invasion of Kaldheim,カルドハイムへの侵攻,かるどはいむへのしんこう,かるどはいむえのしんこう
+Invasion of Kamigawa,神河への侵攻,かみがわへのしんこう,かみがわえのしんこう
+Invasion of Karsus,カーサスへの侵攻,かーさすへのしんこう,かーさすえのしんこう
+Invasion of Kylem,ケイレムへの侵攻,けいれむへのしんこう,けいれむえのしんこう
+Invasion of Lorwyn,ローウィンへの侵攻,ろーうぃんへのしんこう,ろーうぃんえのしんこう
+Invasion of Mercadia,メルカディアへの侵攻,めるかでぃあへのしんこう,めるかでぃあえのしんこう
+Invasion of Moag,モアグへの侵攻,もあぐへのしんこう,もあぐえのしんこう
+Invasion of Muraganda,ムラガンダへの侵攻,むらがんだへのしんこう,むらがんだえのしんこう
+Invasion of New Capenna,ニューカペナへの侵攻,にゅーかぺなへのしんこう,にゅーかぺなえのしんこう
+Invasion of New Phyrexia,新ファイレクシアへの侵攻,しんふぁいれくしあへのしんこう,しんふぁいれくしあえのしんこう
+Invasion of Pyrulea,パイルリーへの侵攻,ぱいるりーへのしんこう,ぱいるりーえのしんこう
+Invasion of Ravnica,ラヴニカへの侵攻,らゔにかへのしんこう,らゔにかえのしんこう
+Invasion of Regatha,レガーサへの侵攻,れがーさへのしんこう,れがーさえのしんこう
+Invasion of Segovia,セゴビアへの侵攻,せごびあへのしんこう,せごびあえのしんこう
+Invasion of Shandalar,シャンダラーへの侵攻,しゃんだらーへのしんこう,しゃんだらーえのしんこう
+Invasion of Tarkir,タルキールへの侵攻,たるきーるへのしんこう,たるきーるえのしんこう
+Invasion of Theros,テーロスへの侵攻,てーろすへのしんこう,てーろすえのしんこう
+Invasion of Tolvada,トルヴァダへの侵攻,とるゔぁだへのしんこう,とるゔぁだえのしんこう
+Invasion of Ulgrotha,ウルグローサへの侵攻,うるぐろーさへのしんこう,うるぐろーさえのしんこう
+Invasion of Vryn,ヴリンへの侵攻,ゔりんへのしんこう,ゔりんえのしんこう
+Invasion of Xerex,キセレクスへの侵攻,きせれくすへのしんこう,きせれくすえのしんこう
+Invasion of Zendikar,ゼンディカーへの侵攻,ぜんでぃかーへのしんこう,ぜんでぃかーえのしんこう
 Invasion of the Giants,巨人たちの侵略,きょじんたちのしんりゃく,きょじんたちのしんりゃく
 Invasive Species,侵入する生物種,しんにゅうするせいぶつしゅ,しんにゅうするせいぶつしゅ
 Invasive Surgery,侵襲手術,しんしゅうしゅじゅつ,しんしゅうしゅじゅつ
@@ -10373,6 +10588,7 @@ Inviolability,不可侵,ふかしん,ふかしん
 Invisibility,不可視,ふかし,ふかし
 Invisible Stalker,不可視の忍び寄り,ふかしのしのびより,ふかしのしのびより
 Invocation of Saint Traft,聖トラフトの祈祷,せいとらふとのきとう,せいとらふとのきとう
+Invocation of the Founders,創始ドラゴンの召致,そうしどらごんのしょうち,そうしどらごんのしょうち
 Invoke Calamity,災厄招来,さいやくしょうらい,さいやくしょうらい
 Invoke Despair,絶望招来,ぜつぼうしょうらい,ぜつぼうしょうらい
 Invoke Justice,報復招来,ほうふくしょうらい,ほうふくしょうらい
@@ -10383,6 +10599,7 @@ Invoke the Winds,嵐風招来,らんぷうしょうらい,らんぷうしょう�
 Involuntary Cooldown,不本意な冷却時間,ふほんいなれいきゃくじかん,ふほんいなれいきゃくじかん
 Involuntary Employment,不本意な雇用,ふほんいなこよう,ふほんいなこよう
 Invulnerability,不死身,ふじみ,ふじみ
+Inys Haen,イニス＝ヘン,いにすへん,いにすへん
 Ion Storm,電離の嵐,でんりのあらし,でんりのあらし
 Iona's Blessing,イオナの祝福,いおなのしゅくふく,いおなのしゅくふく
 Iona's Judgment,イオナの裁き,いおなのさばき,いおなのさばき
@@ -10396,6 +10613,7 @@ Irencrag Feat,アイレンクラッグの妙技,あいれんくらっぐのみ�
 Irencrag Pyromancer,アイレンクラッグの紅蓮術師,あいれんくらっぐのぐれんじゅつし,あいれんくらっぐのぐれんじゅつし
 Irenicus's Vile Duplication,イレニカスの不快な複製,いれにかすのふかいなふくせい,いれにかすのふかいなふくせい
 Iridescent Angel,玉虫色の天使,たまむしいろのてんし,たまむしいろのてんし
+Iridescent Blademaster,玉虫色の刃使い,たまむしいろのやいばつかい,たまむしいろのやいばつかい
 Iridescent Drake,玉虫色のドレイク,たまむしいろのどれいく,たまむしいろのどれいく
 Iridescent Hornbeetle,玉虫色の角甲虫,たまむしいろのつのこうちゅう,たまむしいろのつのこうちゅう
 Iridian Maelstrom,虹彩の大渦,こうさいのおおうず,こうさいのおおうず
@@ -10449,6 +10667,7 @@ Isareth the Awakener,呼び覚ます者イザレス,よびさますものいざ�
 Island,島,しま,しま
 Island Fish Jasconius,島魚ジャスコニアス,しまうおじゃすこにあす,しまうおじゃすこにあす
 Island Sanctuary,孤島の聖域,ことうのせいいき,ことうのせいいき
+Isle of Vesuva,ヴェズーヴァ島,ゔぇずーゔぁとう,ゔぇずーゔぁとう
 Isleback Spawn,島背の落とし子,しまぜのおとしご,しまぜのおとしご
 Isochron Scepter,等時の王笏,とうじのおうしゃく,とうじのおうしゃく
 Isolate,疎外,そがい,そがい
@@ -10647,6 +10866,7 @@ Jhovall Queen,ジョーヴァルの女王,じょーゔぁるのじょおう,じ�
 Jhovall Rider,ジョーヴァル乗り,じょーゔぁるのり,じょーゔぁるのり
 "Jiang Yanggu, Wildcrafter",野生造り、ジアン・ヤングー,やせいづくりじあんやんぐー,やせいづくりじあんやんぐー
 Jilt,偽り,いつわり,いつわり
+Jin-Gitaxias,ジン＝ギタクシアス,じんぎたくしあす,じんぎたくしあす
 "Jin-Gitaxias, Core Augur",核の占い師、ジン＝ギタクシアス,かくのうらないしじんぎたくしあす,かくのうらないしじんぎたくしあす
 "Jin-Gitaxias, Progress Tyrant",発展の暴君、ジン＝ギタクシアス,はってんのぼうくんじんぎたくしあす,はってんのぼうくんじんぎたくしあす
 "Jinnie Fay, Jetmir's Second",ジェトミアの情婦、ジニー・フェイ,じぇとみあのじょうふじにーふぇい,じぇとみあのじょうふじにーふぇい
@@ -10704,6 +10924,7 @@ Joust,馬上槍試合,ばじょうやりじあい,ばじょうやりじあい
 Jousting Dummy,馬上槍の練習台,ばじょうやりのれんしゅうだい,ばじょうやりのれんしゅうだい
 Jousting Lance,馬上槍,ばじょうやり,ばじょうやり
 Joven's Tools,ジョーヴンの泥棒道具,じょーゔんのどろぼうどうぐ,じょーゔんのどろぼうどうぐ
+Joyful Stormsculptor,愉快な嵐彫刻家,ゆかいなあらしちょうこくか,ゆかいなあらしちょうこくか
 Joyous Respite,気楽な休止,きらくなきゅうし,きらくなきゅうし
 Jubilant Mascot,歓喜するマスコット,かんきするますこっと,かんきするますこっと
 Jubilant Skybonder,歓喜する空眷者,かんきするそらけんじゃ,かんきするそらけんじゃ
@@ -10720,6 +10941,7 @@ Jukai Naturalist,樹海の自然主義者,じゅかいのしぜんしゅぎし�
 Jukai Preserver,樹海の保護者,じゅかいのほごしゃ,じゅかいのほごしゃ
 Jukai Trainee,樹海の練習生,じゅかいのれんしゅうせい,じゅかいのれんしゅうせい
 Jump,ジャンプ,じゃんぷ,じゃんぷ
+Jund,ジャンド,じゃんど,じゃんど
 Jund Battlemage,ジャンドの戦闘魔道士,じゃんどのせんとうまどうし,じゃんどのせんとうまどうし
 Jund Charm,ジャンドの魔除け,じゃんどのまよけ,じゃんどのまよけ
 Jund Hackblade,ジャンドの斬刃,じゃんどのざんじん,じゃんどのざんじん
@@ -10836,6 +11058,7 @@ Kami of Tattered Shoji,破れ障子の神,やぶれしょうじのかみ,やぶ�
 Kami of Terrible Secrets,恐るべき秘密の神,おそるべきひみつのかみ,おそるべきひみつのかみ
 Kami of Transience,無常の神,むじょうのかみ,むじょうのかみ
 Kami of Twisted Reflection,ねじれた鏡映の神,ねじれたきょうえいのかみ,ねじれたきょうえいのかみ
+Kami of Whispered Hopes,囁かれる希望の神,ささやかれるきぼうのかみ,ささやかれるきぼうのかみ
 Kami of the Crescent Moon,三日月の神,みかづきのかみ,みかづきのかみ
 Kami of the Honored Dead,名誉ある死者の神,めいよあるししゃのかみ,めいよあるししゃのかみ
 Kami of the Hunt,狩猟の神,しゅりょうのかみ,しゅりょうのかみ
@@ -10895,11 +11118,13 @@ Karplusan Wolverine,カープルーザンのクズリ,かーぷるーざんの�
 Karplusan Yeti,カープルーザンのイエティ,かーぷるーざんのいぇてぃ,かーぷるーざんのいぇてぃ
 "Karrthus, Tyrant of Jund",ジャンドの暴君、カーサス,じゃんどのぼうくんかーさす,じゃんどのぼうくんかーさす
 Karstoderm,カルストダーム,かるすとだーむ,かるすとだーむ
+Karsus Depthguard,カーサスの深淵守護兵,かーさすのしんえんしゅごへい,かーさすのしんえんしゅごへい
 "Karumonix, the Rat King",ネズミの王、カルモニクス,ねずみのおうかるもにくす,ねずみのおうかるもにくす
 "Kaseto, Orochi Archmage",大蛇の大魔導師、かせ斗,おろちのだいまどうしかせと,おろちのだいまどうしかせと
 Kashi-Tribe Elite,樫族の精鋭,かしぞくのせいえい,かしぞくのせいえい
 Kashi-Tribe Reaver,樫族の肉裂き,かしぞくのにくさき,かしぞくのにくさき
 Kashi-Tribe Warriors,樫族の戦士,かしぞくのせんし,かしぞくのせんし
+"Kasla, the Broken Halo",壊れた光輪、カスラ,こわれたこうりんかすら,こわれたこうりんかすら
 Kasmina's Transmutation,カズミナの変成,かずみなのへんせい,かずみなのへんせい
 "Kasmina, Enigma Sage",謎の賢者、カズミナ,なぞのけんじゃかずみな,なぞのけんじゃかずみな
 "Kasmina, Enigmatic Mentor",謎めいた指導者、カズミナ,なぞめいたしどうしゃかずみな,なぞめいたしどうしゃかずみな
@@ -10909,6 +11134,7 @@ Kathari Bomber,カターリの爆撃兵,かたーりのばくげきへい,かた
 Kathari Remnant,カターリの残影,かたーりのざんえい,かたーりのざんえい
 Kathari Screecher,カターリの金切り声上げ,かたーりのかなきりごえあげ,かたーりのかなきりごえあげ
 "Kathril, Aspect Warper",様相ねじり、カスリル,ようそうねじりかすりる,ようそうねじりかすりる
+Katilda and Lier,カティルダとリーア,かてぃるだとりーあ,かてぃるだとりーあ
 Katilda's Rising Dawn,カティルダの曙,かてぃるだのあけぼの,かてぃるだのあけぼの
 "Katilda, Dawnhart Martyr",ドーンハルトの殉教者、カティルダ,どーんはるとのじゅんきょうしゃかてぃるだ,どーんはるとのじゅんきょうしゃかてぃるだ
 "Katilda, Dawnhart Prime",ドーンハルトの主導者、カティルダ,どーんはるとのしゅどうしゃかてぃるだ,どーんはるとのしゅどうしゃかてぃるだ
@@ -11031,6 +11257,7 @@ Keral Keep Disciples,ケラル砦の信奉者,けらるとりでのしんぽう�
 "Keruga, the Macrosage",巨智、ケルーガ,きょちけるーが,きょちけるーが
 "Keskit, the Flesh Sculptor",肉体彫刻家、ケスキット,にくたいちょうこくかけすきっと,にくたいちょうこくかけすきっと
 "Kess, Dissident Mage",反体制魔道士、ケス,はんたいせいまどうしけす,はんたいせいまどうしけす
+Kessig,ケッシグ,けっしぐ,けっしぐ
 Kessig Cagebreakers,ケッシグの檻破り,けっしぐのおりやぶり,けっしぐのおりやぶり
 Kessig Dire Swine,ケッシグの不吉な豚,けっしぐのふきつなぶた,けっしぐのふきつなぶた
 Kessig Flamebreather,ケッシグの炎吹き,けっしぐのほのおぶき,けっしぐのほのおぶき
@@ -11045,6 +11272,7 @@ Kessig Wolfrider,ケッシグの狼乗り,けっしぐのおおかみのり,け�
 "Kestia, the Cultivator",耕作者、ケスティア,こうさくしゃけすてぃあ,こうさくしゃけすてぃあ
 "Kethek, Crucible Goliath",るつぼのゴライアス、ケテク,るつぼのごらいあすけてく,るつぼのごらいあすけてく
 "Kethis, the Hidden Hand",隠された手、ケシス,かくされたてけしす,かくされたてけしす
+Ketria,ケトリア,けとりあ,けとりあ
 Ketria Crystal,ケトリアの水晶,けとりあのすいしょう,けとりあのすいしょう
 Ketria Triome,ケトリアのトライオーム,けとりあのとらいおーむ,けとりあのとらいおーむ
 Key to the City,街の鍵,まちのかぎ,まちのかぎ
@@ -11056,10 +11284,12 @@ Khalni Gem,カルニの宝石,かるにのほうせき,かるにのほうせき
 Khalni Heart Expedition,カルニの心臓の探検,かるにのしんぞうのたんけん,かるにのしんぞうのたんけん
 Khalni Hydra,カルニのハイドラ,かるにのはいどら,かるにのはいどら
 Khalni Territory,カルニの領域,かるにのりょういき,かるにのりょういき
+Kharasha Foothills,カラーシャの山麓,からーしゃのさんろく,からーしゃのさんろく
 Kharn the Betrayer,裏切者、カーン,うらぎりものかーん,うらぎりものかーん
 Khenra Charioteer,ケンラの戦車乗り,けんらのせんしゃのり,けんらのせんしゃのり
 Khenra Eternal,ケンラの永遠衆,けんらのえいえんしゅう,けんらのえいえんしゅう
 Khenra Scrapper,ケンラの潰し屋,けんらのつぶしや,けんらのつぶしや
+Khenra Spellspear,呪文槍のケンラ,じゅもんそうのけんら,じゅもんそうのけんら
 Kher Keep,カー砦,かーとりで,かーとりで
 Kheru Bloodsucker,ケルゥの吸血者,けるぅのきゅうけつしゃ,けるぅのきゅうけつしゃ
 Kheru Dreadmaw,ケルゥの戦慄の大口,けるぅのせんりつのおおぐち,けるぅのせんりつのおおぐち
@@ -11089,6 +11319,7 @@ Killing Wave,殺戮の波,さつりくのなみ,さつりくのなみ
 Kiln Fiend,窯の悪鬼,かまのあっき,かまのあっき
 Kiln Walker,窯歩き,かまあるき,かまあるき
 Kilnmouth Dragon,窯口のドラゴン,ようこうのどらごん,ようこうのどらごん
+Kilnspire District,窯尖塔地域,かませんとうちいき,かませんとうちいき
 Kin-Tree Invocation,族樹の発動,ぞくじゅのはつどう,ぞくじゅのはつどう
 Kin-Tree Warden,族樹の管理人,ぞくじゅのかんりにん,ぞくじゅのかんりにん
 Kindercatch,赤子捕らえ,あかごとらえ,あかごとらえ
@@ -11151,6 +11382,7 @@ Kitesail Freebooter,帆凧の掠め盗り,ほだこのかすめとり,ほだこ�
 Kitesail Scout,帆凧の斥候,ほだこのせっこう,ほだこのせっこう
 Kitesail Skirmisher,帆凧の散兵,ほだこのさんぺい,ほだこのさんぺい
 Kithkin Armor,キスキンの鎧,きすきんのよろい,きすきんのよろい
+Kithkin Billyrider,キスキンの雄山羊乗り,きすきんのおすやぎのり,きすきんのおすやぎのり
 Kithkin Daggerdare,キスキンの短刀挑み,きすきんのたんとういどみ,きすきんのたんとういどみ
 Kithkin Greatheart,キスキンの大心臓,きすきんのおおしんぞう,きすきんのおおしんぞう
 Kithkin Harbinger,キスキンの先触れ,きすきんのさきぶれ,きすきんのさきぶれ
@@ -11217,6 +11449,7 @@ Knight of the Holy Nimbus,聖なる後光の騎士,せいなるごこうのき�
 Knight of the Keep,砦の騎士,とりでのきし,とりでのきし
 Knight of the Last Breath,絶息の騎士,ぜっそくのきし,ぜっそくのきし
 Knight of the Mists,霧の騎士,きりのきし,きりのきし
+Knight of the New Coalition,新たな連合の騎士,あらたなれんごうのきし,あらたなれんごうのきし
 Knight of the Pilgrim's Road,巡礼者の道の騎士,じゅんれいしゃのみちのきし,じゅんれいしゃのみちのきし
 Knight of the Reliquary,聖遺の騎士,せいいのきし,せいいのきし
 Knight of the Skyward Eye,天望の騎士,てんぼうのきし,てんぼうのきし
@@ -11225,6 +11458,7 @@ Knight of the Tusk,牙の騎士,きばのきし,きばのきし
 Knight of the White Orchid,白蘭の騎士,びゃくらんのきし,びゃくらんのきし
 Knight's Pledge,騎士の誓約,きしのせいやく,きしのせいやく
 Knight-Captain of Eos,イーオスの騎士長,いーおすのきしちょう,いーおすのきしちょう
+Knight-Errant of Eos,イーオスの遍歴の騎士,いーおすのへんれきのきし,いーおすのへんれきのきし
 Knighted Myr,マイアの騎士,まいあのきし,まいあのきし
 Knighthood,騎士道,きしどう,きしどう
 Knightly Valor,騎士の勇気,きしのゆうき,きしのゆうき
@@ -11248,6 +11482,7 @@ Kodama of the South Tree,南の樹の木霊,みなみのきのこだま,みな�
 Kodama of the West Tree,西の樹の木霊,にしのきのこだま,にしのきのこだま
 Kodama's Might,木霊の力,こだまのちから,こだまのちから
 Kodama's Reach,木霊の手の内,こだまのてのうち,こだまのてのうち
+Kogla and Yidaro,コグラとイダーロ,こぐらといだーろ,こぐらといだーろ
 "Kogla, the Titan Ape",巨大猿、コグラ,きょだいざるこぐら,きょだいざるこぐら
 Koilos Roc,コイロスのロック鳥,こいろすのろっくちょう,こいろすのろっくちょう
 "Kokusho, the Evening Star",夜の星、黒瘴,よるのほしこくしょう,よるのほしこくしょう
@@ -11281,6 +11516,7 @@ Kor Dirge,コーの葬送歌,こーのそうそうか,こーのそうそうか
 Kor Duelist,コーの決闘者,こーのけっとうしゃ,こーのけっとうしゃ
 Kor Entanglers,コーの絡め捕り,こーのからめとり,こーのからめとり
 Kor Firewalker,コーの火歩き,こーのひあるき,こーのひあるき
+Kor Halberd,コーの矛槍,こーのほこやり,こーのほこやり
 Kor Haven,コーの安息所,こーのあんそくじょ,こーのあんそくじょ
 Kor Hookmaster,コーの鉤の達人,こーのかぎのたつじん,こーのかぎのたつじん
 Kor Line-Slinger,コーの綱投げ,こーのつななげ,こーのつななげ
@@ -11349,6 +11585,7 @@ Kris Mage,クリスの魔道士,くりすのまどうし,くりすのまどう�
 Kronch Wrangler,クロンチの世話人,くろんちのせわにん,くろんちのせわにん
 Krond the Dawn-Clad,暁まといのクロンド,あかつきまといのくろんど,あかつきまといのくろんど
 "Kros, Defense Contractor",防衛請負人、クロス,ぼうえいうけおいにんくろす,ぼうえいうけおいにんくろす
+Krosa,クローサ,くろーさ,くろーさ
 Krosan Archer,クローサの射手,くろーさのしゃしゅ,くろーさのしゃしゅ
 Krosan Avenger,クローサの報復者,くろーさのほうふくしゃ,くろーさのほうふくしゃ
 Krosan Beast,クローサの獣,くろーさのけもの,くろーさのけもの
@@ -11374,6 +11611,7 @@ Krovikan Scoundrel,クロヴの悪漢,くろゔのあっかん,くろゔのあ�
 Krovikan Sorcerer,クロヴの魔術師,くろゔのまじゅつし,くろゔのまじゅつし
 Krovikan Vampire,クロヴの吸血鬼,くろゔのきゅうけつき,くろゔのきゅうけつき
 Krovikan Whispers,クロヴの囁き,くろゔのささやき,くろゔのささやき
+Kroxa and Kunoros,クロクサとクノロス,くろくさとくのろす,くろくさとくのろす
 "Kroxa, Titan of Death's Hunger",死の飢えのタイタン、クロクサ,しのうえのたいたんくろくさ,しのうえのたいたんくろくさ
 Kruin Outlaw,クルーインの無法者,くるーいんのむほうもの,くるーいんのむほうもの
 Kruin Striker,クルーインの打撃者,くるーいんのだげきしゃ,くるーいんのだげきしゃ
@@ -11417,6 +11655,7 @@ Kynaios and Tiro of Meletis,メレティスのキナイオスとティロ,めれ
 "Kyodai, Soul of Kamigawa",神河の魂、香醍,かみがわのたましいきょうだい,かみがわのたましいきょうだい
 "Kyoki, Sanity's Eclipse",蝕まれた正気、凶鬼,むしばまれたしょうききょうき,むしばまれたしょうききょうき
 Kyren Archive,カイレンの公文書館,かいれんのこうぶんしょかん,かいれんのこうぶんしょかん
+Kyren Flamewright,カイレンの火炎職人,かいれんのかえんしょくにん,かいれんのかえんしょくにん
 Kyren Glider,カイレンの滑空者,かいれんのかっくうしゃ,かいれんのかっくうしゃ
 Kyren Legate,カイレンの使節,かいれんのしせつ,かいれんのしせつ
 Kyren Negotiations,カイレン式交渉,かいれんしきこうしょう,かいれんしきこうしょう
@@ -11455,6 +11694,7 @@ Lagonna-Band Trailblazer,ラゴンナ団の先駆者,らごんなだんのせん
 "Lagrella, the Magpie",雑集家、ラグレーラ,ざっしゅうからぐれーら,ざっしゅうからぐれーら
 Laid to Rest,眠りにつく時,ねむりにつくとき,ねむりにつくとき
 Lair Delve,巣穴の探査,すあなのたんさ,すあなのたんさ
+Lair of the Ashen Idol,灰の偶像のねぐら,はいのぐうぞうのねぐら,はいのぐうぞうのねぐら
 Lair of the Hydra,ハイドラの巣,はいどらのす,はいどらのす
 Lairwatch Giant,住処見張りの巨人,すみかみはりのきょじん,すみかみはりのきょじん
 Lambholt Butcher,ラムホルトの解体者,らむほるとのかいたいしゃ,らむほるとのかいたいしゃ
@@ -11573,6 +11813,7 @@ Lay of the Land,地勢,ちせい,ちせい
 "Lazav, the Multifarious",万面相、ラザーヴ,まんめんそうらざーゔ,まんめんそうらざーゔ
 Lazotep Behemoth,ラゾテプのビヒモス,らぞてぷのびひもす,らぞてぷのびひもす
 Lazotep Chancellor,ラゾテプの大長,らぞてぷのおおおさ,らぞてぷのおおおさ
+Lazotep Convert,ラゾテプの改宗者,らぞてぷのかいしゅうしゃ,らぞてぷのかいしゅうしゃ
 Lazotep Plating,ラゾテプの板金,らぞてぷのばんきん,らぞてぷのばんきん
 Lazotep Reaver,ラゾテプの肉裂き,らぞてぷのにくさき,らぞてぷのにくさき
 Lead,先導,せんどう,せんどう
@@ -11685,6 +11926,7 @@ Leyline Binding,力線の束縛,りきせんのそくばく,りきせんのそ�
 Leyline Invocation,力線の発動,りきせんのはつどう,りきせんのはつどう
 Leyline Phantom,力線の幻影,りきせんのげんえい,りきせんのげんえい
 Leyline Prowler,力線をうろつくもの,りきせんをうろつくもの,りきせんをうろつくもの
+Leyline Surge,力線のうねり,りきせんのうねり,りきせんのうねり
 Leyline Tyrant,力線の暴君,りきせんのぼうくん,りきせんのぼうくん
 Leyline of Abundance,豊穣の力線,ほうじょうのりきせん,ほうじょうのりきせん
 Leyline of Anticipation,予期の力線,よきのりきせん,よきのりきせん
@@ -11806,6 +12048,7 @@ Lightning Volley,稲妻の流弾,いなずまのりゅうだん,いなずまの�
 Lightning Wolf,稲妻狼,いなずまおおかみ,いなずまおおかみ
 Lightning-Core Excavator,稲妻核の発掘者,いなずまかくのはっくつしゃ,いなずまかくのはっくつしゃ
 Lightning-Rig Crew,稲妻砲手,いなずまほうしゅ,いなずまほうしゅ
+Lightshield Array,光盾の陣列,こうじゅんのじんれつ,こうじゅんのじんれつ
 Lightwalker,光歩き,ひかりあるき,ひかりあるき
 Lightwielder Paladin,光帯びの聖騎士,ひかりおびのせいきし,ひかりおびのせいきし
 Lignify,木化,ぼくか,ぼくか
@@ -11829,6 +12072,7 @@ Liliana's Specter,リリアナの死霊,りりあなのしりょう,りりあな
 Liliana's Spoils,リリアナの餌食,りりあなのえじき,りりあなのえじき
 Liliana's Standard Bearer,リリアナの軍旗手,りりあなのぐんきしゅ,りりあなのぐんきしゅ
 Liliana's Steward,リリアナの使用人,りりあなのしようにん,りりあなのしようにん
+Liliana's Talent,リリアナの才能,りりあなのさいのう,りりあなのさいのう
 Liliana's Triumph,リリアナの勝利,りりあなのしょうり,りりあなのしょうり
 "Liliana, Death Mage",死の魔道士、リリアナ,しのまどうしりりあな,しのまどうしりりあな
 "Liliana, Death Wielder",死の使い手、リリアナ,しのつかいてりりあな,しのつかいてりりあな
@@ -11871,7 +12115,9 @@ Lithatog,リサトグ,りさとぐ,りさとぐ
 Lithoform Blight,石成の荒廃,せきせいのこうはい,せきせいのこうはい
 Lithoform Engine,石成エンジン,せきせいえんじん,せきせいえんじん
 Lithomancer's Focus,石術師の焦点,せきじゅつしのしょうてん,せきじゅつしのしょうてん
+Lithomantic Barrage,石術の連射,せきじゅつのれんしゃ,せきじゅつのれんしゃ
 Lithophage,岩喰い怪虫,いわくいかいちゅう,いわくいかいちゅう
+Littjara,リトヤラ,りとやら,りとやら
 Littjara Glade-Warden,リトヤラの林守り,りとやらのはやしまもり,りとやらのはやしまもり
 Littjara Kinseekers,リトヤラの同族探し,りとやらのどうぞくさがし,りとやらのどうぞくさがし
 Littjara Mirrorlake,リトヤラの鏡湖,りとやらのきょうこ,りとやらのきょうこ
@@ -11943,6 +12189,7 @@ Locked in the Cemetery,墓地への幽閉,ぼちへのゆうへい,ぼちえの�
 Locket of Yesterdays,昨日の首飾り,きのうのくびかざり,きのうのくびかざり
 Lockjaw Snapper,閉じ顎の噛みつき,とじあごのかみつき,とじあごのかみつき
 Locthwain Gargoyle,ロークスワインのガーゴイル,ろーくすわいんのがーごいる,ろーくすわいんのがーごいる
+Locthwain Lancer,ロークスワインの槍騎兵,ろーくすわいんのそうきへい,ろーくすわいんのそうきへい
 Locthwain Paladin,ロークスワインの聖騎士,ろーくすわいんのせいきし,ろーくすわいんのせいきし
 Locust Miser,蝗たかりの守銭奴,いなごたかりのしゅせんど,いなごたかりのしゅせんど
 Locust Swarm,イナゴの大群,いなごのたいぐん,いなごのたいぐん
@@ -12312,6 +12559,7 @@ Makindi Sliderunner,マキンディの滑り駆け,まきんでぃのすべり�
 Makindi Stampede,マキンディの暴走,まきんでぃのぼうそう,まきんでぃのぼうそう
 Malach of the Dawn,夜明けのマラク,よあけのまらく,よあけのまらく
 Malachite Golem,マラカイトのゴーレム,まらかいとのごーれむ,まらかいとのごーれむ
+Malady Invoker,疾病の発動者,しっぺいのはつどうしゃ,しっぺいのはつどうしゃ
 Malakir Blood-Priest,マラキールの血僧侶,まらきーるのちそうりょ,まらきーるのちそうりょ
 Malakir Bloodwitch,マラキールの血魔女,まらきーるのちまじょ,まらきーるのちまじょ
 Malakir Cullblade,マラキールの選刃,まらきーるのせんじん,まらきーるのせんじん
@@ -12427,6 +12675,7 @@ Marang River Skeleton,マラング川の骸骨,まらんぐがわのがいこつ
 Marauder's Axe,匪賊の斧,ひぞくのおの,ひぞくのおの
 Marauding Blight-Priest,略奪する破戒僧,りゃくだつするはかいそう,りゃくだつするはかいそう
 Marauding Boneslasher,無法の斬骨鬼,むほうのざんこつき,むほうのざんこつき
+Marauding Dreadship,無法の戦慄艦,むほうのせんりつかん,むほうのせんりつかん
 Marauding Knight,無法の騎士,むほうのきし,むほうのきし
 Marauding Looter,無法の物あさり,むほうのものあさり,むほうのものあさり
 Marauding Maulhorn,無法の槌角,むほうのつちづの,むほうのつちづの
@@ -12452,6 +12701,7 @@ Marchesa's Decree,マルチェッサの命令,まるちぇっさのめいれい,
 Marchesa's Emissary,マルチェッサの使者,まるちぇっさのししゃ,まるちぇっさのししゃ
 Marchesa's Infiltrator,マルチェッサの浸透者,まるちぇっさのしんとうしゃ,まるちぇっさのしんとうしゃ
 Marchesa's Smuggler,マルチェッサの密輸人,まるちぇっさのみつゆにん,まるちぇっさのみつゆにん
+"Marchesa, Resolute Monarch",毅然たる統治者、マルチェッサ,きぜんたるとうちしゃまるちぇっさ,きぜんたるとうちしゃまるちぇっさ
 "Marchesa, the Black Rose",黒薔薇のマルチェッサ,くろばらのまるちぇっさ,くろばらのまるちぇっさ
 Marching Duodrone,行進するデュオドロン,こうしんするでゅおどろん,こうしんするでゅおどろん
 Mardu Ascendancy,マルドゥの隆盛,まるどぅのりゅうせい,まるどぅのりゅうせい
@@ -12514,6 +12764,7 @@ Marsh Hulk,湿地の大男,しっちのおおおとこ,しっちのおおおと�
 Marsh Lurker,湿地に潜むもの,しっちにひそむもの,しっちにひそむもの
 Marsh Threader,湿地を縫う者,しっちをぬうもの,しっちをぬうもの
 Marsh Viper,マーシュ・バイパー,まーしゅばいぱー,まーしゅばいぱー
+Marshal of Zhalfir,ザルファーの司令官,ざるふぁーのしれいかん,ざるふぁーのしれいかん
 Marshal's Anthem,司令官の頌歌,しれいかんのしょうか,しれいかんのしょうか
 Marshaling Cry,隊列の叫び,たいれつのさけび,たいれつのさけび
 Marshaling the Troops,軍勢の整列,ぐんぜいのせいれつ,ぐんぜいのせいれつ
@@ -12669,7 +12920,9 @@ Meditation Puzzle,瞑想パズル,めいそうぱずる,めいそうぱずる
 Medomai the Ageless,老いざるメドマイ,おいざるめどまい,おいざるめどまい
 Medomai's Prophecy,メドマイの予言,めどまいのよげん,めどまいのよげん
 Meekstone,弱者の石,じゃくしゃのいし,じゃくしゃのいし
+Meeting of Minds,精神の交差,せいしんのこうさ,せいしんのこうさ
 Meeting of the Five,五者会談,ごしゃかいだん,ごしゃかいだん
+Megaflora Jungle,巨大植物の密林,きょだいしょくぶつのみつりん,きょだいしょくぶつのみつりん
 Megantic Sliver,大身スリヴァー,だいしんすりゔぁー,だいしんすりゔぁー
 Megatherium,メガセリウム,めがせりうむ,めがせりうむ
 Megatog,メガエイトグ,めがえいとぐ,めがえいとぐ
@@ -12746,6 +12999,7 @@ Merciless Eviction,無慈悲な追い立て,むじひなおいたて,むじひ�
 Merciless Executioner,無慈悲な処刑人,むじひなしょけいにん,むじひなしょけいにん
 Merciless Javelineer,無慈悲な投槍手,むじひなとうそうしゅ,むじひなとうそうしゅ
 Merciless Predator,無慈悲な捕食者,むじひなほしょくしゃ,むじひなほしょくしゃ
+Merciless Repurposing,無慈悲な再利用,むじひなさいりよう,むじひなさいりよう
 Merciless Resolve,無慈悲な決意,むじひなけつい,むじひなけつい
 Mercurial Chemister,気紛れな薬術師,きまぐれなやくじゅつし,きまぐれなやくじゅつし
 Mercurial Geists,気紛れな霊,きまぐれなれい,きまぐれなれい
@@ -13022,6 +13276,7 @@ Mire's Toll,ぬかるみの代価,ぬかるみのだいか,ぬかるみのだい
 "Miren, the Moaning Well",嘆きの井戸、未練,なげきのいどみれん,なげきのいどみれん
 "Mirko Vosk, Mind Drinker",精神を飲む者、ミルコ・ヴォスク,せいしんをのむものみるこゔぉすく,せいしんをのむものみるこゔぉすく
 Mirozel,ミロゼル,みろぜる,みろぜる
+Mirran Banesplitter,ミラディンの悪断,みらでぃんのあくだん,みらでぃんのあくだん
 Mirran Bardiche,ミラディンのバルディッシュ,みらでぃんのばるでぃっしゅ,みらでぃんのばるでぃっしゅ
 Mirran Crusader,ミラディンの十字軍,みらでぃんのじゅうじぐん,みらでぃんのじゅうじぐん
 Mirran Mettle,ミラディンの血気,みらでぃんのけっき,みらでぃんのけっき
@@ -13032,6 +13287,7 @@ Mirri the Cursed,呪われたミリー,のろわれたみりー,のろわれた�
 Mirri's Guile,ミリーの悪知恵,みりーのわるぢえ,みりーのわるぢえ
 "Mirri, Cat Warrior",猫族の戦士ミリー,ねこぞくのせんしみりー,ねこぞくのせんしみりー
 "Mirri, Weatherlight Duelist",ウェザーライトの決闘者、ミリー,うぇざーらいとのけっとうしゃみりー,うぇざーらいとのけっとうしゃみりー
+Mirrodin Avenged,報復したミラディン,ほうふくしたみらでぃん,ほうふくしたみらでぃん
 Mirrodin Besieged,ミラディン包囲戦,みらでぃんほういせん,みらでぃんほういせん
 Mirrodin's Core,ミラディンの核,みらでぃんのかく,みらでぃんのかく
 Mirror Box,鏡の箱,かがみのはこ,かがみのはこ
@@ -13050,7 +13306,9 @@ Mirror of Fate,命運の鏡,めいうんのかがみ,めいうんのかがみ
 Mirror of Life Trapping,ミラー・オヴ・ライフ・トラッピング,みらーおゔらいふとらっぴんぐ,みらーおゔらいふとらっぴんぐ
 Mirror of the Forebears,先祖の鏡,せんぞのかがみ,せんぞのかがみ
 Mirror-Mad Phantasm,鏡狂の幻,かがみきょうのまぼろし,かがみきょうのまぼろし
+Mirror-Shield Hoplite,鏡の盾の重装歩兵,かがみのたてのじゅうそうほへい,かがみのたてのじゅうそうほへい
 Mirror-Sigil Sergeant,鏡印章の兵長,かがみいんしょうのへいちょう,かがみいんしょうのへいちょう
+Mirror-Style Master,鏡流の達人,かがみりゅうのたつじん,かがみりゅうのたつじん
 Mirrorhall Mimic,鏡の間のミミック,かがみのまのみみっく,かがみのまのみみっく
 Mirrormade,鏡細工,かがみざいく,かがみざいく
 Mirrorpool,鏡の池,かがみのいけ,かがみのいけ
@@ -13123,6 +13381,7 @@ Mistgate Pathway,霧門の小道,きりもんのこみち,きりもんのこみ�
 Misthollow Griffin,霧虚ろのグリフィン,きりうつろのぐりふぃん,きりうつろのぐりふぃん
 Misthoof Kirin,霧蹄の麒麟,むていのきりん,むていのきりん
 Mistmeadow Skulk,ミストメドウの身隠し,みすとめどうのみかくし,みすとめどうのみかくし
+Mistmeadow Vanisher,ミストメドウの消滅者,みすとめどうのしょうめつしゃ,みすとめどうのしょうめつしゃ
 Mistmeadow Witch,ミストメドウの魔女,みすとめどうのまじょ,みすとめどうのまじょ
 Mistmoon Griffin,ミストムーン・グリフィン,みすとむーんぐりふぃん,みすとむーんぐりふぃん
 Mistral Charger,北風乗り,きたかぜのり,きたかぜのり
@@ -13190,6 +13449,7 @@ Mogis's Favor,モーギスの好意,もーぎすのこうい,もーぎすのこ�
 Mogis's Marauder,モーギスの匪賊,もーぎすのひぞく,もーぎすのひぞく
 Mogis's Warhound,モーギスの軍用犬,もーぎすのぐんようけん,もーぎすのぐんようけん
 "Mogis, God of Slaughter",殺戮の神、モーギス,さつりくのかみもーぎす,さつりくのかみもーぎす
+Moira and Teshar,モイラとテシャール,もいらとてしゃーる,もいらとてしゃーる
 "Moira, Urborg Haunt",アーボーグの憑依者、モイラ,あーぼーぐのひょういしゃもいら,あーぼーぐのひょういしゃもいら
 Mold Adder,カビのマムシ,かびのまむし,かびのまむし
 Mold Folk,カビ人間,かびにんげん,かびにんげん
@@ -13235,6 +13495,7 @@ Moment of Defiance,抵抗の時,ていこうのとき,ていこうのとき
 Moment of Heroism,勇壮の時,ゆうそうのとき,ゆうそうのとき
 Moment of Silence,沈黙の時,ちんもくのとき,ちんもくのとき
 Moment of Triumph,制覇の時,せいはのとき,せいはのとき
+Moment of Truth,決定的瞬間,けっていてきしゅんかん,けっていてきしゅんかん
 Moment's Peace,一瞬の平和,いっしゅんのへいわ,いっしゅんのへいわ
 Momentary Blink,一瞬の瞬き,いっしゅんのまばたき,いっしゅんのまばたき
 Momentous Fall,重大な落下,じゅうだいならっか,じゅうだいならっか
@@ -13379,6 +13640,7 @@ Mother Bear,母熊,ははぐま,ははぐま
 Mother of Runes,ルーンの母,るーんのはは,るーんのはは
 Mothrider Patrol,蛾乗りの巡回兵,がのりのじゅんかいへい,がのりのじゅんかいへい
 Mothrider Samurai,蛾乗りの侍,がのりのさむらい,がのりのさむらい
+Mount Keralia,ケラル山,けらるさん,けらるさん
 Mount Velus Manticore,ヴェリュス山のマンティコア,ゔぇりゅすさんのまんてぃこあ,ゔぇりゅすさんのまんてぃこあ
 Mountain,山,やま,やま
 Mountain Bandit,山賊,さんぞく,さんぞく
@@ -13468,6 +13730,7 @@ Muscle Sliver,筋肉スリヴァー,きんにくすりゔぁー,きんにくす�
 Muse Drake,詩神のドレイク,ししんのどれいく,ししんのどれいく
 Muse Vessel,詩神の器,ししんのうつわ,ししんのうつわ
 Muse Vortex,詩神の渦,ししんのうず,ししんのうず
+Mutagen Connoisseur,変異体の鑑定人,へんいたいのかんていにん,へんいたいのかんていにん
 Mutagenic Growth,変異原性の成長,へんいげんせいのせいちょう,へんいげんせいのせいちょう
 Mutalith Vortex Beast,ミュータリス・ヴォーテックスビースト,みゅーたりすゔぉーてっくすびーすと,みゅーたりすゔぉーてっくすびーすと
 Mutant's Prey,突然変異の捕食,とつぜんへんいのほしょく,とつぜんへんいのほしょく
@@ -13475,6 +13738,7 @@ Mutavault,変わり谷,かわりだに,かわりだに
 Mutilate,もぎとり,もぎとり,もぎとり
 Mutiny,反逆,はんぎゃく,はんぎゃく
 Mutual Destruction,相互破壊,そうごはかい,そうごはかい
+Mutual Epiphany,相互の天啓,そうごのてんけい,そうごのてんけい
 "Muxus, Goblin Grandee",上流階級のゴブリン、マクサス,じょうりゅうかいきゅうのごぶりんまくさす,じょうりゅうかいきゅうのごぶりんまくさす
 Muzzio's Preparations,ムッツィオの準備,むっつぃおのじゅんび,むっつぃおのじゅんび
 "Muzzio, Visionary Architect",先見的設計家、ムッツィオ,せんけんてきせっけいかむっつぃお,せんけんてきせっけいかむっつぃお
@@ -13605,6 +13869,7 @@ Nahiri's Lithoforming,ナヒリの石成術,なひりのせきせいじゅつ,�
 Nahiri's Machinations,ナヒリの策謀,なひりのさくぼう,なひりのさくぼう
 Nahiri's Sacrifice,ナヒリの生け贄,なひりのいけにえ,なひりのいけにえ
 Nahiri's Stoneblades,ナヒリの石刃,なひりのいしやいば,なひりのいしやいば
+Nahiri's Warcrafting,ナヒリの戦争術,なひりのせんそうじゅつ,なひりのせんそうじゅつ
 Nahiri's Wrath,ナヒリの怒り,なひりのいかり,なひりのいかり
 "Nahiri, Heir of the Ancients",古代を継ぐ者、ナヒリ,こだいをつぐものなひり,こだいをつぐものなひり
 "Nahiri, Storm of Stone",石の嵐、ナヒリ,いしのあらしなひり,いしのあらしなひり
@@ -13615,6 +13880,7 @@ Naiad of Hidden Coves,隠れた入り江のナイアード,かくれたいりえ
 "Najal, the Storm Runner",嵐の走者、ナジャル,あらしのそうしゃなじゃる,あらしのそうしゃなじゃる
 "Najeela, the Blade-Blossom",刃を咲かせる者、ナジーラ,やいばをさかせるものなじーら,やいばをさかせるものなじーら
 Nakaya Shade,ナカイヤの影,なかいやのかげ,なかいやのかげ
+Naktamun,ナクタムン,なくたむん,なくたむん
 Nalfeshnee,ナルフェシュネー,なるふぇしゅねー,なるふぇしゅねー
 Nalia de'Arnise,ナリア・デアルニス,なりあであるにす,なりあであるにす
 Nameless Conqueror,無名なる覇王,むめいなるはおう,むめいなるはおう
@@ -13789,6 +14055,7 @@ Nemesis of Mortals,定命の者の宿敵,じょうみょうのもののしゅく
 Nemesis of Reason,道理の宿敵,どうりのしゅくてき,どうりのしゅくてき
 Neoform,新生化,しんせいか,しんせいか
 Neonate's Rush,新生子の衝動,しんせいしのしょうどう,しんせいしのしょうどう
+Nephalia,ネファリア,ねふぁりあ,ねふぁりあ
 Nephalia Academy,ネファリアのアカデミー,ねふぃりあのあかでみー,ねふぃりあのあかでみー
 Nephalia Drownyard,ネファリアの溺墓,ねふぁりあのできぼ,ねふぁりあのできぼ
 Nephalia Moondrakes,ネファリアの月ドレイク,ねふぁりあのつきどれいく,ねふぁりあのつきどれいく
@@ -13807,6 +14074,7 @@ Nest Robber,巣荒らし,すあらし,すあらし
 Nest of Scarabs,スカラベの巣,すからべのす,すからべのす
 Nested Ghoul,入れ子のグール,いれこのぐーる,いれこのぐーる
 Nested Shambler,巣のシャンブラー,すのしゃんぶらー,すのしゃんぶらー
+Nesting Dovehawk,巣ごもりの鳩鷹,すごもりのはとたか,すごもりのはとたか
 Nesting Dragon,巣ごもりドラゴン,すごもりどらごん,すごもりどらごん
 Nesting Grounds,巣ごもりの地,すごもりのち,すごもりのち
 Nesting Wurm,巣ごもりワーム,すごもりわーむ,すごもりわーむ
@@ -13849,6 +14117,7 @@ Neverwinter Dryad,ネヴァーウィンターのドライアド,ねゔぁーう�
 Neverwinter Hydra,ネヴァーウィンターのハイドラ,ねゔぁーうぃんたーのはいどら,ねゔぁーうぃんたーのはいどら
 Nevinyrral's Disk,ネビニラルの円盤,ねびにらるのえんばん,ねびにらるのえんばん
 "Nevinyrral, Urborg Tyrant",アーボーグの暴君、ネビニラル,あーぼーぐのぼうくんねびにらる,あーぼーぐのぼうくんねびにらる
+New Argive,新アルガイヴ,しんあるがいゔ,しんあるがいゔ
 New Benalia,新ベナリア,しんべなりあ,しんべなりあ
 New Blood,新たな血族,あらたなけつぞく,あらたなけつぞく
 New Frontiers,未踏の開拓地,みとうのかいたくち,みとうのかいたくち
@@ -13866,7 +14135,9 @@ Neyith of the Dire Hunt,不吉な狩猟のニース,ふきつなしゅりょう�
 Nezumi Bladeblesser,祝福刃の鼠,しゅくふくやいばのねずみ,しゅくふくやいばのねずみ
 Nezumi Bone-Reader,鼠の骨読み,ねずみのほねよみ,ねずみのほねよみ
 Nezumi Cutthroat,鼠の殺し屋,ねずみのころしや,ねずみのころしや
+Nezumi Freewheeler,鼠の風来坊,ねずみのふうらいぼう,ねずみのふうらいぼう
 Nezumi Graverobber,鼠の墓荒らし,ねずみのはかあらし,ねずみのはかあらし
+Nezumi Informant,鼠の密通者,ねずみのみっつうしゃ,ねずみのみっつうしゃ
 Nezumi Prowler,うろつく鼠,うろつくねずみ,うろつくねずみ
 Nezumi Road Captain,鼠の特攻隊長,ねずみのとっこうたいちょう,ねずみのとっこうたいちょう
 Nezumi Ronin,鼠の浪人,ねずみのろうにん,ねずみのろうにん
@@ -14063,6 +14334,9 @@ Norin the Wary,二の足踏みのノリン,にのあしふみののりん,にの
 Norn's Annex,ノーンの別館,のーんのべっかん,のーんのべっかん
 Norn's Choirmaster,ノーンの聖歌隊長,のーんのせいかたいちょう,のーんのせいかたいちょう
 Norn's Decree,ノーンの命令,のーんのめいれい,のーんのめいれい
+Norn's Dominion,ノーンの領地,のーんのりょうち,のーんのりょうち
+Norn's Inquisitor,ノーンの審問官,のーんのしんもんかん,のーんのしんもんかん
+Norn's Seedcore,ノーンの種子中枢,のーんのしゅしちゅうすう,のーんのしゅしちゅうすう
 Norn's Wellspring,ノーンの水源,のーんのすいげん,のーんのすいげん
 Northern Paladin,北の聖騎士,きたのせいきし,きたのせいきし
 Norwood Archers,ノーウッドの射手,のーうっどのしゃしゅ,のーうっどのしゃしゅ
@@ -14140,6 +14414,7 @@ Nylea's Presence,ナイレアの存在,ないれあのそんざい,ないれあ�
 "Nylea, God of the Hunt",狩猟の神、ナイレア,しゅりょうのかみないれあ,しゅりょうのかみないれあ
 "Nylea, Keen-Eyed",鋭い目、ナイレア,するどいめないれあ,するどいめないれあ
 "Nymris, Oona's Trickster",ウーナのトリックスター、ニムリス,うーなのとりっくすたーにむりす,うーなのとりっくすたーにむりす
+Nyx,ニクス,にくす,にくす
 Nyx Herald,ニクスの伝令,にくすのでんれい,にくすのでんれい
 Nyx Infusion,ニクスの注入,にくすのちゅうにゅう,にくすのちゅうにゅう
 Nyx Lotus,ニクスの睡蓮,にくすのすいれん,にくすのすいれん
@@ -14255,6 +14530,7 @@ Octoprophet,予言ダコ,よげんだこ,よげんだこ
 Octopus Umbra,タコの陰影,たこのいんえい,たこのいんえい
 Ocular Halo,眼球の輪,がんきゅうのわ,がんきゅうのわ
 Oculus,眼魔,がんま,がんま
+Oculus Whelp,眼魔の仔,がんまのこ,がんまのこ
 Odds,確率,かくりつ,かくりつ
 Odious Trow,憎まれ者のトロウ,にくまれもののとろう,にくまれもののとろう
 Odious Witch,憎まれ者の魔女,にくまれもののまじょ,にくまれもののまじょ
@@ -14344,6 +14620,7 @@ Ollenbock Escort,オリバクの随員,おりばくのずいいん,おりばく�
 "Oloro, Ageless Ascetic",老いざる苦行者、アローロ,おいざるくぎょうしゃあろーろ,おいざるくぎょうしゃあろーろ
 Omega Myr,後陣のマイア,こうじんのまいあ,こうじんのまいあ
 Omen,前兆,ぜんちょう,ぜんちょう
+Omen Hawker,お告げの行商人,おつげのぎょうしょうにん,おつげのぎょうしょうにん
 Omen Machine,前兆の機械,ぜんちょうのきかい,ぜんちょうのきかい
 Omen of the Dead,死者の神のお告げ,ししゃのかみのおつげ,ししゃのかみのおつげ
 Omen of the Forge,鍛冶の神のお告げ,かじのかみのおつげ,かじのかみのおつげ
@@ -14355,6 +14632,7 @@ Ominous Parcel,不吉な小包,ふきつなこづつみ,ふきつなこづつみ
 Ominous Roost,不吉な休息地,ふきつなきゅうそくち,ふきつなきゅうそくち
 Ominous Seas,不吉な海,ふきつなうみ,ふきつなうみ
 Ominous Sphinx,不吉なスフィンクス,ふきつなすふぃんくす,ふきつなすふぃんくす
+"Omnath, Locus of All",万物の座、オムナス,ばんぶつのざおむなす,ばんぶつのざおむなす
 "Omnath, Locus of Creation",創造の座、オムナス,そうぞうのざおむなす,そうぞうのざおむなす
 "Omnath, Locus of Mana",マナの座、オムナス,まなのざおむなす,まなのざおむなす
 "Omnath, Locus of Rage",怒りの座、オムナス,いかりのざおむなす,いかりのざおむなす
@@ -14365,6 +14643,8 @@ Omnispell Adept,万呪文の達人,まんじゅもんのたつじん,まんじ�
 On Alert,即応態勢,そくおうたいせい,そくおうたいせい
 On Serra's Wings,セラからの翼,せらからのつばさ,せらからのつばさ
 On Thin Ice,薄氷の上,はくひょうのうえ,はくひょうのうえ
+Onakke Catacomb,オナッケの地下墓地,おなっけのちかぼち,おなっけのちかぼち
+Onakke Javelineer,オナッケの投槍兵,おなっけのとうそうへい,おなっけのとうそうへい
 Onakke Ogre,オナッケのオーガ,おなっけのおーが,おなっけのおーが
 Once Upon a Time,むかしむかし,むかしむかし,むかしむかし
 Once and Future,過去と未来,かことみらい,かことみらい
@@ -14447,6 +14727,7 @@ Oracle of Bones,骨の神託者,ほねのしんたくしゃ,ほねのしんた�
 Oracle of Dust,塵の予言者,ちりのよげんしゃ,ちりのよげんしゃ
 Oracle of Mul Daya,ムル・ダヤの巫女,むるだやのみこ,むるだやのみこ
 Oracle of Nectars,聖蜜の巫女,せいみつのみこ,せいみつのみこ
+Oracle of Tragedy,悲劇の神託者,ひげきのしんたくしゃ,ひげきのしんたくしゃ
 Oracle's Attendants,巫女の従者,みこのじゅうしゃ,みこのじゅうしゃ
 Oracle's Insight,神託者の眼識,しんたくしゃのがんしき,しんたくしゃのがんしき
 Oracle's Vault,神託者の大聖堂,しんたくしゃのだいせいどう,しんたくしゃのだいせいどう
@@ -14498,7 +14779,9 @@ Order of Midnight,真夜中の騎士団,まよなかのきしだん,まよなか
 Order of Succession,継承順位,けいしょうじゅんい,けいしょうじゅんい
 Order of Whiteclay,白粘土の教団,しろねんどのきょうだん,しろねんどのきょうだん
 Order of Yawgmoth,ヨーグモス騎士団,よーぐもすきしだん,よーぐもすきしだん
+Order of the Alabaster Host,雪花石の徒党の騎士団,せっかせきのととうのきしだん,せっかせきのととうのきしだん
 Order of the Golden Cricket,黄金コオロギの騎士団,おうごんこおろぎのきしだん,おうごんこおろぎのきしだん
+Order of the Mirror,鏡の騎士団,かがみのきしだん,かがみのきしだん
 Order of the Sacred Bell,聖鐘の僧団,せいしょうのそうだん,せいしょうのそうだん
 Order of the Sacred Torch,聖なる灯火の騎士団,せいなるとうかのきしだん,せいなるとうかのきしだん
 Order of the Stars,星の兵団,ほしのへいだん,ほしのへいだん
@@ -14536,6 +14819,7 @@ Ornery Kudu,気性の荒いクーズー,きしょうのあらいくーずー,き
 Ornitharch,羽撃王,うげきおう,うげきおう
 Ornithopter,羽ばたき飛行機械,はばたきひこうきかい,はばたきひこうきかい
 Ornithopter of Paradise,極楽の羽ばたき飛行機械,ごくらくのはばたきひこうきかい,ごくらくのはばたきひこうきかい
+Orochi Colony,大蛇の集落,おろちのしゅうらく,おろちのしゅうらく
 Orochi Eggwatcher,大蛇の卵張り,おろちのたまごばり,おろちのたまごばり
 Orochi Hatchery,大蛇の孵卵器,おろちのふらんき,おろちのふらんき
 Orochi Leafcaller,大蛇の葉詠み,おろちのはよみ,おろちのはよみ
@@ -14543,6 +14827,7 @@ Orochi Merge-Keeper,大蛇の統合守り,おろちのとうごうまもり,お�
 Orochi Ranger,大蛇の野伏,おろちののぶし,おろちののぶし
 Orochi Sustainer,大蛇の支援者,おろちのしえんしゃ,おろちのしえんしゃ
 "Oros, the Avenger",報復するものオロス,ほうふくするものおろす,ほうふくするものおろす
+"Orthion, Hero of Lavabrink",ラバブリンクの英雄、オーシオン,らばぶりんくのえいゆうおーしおん,らばぶりんくのえいゆうおーしおん
 Orthodoxy Enforcer,正典の執行者,せいてんのしっこうしゃ,せいてんのしっこうしゃ
 "Orvar, the All-Form",万物の姿、オルヴァール,ばんぶつのすがたおるゔぁーる,ばんぶつのすがたおるゔぁーる
 Orzhov Advokist,オルゾフの弁護士,おるぞふのべんごし,おるぞふのべんごし
@@ -14558,6 +14843,7 @@ Orzhov Locket,オルゾフのロケット,おるぞふのろけっと,おるぞ�
 Orzhov Pontiff,オルゾフの司教,おるぞふのしきょう,おるぞふのしきょう
 Orzhov Racketeers,オルゾフの強請り屋,おるぞふのゆすりや,おるぞふのゆすりや
 Orzhov Signet,オルゾフの印鑑,おるぞふのいんかん,おるぞふのいんかん
+Orzhova,オルゾヴァ,おるぞゔぁ,おるぞゔぁ
 "Orzhova, the Church of Deals",取引の教会、オルゾヴァ,とりひきのきょうかいおるぞゔぁ,とりひきのきょうかいおるぞゔぁ
 Osai Vultures,オーサイの禿鷹,おーさいのはげたか,おーさいのはげたか
 "Osgir, the Reconstructor",再構築者、オスギル,さいこうちくしゃおすぎる,さいこうちくしゃおすぎる
@@ -14613,11 +14899,13 @@ Overgrown Armasaur,鬱蒼たるアルマサウルス,うっそうたるあるま
 Overgrown Battlement,草茂る胸壁,くさしげるきょうへき,くさしげるきょうへき
 Overgrown Estate,草茂る屋敷,くさしげるやしき,くさしげるやしき
 Overgrown Farmland,草茂る農地,くさしげるのうち,くさしげるのうち
+Overgrown Pest,巨大化した害獣,きょだいかしたがいじゅう,きょだいかしたがいじゅう
 Overgrown Tomb,草むした墓,くさむしたはか,くさむしたはか
 Overgrowth,はびこり,はびこり,はびこり
 Overgrowth Elemental,はびこる精霊,はびこるせいれい,はびこるせいれい
 Overlaid Terrain,重なり合う地形,かさなりあうちけい,かさなりあうちけい
 Overload,過負荷,かふか,かふか
+Overloaded Mage-Ring,過負荷の魔道士輪,かふかのまどうしりん,かふかのまどうしりん
 Overmaster,圧服,あっぷく,あっぷく
 Override,踏みにじり,ふみにじり,ふみにじり
 Overrule,棄却,ききゃく,ききゃく
@@ -14654,6 +14942,7 @@ Oxidda Golem,オキシダのゴーレム,おきしだのごーれむ,おきし�
 Oxidda Scrapmelter,オキシダの屑鉄溶かし,おきしだのくずてつとかし,おきしだのくずてつとかし
 Oxidize,酸化,さんか,さんか
 "Oyobi, Who Split the Heavens",天を裂くもの、央誉飛,てんをさくものおよび,てんをさくものおよび
+"Ozolith, the Shattered Spire",打ち砕かれた尖塔、オゾリス,うちくだかれたせんとうおぞりす,うちくだかれたせんとうおぞりす
 Pacification Array,鎮定工作機,ちんていこうさくき,ちんていこうさくき
 Pacifism,平和な心,へいわなこころ,へいわなこころ
 Pack Attack,一斉攻撃,いっせいこうげき,いっせいこうげき
@@ -14672,6 +14961,7 @@ Pact of the Serpent,大蛇の契約,だいじゃのけいやく,だいじゃの�
 Pact of the Titan,タイタンの契約,たいたんのけいやく,たいたんのけいやく
 "Padeem, Consul of Innovation",発明の領事、パディーム,はつめいのりょうじぱでぃーむ,はつめいのりょうじぱでぃーむ
 Pain,苦痛,くつう,くつう
+Pain Distributor,苦痛分配者,くつうぶんぱいしゃ,くつうぶんぱいしゃ
 Pain Kami,苦痛の神,くつうのかみ,くつうのかみ
 Pain Magnification,苦痛の拡大,くつうのかくだい,くつうのかくだい
 Pain Seer,苦痛の予見者,くつうのよけんしゃ,くつうのよけんしゃ
@@ -14704,6 +14994,7 @@ Pale Recluse,青ざめた出家蜘蛛,あおざめたしゅっけぐも,あお�
 Pale Rider of Trostad,トロスタッドの死騎手,とろすたっどのしきしゅ,とろすたっどのしきしゅ
 Pale Wayfarer,青ざめた旅人,あおざめたたびびと,あおざめたたびびと
 Paleoloth,パレオロス,ぱれおろす,ぱれおろす
+Paliano,パリアノ,ぱりあの,ぱりあの
 Paliano Vanguard,パリアノの先兵,ぱりあののせんぺい,ぱりあののせんぺい
 "Paliano, the High City",高層都市パリアノ,こうそうとしぱりあの,こうそうとしぱりあの
 Palinchron,パリンクロン,ぱりんくろん,ぱりんくろん
@@ -14725,6 +15016,7 @@ Panic Attack,恐ろしき攻撃,おそろしきこうげき,おそろしきこ�
 Panic Spellbomb,恐慌の呪文爆弾,きょうこうのじゅもんばくだん,きょうこうのじゅもんばくだん
 Panicked Bystander,動揺する傍観者,どうようするぼうかんしゃ,どうようするぼうかんしゃ
 Panoptic Mirror,一望の鏡,いちぼうのかがみ,いちぼうのかがみ
+Panopticon,パノプティコン,ぱのぷてぃこん,ぱのぷてぃこん
 Panther Warriors,豹の戦士,ひょうのせんし,ひょうのせんし
 Papercraft Decoy,折り紙細工のおとり,おりがみざいくのおとり,おりがみざいくのおとり
 Paperfin Rascal,紙ひれの悪党,かみひれのあくとう,かみひれのあくとう
@@ -14806,6 +15098,11 @@ Path of Discovery,発見の道,はっけんのみち,はっけんのみち
 Path of Mettle,胆力の道,たんりょくのみち,たんりょくのみち
 Path of Peace,平和の道,へいわのみち,へいわのみち
 Path of Peril,危難の道,きなんのみち,きなんのみち
+Path of the Animist,精霊信者の道,せいれいしんじゃのみち,せいれいしんじゃのみち
+Path of the Enigma,謎の道,なぞのみち,なぞのみち
+Path of the Ghosthunter,幽霊狩りの道,ゆうれいがりのみち,ゆうれいがりのみち
+Path of the Pyromancer,紅蓮術師の道,ぐれんじゅつしのみち,ぐれんじゅつしのみち
+Path of the Schemer,策謀家の道,さくぼうかのみち,さくぼうかのみち
 Path to Exile,流刑への道,るけいへのみち,るけいえのみち
 Path to the Festival,収穫祭への道,しゅうかくさいへのみち,しゅうかくさいえのみち
 Path to the World Tree,世界樹への道,せかいじゅへのみち,せかいじゅえのみち
@@ -15012,11 +15309,14 @@ Phyresis,ファイレクシア化,ふぁいれくしあか,ふぁいれくしあ
 Phyresis Outbreak,ファイレクシア病の蔓延,ふぁいれくしあびょうのまんえん,ふぁいれくしあびょうのまんえん
 Phyrexia's Core,ファイレクシアの核,ふぁいれくしあのかく,ふぁいれくしあのかく
 Phyrexian Altar,ファイレクシアの供犠台,ふぁいれくしあのくぎだい,ふぁいれくしあのくぎだい
+Phyrexian Archivist,ファイレクシアの文書管理人,ふぁいれくしあのぶんしょかんりにん,ふぁいれくしあのぶんしょかんりにん
 Phyrexian Arena,ファイレクシアの闘技場,ふぁいれくしあのとうぎじょう,ふぁいれくしあのとうぎじょう
 Phyrexian Atlas,ファイレクシアの大地図,ふぁいれくしあのだいちず,ふぁいれくしあのだいちず
+Phyrexian Awakening,ファイレクシアの覚醒,ふぁいれくしあのかくせい,ふぁいれくしあのかくせい
 Phyrexian Battleflies,ファイレクシアの戦闘バエ,ふぁいれくしあのせんとうばえ,ふぁいれくしあのせんとうばえ
 Phyrexian Bloodstock,ファイレクシアの吸血兵,ふぁいれくしあのきゅうけつへい,ふぁいれくしあのきゅうけつへい
 Phyrexian Broodlings,ファイレクシアの後裔,ふぁいれくしあのこうえい,ふぁいれくしあのこうえい
+Phyrexian Censor,ファイレクシアの検閲官,ふぁいれくしあのけんえつかん,ふぁいれくしあのけんえつかん
 Phyrexian Colossus,ファイレクシアの巨像,ふぁいれくしあのきょぞう,ふぁいれくしあのきょぞう
 Phyrexian Crusader,ファイレクシアの十字軍,ふぁいれくしあのじゅうじぐん,ふぁいれくしあのじゅうじぐん
 Phyrexian Debaser,ファイレクシアの堕落者,ふぁいれくしあのだらくしゃ,ふぁいれくしあのだらくしゃ
@@ -15047,6 +15347,7 @@ Phyrexian Missionary,ファイレクシアの宣教師,ふぁいれくしあの�
 Phyrexian Monitor,ファイレクシアの監視者,ふぁいれくしあのかんししゃ,ふぁいれくしあのかんししゃ
 Phyrexian Negator,ファイレクシアの抹殺者,ふぁいれくしあのまっさつしゃ,ふぁいれくしあのまっさつしゃ
 Phyrexian Obliterator,ファイレクシアの抹消者,ふぁいれくしあのまっしょうしゃ,ふぁいれくしあのまっしょうしゃ
+Phyrexian Pegasus,ファイレクシアのペガサス,ふぁいれくしあのぺがさす,ふぁいれくしあのぺがさす
 Phyrexian Plaguelord,ファイレクシアの疫病王,ふぁいれくしあのえきびょうおう,ふぁいれくしあのえきびょうおう
 Phyrexian Processor,ファイレクシアの処理装置,ふぁいれくしあのしょりそうち,ふぁいれくしあのしょりそうち
 Phyrexian Prowler,ファイレクシアのうろつくもの,ふぁいれくしあのうろつくもの,ふぁいれくしあのうろつくもの
@@ -15058,6 +15359,7 @@ Phyrexian Reclamation,ファイレクシア流再利用,ふぁいれくしあり
 Phyrexian Revoker,ファイレクシアの破棄者,ふぁいれくしあのはきしゃ,ふぁいれくしあのはきしゃ
 Phyrexian Scriptures,ファイレクシア教典,ふぁいれくしあきょうてん,ふぁいれくしあきょうてん
 Phyrexian Scuta,ファイレクシアの盾持ち,ふぁいれくしあのたてもち,ふぁいれくしあのたてもち
+Phyrexian Skyflayer,ファイレクシアの空剥ぎ,ふぁいれくしあのそらはぎ,ふぁいれくしあのそらはぎ
 Phyrexian Slayer,ファイレクシアの殺害者,ふぁいれくしあのさつがいしゃ,ふぁいれくしあのさつがいしゃ
 Phyrexian Snowcrusher,ファイレクシアの雪潰し,ふぁいれくしあのゆきつぶし,ふぁいれくしあのゆきつぶし
 Phyrexian Soulgorger,ファイレクシアの魂喰らい,ふぁいれくしあのたましいくらい,ふぁいれくしあのたましいくらい
@@ -15092,6 +15394,7 @@ Piety,篤信,とくしん,とくしん
 Piety Charm,篤信の魔除け,とくしんのまよけ,とくしんのまよけ
 Pigment Storm,色素の嵐,しきそのあらし,しきそのあらし
 Pikemen,長槍兵,ちょうそうへい,ちょうそうへい
+Pile On,全軍突撃,ぜんぐんとつげき,ぜんぐんとつげき
 Pilfer,窃取,せっしゅ,せっしゅ
 Pilfered Plans,盗まれた計画,ぬすまれたけいかく,ぬすまれたけいかく
 Pilfering Hawk,くすねる鷹,くすねるたか,くすねるたか
@@ -15166,6 +15469,7 @@ Pitiless Vizier,冷酷な侍臣,れいこくなじしん,れいこくなじし�
 Pixie Dust,ピクシーの粉,ぴくしーのこな,ぴくしーのこな
 Pixie Guide,ピクシーの案内人,ぴくしーのあんないにん,ぴくしーのあんないにん
 Pixie Illusionist,ピクシーの幻術師,ぴくしーのげんじゅつし,ぴくしーのげんじゅつし
+Placid Rottentail,物静かな腐敗尾,ものしずかなふはいび,ものしずかなふはいび
 Plagiarize,盗用,とうよう,とうよう
 Plague Beetle,疫病甲虫,えきびょうこうちゅう,えきびょうこうちゅう
 Plague Belcher,疫病吹き,えきびょうふき,えきびょうふき
@@ -15214,6 +15518,7 @@ Planeswalker's Mirth,プレインズウォーカーの笑い,ぷれいんずう�
 Planeswalker's Mischief,プレインズウォーカーのいたずら,ぷれいんずうぉーかーのいたずら,ぷれいんずうぉーかーのいたずら
 Planeswalker's Scorn,プレインズウォーカーの嘲笑,ぷれいんずうぉーかーのちょうしょう,ぷれいんずうぉーかーのちょうしょう
 Planewide Celebration,次元を挙げた祝賀,じげんをあげたしゅくが,じげんをあげたしゅくが
+Planewide Disaster,次元域の災難,じげんいきのさいなん,じげんいきのさいなん
 Plant Elemental,植物の精霊,しょくぶつのせいれい,しょくぶつのせいれい
 Plant Tadpoles,幼生の植え付け,ようせいのうえつけ,ようせいのうえつけ
 "Plargg, Dean of Chaos",混沌の学部長、プラーグ,こんとんのがくぶちょうぷらーぐ,こんとんのがくぶちょうぷらーぐ
@@ -15224,6 +15529,7 @@ Plasmancer,プラズマンサー,ぷらずまんさー,ぷらずまんさー
 Plate Armor,板金鎧,ばんきんよろい,ばんきんよろい
 Plated Crusher,板金鎧の破壊屋,ばんきんよろいのはかいや,ばんきんよろいのはかいや
 Plated Geopede,板金鎧の土百足,ばんきんよろいのつちむかで,ばんきんよろいのつちむかで
+Plated Kilnbeast,板金鎧の窯獣,ばんきんよろいのようじゅう,ばんきんよろいのようじゅう
 Plated Onslaught,板金鎧の猛攻,ばんきんよろいのもうこう,ばんきんよろいのもうこう
 Plated Pegasus,板金鎧のペガサス,ばんきんよろいのぺがさす,ばんきんよろいのぺがさす
 Plated Rootwalla,板金鎧のルートワラ,ばんきんよろいのるーとわら,ばんきんよろいのるーとわら
@@ -15275,6 +15581,8 @@ Polluted Dead,汚染された死体,おせんされたしたい,おせんされ�
 Polluted Delta,汚染された三角州,おせんされたさんかくす,おせんされたさんかくす
 Polluted Mire,汚染されたぬかるみ,おせんされたぬかるみ,おせんされたぬかるみ
 Pollywog Symbiote,両生共生体,りょうせいきょうせいたい,りょうせいきょうせいたい
+Polukranos Reborn,ポルクラノスの再誕,ぽるくらのすのさいたん,ぽるくらのすのさいたん
+"Polukranos, Engine of Ruin",破滅のエンジン、ポルクラノス,はめつのえんじんぽるくらのす,はめつのえんじんぽるくらのす
 "Polukranos, Unchained",鎖を解かれしもの、ポルクラノス,くさりをとかれしものぽるくらのす,くさりをとかれしものぽるくらのす
 "Polukranos, World Eater",世界を喰らう者、ポルクラノス,せかいをくらうものぽるくらのす,せかいをくらうものぽるくらのす
 Polymorph,変身,へんしん,へんしん
@@ -15307,6 +15615,7 @@ Portal to Phyrexia,ファイレクシアへの門,ふぁいれくしあへのも
 Portcullis,落とし格子,おとしごうし,おとしごうし
 Portcullis Vine,落とし格子の蔦,おとしごうしのつた,おとしごうしのつた
 Portent,先触れ,さきぶれ,さきぶれ
+Portent Tracker,前兆の追跡者,ぜんちょうのついせきしゃ,ぜんちょうのついせきしゃ
 Portent of Betrayal,裏切りの先触れ,うらぎりのさきぶれ,うらぎりのさきぶれ
 Portrait of Michiko,魅知子の肖像,みちこのしょうぞう,みちこのしょうぞう
 Possessed Aven,取り憑かれたエイヴン,とりつかれたえいゔん,とりつかれたえいゔん
@@ -15351,6 +15660,7 @@ Practiced Tactics,訓練された戦術,くんれんされたせんじゅつ,く
 Pradesh Gypsies,プラデッシュの漂泊民,ぷらでぃっしゅのひょうはくみん,ぷらでぃっしゅのひょうはくみん
 Praetor's Counsel,法務官の相談,ほうむかんのそうだん,ほうむかんのそうだん
 Praetor's Grasp,法務官の掌握,ほうむかんのしょうあく,ほうむかんのしょうあく
+Prahv,プラーフ,ぷらーふ,ぷらーふ
 "Prahv, Spires of Order",秩序の尖塔、プラーフ,ちつじょのせんとうぷらーふ,ちつじょのせんとうぷらーふ
 Prairie Stream,大草原の川,だいそうげんのかわ,だいそうげんのかわ
 Prakhata Club Security,プラカタクラブの用心棒,ぷらかたくらぶのようじんぼう,ぷらかたくらぶのようじんぼう
@@ -15387,6 +15697,7 @@ Predatory Wurm,捕食のワーム,ほしょくのわーむ,ほしょくのわー
 Predict,予報,よほう,よほう
 Preeminent Captain,秀でた隊長,ひいでたたいちょう,ひいでたたいちょう
 Preemptive Strike,急襲,きゅうしゅう,きゅうしゅう
+Preening Champion,羽づくろう勇者,はづくろうゆうしゃ,はづくろうゆうしゃ
 Preferred Selection,淘汰,とうた,とうた
 Premature Burial,早すぎる埋葬,はやすぎるまいそう,はやすぎるまいそう
 Preordain,定業,ていごう,ていごう
@@ -15410,6 +15721,7 @@ Price of Glory,栄光の代価,えいこうのだいか,えいこうのだいか
 Price of Knowledge,知識の対価,ちしきのたいか,ちしきのたいか
 Price of Loyalty,忠誠の代価,ちゅうせいのだいか,ちゅうせいのだいか
 Price of Progress,発展の代価,はってんのだいか,はってんのだいか
+Prickle Faeries,とげ刺しフェアリー,とげさしふぇありー,とげさしふぇありー
 Prickleboar,トゲイノシシ,とげいのしし,とげいのしし
 Prickly Boggart,トゲだらけのボガート,とげだらけのぼがーと,とげだらけのぼがーと
 Prickly Marmoset,トゲマーモセット,とげまーもせっと,とげまーもせっと
@@ -15474,6 +15786,7 @@ Primoc Escapee,逃げ出したプライモック,にげだしたぷらいもっ�
 Primordial Hydra,始源のハイドラ,しげんのはいどら,しげんのはいどら
 Primordial Mist,始源の霧,しげんのきり,しげんのきり
 Primordial Ooze,始源の軟泥,しげんのなんでい,しげんのなんでい
+Primordial Plasm,始源の原形質,しげんのげんけいしつ,しげんのげんけいしつ
 Primordial Sage,始原の賢者,しげんのけんじゃ,しげんのけんじゃ
 Primordial Wurm,始源のワーム,しげんのわーむ,しげんのわーむ
 Prince of Thralls,束縛の皇子,そくばくのおうじ,そくばくのおうじ
@@ -15533,6 +15846,7 @@ Professor of Zoomancy,獣魔術の教授,じゅうまじゅつのきょうじゅ
 Professor's Warning,教授の警告,きょうじゅのけいこく,きょうじゅのけいこく
 Profit,利得,りとく,りとく
 Profound Journey,深遠な旅,しんえんなたび,しんえんなたび
+Progenitor Exarch,太祖の総督,たいそのそうとく,たいそのそうとく
 Progenitor Mimic,前駆ミミック,ぜんくみみっく,ぜんくみみっく
 Progenitus,大祖始,だいそし,だいそし
 Prognostic Sphinx,予知するスフィンクス,よちするすふぃんくす,よちするすふぃんくす
@@ -15576,6 +15890,7 @@ Protective Sphere,防護の宝球,ぼうごのほうきゅう,ぼうごのほう
 Protector of the Crown,王位の守護者,おういのしゅごしゃ,おういのしゅごしゃ
 Proteus Machine,変幻の機械,へんげんのきかい,へんげんのきかい
 Proteus Staff,変幻の杖,へんげんのつえ,へんげんのつえ
+Protocol Knight,儀礼の騎士,ぎれいのきし,ぎれいのきし
 Protomatter Powder,原始物の粉,げんしぶつのこな,げんしぶつのこな
 Prototype Portal,試作品の扉,しさくひんのとびら,しさくひんのとびら
 Proud Mentor,誇らしい師匠,ほこらしいししょう,ほこらしいししょう
@@ -15722,9 +16037,11 @@ Pyre Hound,火の猟犬,ひのりょうけん,ひのりょうけん
 Pyre Spawn,送り火の落とし子,おくりびのおとしご,おくりびのおとしご
 Pyre Zombie,火葬のゾンビ,かそうのぞんび,かそうのぞんび
 Pyre of Heroes,英雄たちの送り火,えいゆうたちのおくりび,えいゆうたちのおくりび
+Pyre of the World Tree,世界樹の送り火,せかいじゅのおくりび,せかいじゅのおくりび
 Pyre-Sledge Arsonist,大火槌の放火魔,おおひづちのほうかま,おおひづちのほうかま
 Pyreheart Wolf,紅蓮心の狼,ぐれんしんのおおかみ,ぐれんしんのおおかみ
 Pyretic Hunter,紅蓮の狩り手,ぐれんのかりて,ぐれんのかりて
+Pyretic Prankster,紅蓮のいたずら者,ぐれんのいたずらもの,ぐれんのいたずらもの
 Pyretic Ritual,発熱の儀式,はつねつのぎしき,はつねつのぎしき
 Pyrewild Shaman,薪荒れのシャーマン,まきあれのしゃーまん,まきあれのしゃーまん
 Pyric Salamander,紅蓮のサラマンダー,ぐれんのさらまんだー,ぐれんのさらまんだー
@@ -15817,6 +16134,7 @@ Quicksilver Fisher,水銀の魚捕り,すいぎんのさかなとり,すいぎ�
 Quicksilver Fountain,水銀の泉,すいぎんのいずみ,すいぎんのいずみ
 Quicksilver Gargantuan,水銀のガルガンチュアン,すいぎんのがるがんちゅあん,すいぎんのがるがんちゅあん
 Quicksilver Geyser,水銀の噴出,すいぎんのふんしゅつ,すいぎんのふんしゅつ
+Quicksilver Sea,水銀海,すいぎんかい,すいぎんかい
 Quicksilver Wall,水銀の壁,すいぎんのかべ,すいぎんのかべ
 Quicksmith Genius,天才速製職人,てんさいそくせいしょくにん,てんさいそくせいしょくにん
 Quicksmith Rebel,速製職人の反逆者,そくせいしょくにんのはんぎゃくしゃ,そくせいしょくにんのはんぎゃくしゃ
@@ -15833,6 +16151,7 @@ Quilled Wolf,針毛の狼,はりげのおおかみ,はりげのおおかみ
 Quillmane Baku,筆鬣の獏,ふでたてがみのばく,ふでたてがみのばく
 Quillspike,羽軸トゲ,はねじくとげ,はねじくとげ
 "Quintorius, Field Historian",実地歴史家、クイントリウス,じっちれきしかくいんとりうす,じっちれきしかくいんとりうす
+"Quintorius, Loremaster",伝承師、クイントリウス,でんしょうしくいんとりうす,でんしょうしくいんとりうす
 Quirion Beastcaller,クウィリーオンの獣呼び,くうぃりーおんのけものよび,くうぃりーおんのけものよび
 Quirion Druid,クウィリーオン・ドルイド,くうぃりーおんどるいど,くうぃりーおんどるいど
 Quirion Dryad,クウィリーオンのドライアド,くうぃりーおんのどらいあど,くうぃりーおんのどらいあど
@@ -15992,6 +16311,7 @@ Rakshasa's Secret,ラクシャーサの秘密,らくしゃーさのひみつ,ら
 Ral Zarek,ラル・ザレック,らるざれっく,らるざれっく
 Ral's Dispersal,ラルの消散,らるのしょうさん,らるのしょうさん
 Ral's Outburst,ラルの発露,らるのはつろ,らるのはつろ
+Ral's Reinforcements,ラルの援軍,らるのえんぐん,らるのえんぐん
 Ral's Staticaster,ラルの静電術師,らるのせいでんじゅつし,らるのせいでんじゅつし
 "Ral, Caller of Storms",嵐を呼ぶ者、ラル,あらしをよぶものらる,あらしをよぶものらる
 "Ral, Izzet Viceroy",イゼット副長、ラル,いぜっとふくちょうらる,いぜっとふくちょうらる
@@ -16014,6 +16334,7 @@ Rambunctious Mutt,やんちゃな犬,やんちゃないぬ,やんちゃないぬ
 "Ramos, Dragon Engine",ドラゴン・エンジン、レイモス,どらごんえんじんれいもす,どらごんえんじんれいもす
 Ramosian Captain,レイモス教の隊長,れいもすきょうのたいちょう,れいもすきょうのたいちょう
 Ramosian Commander,レイモス教の団長,れいもすきょうのだんちょう,れいもすきょうのだんちょう
+Ramosian Greatsword,レイモス教の大剣,れいもすきょうのたいけん,れいもすきょうのたいけん
 Ramosian Lieutenant,レイモス教の副長,れいもすきょうのふくちょう,れいもすきょうのふくちょう
 Ramosian Rally,レイモス教の再興,れいもすきょうのさいこう,れいもすきょうのさいこう
 Ramosian Revivalist,レイモス教の復興論者,れいもすきょうのふっこうろんしゃ,れいもすきょうのふっこうろんしゃ
@@ -16025,9 +16346,11 @@ Rampaging Baloths,猛り狂うベイロス,たけりくるうべいろす,たけ
 Rampaging Brontodon,暴れ回るブロントドン,あばれまわるぶろんとどん,あばれまわるぶろんとどん
 Rampaging Cyclops,暴れ回るサイクロプス,あばれまわるさいくろぷす,あばれまわるさいくろぷす
 Rampaging Ferocidon,暴れ回るフェロキドン,あばれまわるふぇろきどん,あばれまわるふぇろきどん
+Rampaging Geoderm,猛り狂うジオダーム,たけりくるうじおだーむ,たけりくるうじおだーむ
 Rampaging Growth,猛り狂う成長,たけりくるうせいちょう,たけりくるうせいちょう
 Rampaging Hippo,猛り狂うカバ,たけりくるうかば,たけりくるうかば
 Rampaging Monument,猛り狂う聖像,たけりくるうせいぞう,たけりくるうせいぞう
+Rampaging Raptor,猛り狂う猛竜,たけりくるうもうりゅう,たけりくるうもうりゅう
 Rampaging Rendhorn,暴れ回る裂き角,あばれまわるさきづの,あばれまわるさきづの
 Rampaging Werewolf,猛り狂う狼男,たけりくるうおおかみおとこ,たけりくるうおおかみおとこ
 Rampant Elephant,荒ぶる象,あらぶるぞう,あらぶるぞう
@@ -16055,6 +16378,7 @@ Ranger-Captain of Eos,イーオスのレインジャー長,いーおすのれい
 Ranging Raptors,群棲する猛竜,ぐんせいするもうりゅう,ぐんせいするもうりゅう
 Rank Officer,生臭い士官,なまぐさいしかん,なまぐさいしかん
 Rank and File,雑兵の群れ,ぞうひょうのむれ,ぞうひょうのむれ
+Rankle and Torbran,ランクルとトーブラン,らんくるととーぶらん,らんくるととーぶらん
 "Rankle, Master of Pranks",悪ふざけの名人、ランクル,わるふざけのめいじんらんくる,わるふざけのめいじんらんくる
 Ransack,狼藉,ろうぜき,ろうぜき
 Ransack the Lab,研究室荒らし,けんきゅうしつあらし,けんきゅうしつあらし
@@ -16068,6 +16392,7 @@ Raptor Companion,猛竜の相棒,もうりゅうのあいぼう,もうりゅう�
 Raptor Hatchling,猛竜の幼生,もうりゅうのようせい,もうりゅうのようせい
 Rasaad yn Bashir,ラサード・イン・バシール,らさーどいんばしーる,らさーどいんばしーる
 Rashida Scalebane,ラシーダ・スケイルベイン,らしーだすけいるべいん,らしーだすけいるべいん
+Rashmi and Ragavan,ラシュミとラガバン,らしゅみとらがばん,らしゅみとらがばん
 "Rashmi, Eternities Crafter",永遠の造り手、ラシュミ,えいえんのつくりてらしゅみ,えいえんのつくりてらしゅみ
 "Rasputin, the Oneiromancer",夢語り、ラスプーチン,ゆめかたりらすぷーちん,ゆめかたりらすぷーちん
 Rat Colony,ネズミの群棲,ねずみのぐんせい,ねずみのぐんせい
@@ -16122,6 +16447,7 @@ Ravenous Lindwurm,貪欲なリンドワーム,どんよくなりんどわーむ,
 Ravenous Necrotitan,貪欲な屍巨人,どんよくなしかばねきょじん,どんよくなしかばねきょじん
 Ravenous Rats,貪欲なるネズミ,どんよくなるねずみ,どんよくなるねずみ
 Ravenous Rotbelly,貪欲な腐敗腹,どんよくなふはいばら,どんよくなふはいばら
+Ravenous Sailback,貪欲な帆背びれ,どんよくなほせびれ,どんよくなほせびれ
 Ravenous Skirge,貪欲なるスカージ,どんよくなるすかーじ,どんよくなるすかーじ
 Ravenous Slime,貪欲なスライム,どんよくなすらいむ,どんよくなすらいむ
 Ravenous Squirrel,貪欲なるリス,どんよくなるりす,どんよくなるりす
@@ -16183,6 +16509,7 @@ Reality Heist,現実の強奪,げんじつのごうだつ,げんじつのごう�
 Reality Hemorrhage,現実の流出,げんじつのりゅうしゅつ,げんじつのりゅうしゅつ
 Reality Ripple,次元のほころび,じげんのほころび,じげんのほころび
 Reality Scramble,現実混ぜ,げんじつまぜ,げんじつまぜ
+Reality Shaping,現実の造形,げんじつのぞうけい,げんじつのぞうけい
 Reality Shift,現実変容,げんじつへんよう,げんじつへんよう
 Reality Smasher,現実を砕くもの,げんじつをくだくもの,げんじつをくだくもの
 Reality Spasm,現実のひきつけ,げんじつのひきつけ,げんじつのひきつけ
@@ -16190,6 +16517,8 @@ Reality Strobe,現実のストロボ,げんじつのすとろぼ,げんじつの
 Realm Razer,領土を滅ぼすもの,りょうどをほろぼすもの,りょうどをほろぼすもの
 Realm Seekers,領域の探求者,りょういきのたんきゅうしゃ,りょういきのたんきゅうしゃ
 Realm-Cloaked Giant,王国まといの巨人,おうこくまといのきょじん,おうこくまといのきょじん
+Realmbreaker's Grasp,次元壊しの掌握,じげんこわしのしょうあく,じげんこわしのしょうあく
+"Realmbreaker, the Invasion Tree",侵略樹、次元壊し,しんりゃくじゅじげんこわし,しんりゃくじゅじげんこわし
 Realms Befitting My Majesty,我が威厳に相応しき領地,わがいげんにふさわしきりょうち,わがいげんにふさわしきりょうち
 Realms Uncharted,未知な領域,みちなりょういき,みちなりょういき
 Realmwalker,領界渡り,りょうかいわたり,りょうかいわたり
@@ -16293,6 +16622,7 @@ Red Mana Battery,赤の魔力貯蔵器,あかのまりょくちょぞうき,あ�
 Red Sun's Twilight,赤の太陽の黄昏,あかのたいようのたそがれ,あかのたいようのたそがれ
 Red Sun's Zenith,赤の太陽の頂点,あかのたいようのちょうてん,あかのたいようのちょうてん
 Red Ward,赤の護法印,あかのごほういん,あかのごほういん
+Redcap Heelslasher,レッドキャップの踵斬り,れっどきゃっぷのかかとぎり,れっどきゃっぷのかかとぎり
 Redcap Melee,レッドキャップの乱闘,れっどきゃっぷのらんとう,れっどきゃっぷのらんとう
 Redcap Raiders,レッドキャップの略奪者,れっどきゃっぷのりゃくだつしゃ,れっどきゃっぷのりゃくだつしゃ
 Redeem,救い,すくい,すくい
@@ -16308,6 +16638,7 @@ Redwood Treefolk,レッドウッド・ツリーフォーク,れっどうっど�
 Reef Pirates,浅瀬の海賊,あさせのかいぞく,あさせのかいぞく
 Reef Shaman,浅瀬のシャーマン,あさせのしゃーまん,あさせのしゃーまん
 Reef Worm,浅瀬蟲,あさせむし,あさせむし
+Referee Squad,審判団,しんぱんだん,しんぱんだん
 Reflect Damage,ダメージ反射,だめーじはんしゃ,だめーじはんしゃ
 Reflecting Pool,反射池,はんしゃいけ,はんしゃいけ
 Reflection of Kiki-Jiki,キキジキの鏡像,ききじきのきょうぞう,ききじきのきょうぞう
@@ -16318,6 +16649,7 @@ Reflex Sliver,反射スリヴァー,はんしゃすりゔぁー,はんしゃす�
 Reflexes,速やかな反応,すみやかなはんのう,すみやかなはんのう
 Refocus,再集中,さいしゅうちゅう,さいしゅうちゅう
 Reforge the Soul,魂の再鍛,たましいのさいたん,たましいのさいたん
+Refraction Elemental,屈折エレメンタル,くっせつえれめんたる,くっせつえれめんたる
 Refraction Trap,屈折の罠,くっせつのわな,くっせつのわな
 Refresh,リフレッシュ,りふれっしゅ,りふれっしゅ
 Refreshing Rain,清々しい雨,すがすがしいあめ,すがすがしいあめ
@@ -16417,6 +16749,7 @@ Remove Soul,霊魂放逐,れいこんほうちく,れいこんほうちく
 Rend Flesh,肉体の奪取,にくたいのだっしゅ,にくたいのだっしゅ
 Rend Spirit,霊魂の奪取,れいこんのだっしゅ,れいこんのだっしゅ
 Rendclaw Trow,裂き爪のトロウ,さきづめのとろう,さきづめのとろう
+Render Inert,無力化,むりょくか,むりょくか
 Render Silent,静寂宣告,せいじゃくせんこく,せいじゃくせんこく
 Rending Flame,引き裂く炎,ひきさくほのお,ひきさくほのお
 Rending Vines,引き裂く蔦,ひきさくつた,ひきさくつた
@@ -16746,6 +17079,7 @@ Riptide Chronologist,激浪の年代学者,げきろうのねんだいがくし�
 Riptide Crab,激浪のカニ,げきろうのかに,げきろうのかに
 Riptide Director,激浪計画の指揮者,げきろうけいかくのしきしゃ,げきろうけいかくのしきしゃ
 Riptide Entrancer,激浪の幻惑者,げきろうのげんわくしゃ,げきろうのげんわくしゃ
+Riptide Island,激浪島,げきろうとう,げきろうとう
 Riptide Laboratory,激浪の研究室,げきろうのけんきゅうしつ,げきろうのけんきゅうしつ
 Riptide Mangler,激浪の刻み獣,げきろうのきざみじゅう,げきろうのきざみじゅう
 Riptide Pilferer,激浪のこそ泥,げきろうのこそどろ,げきろうのこそどろ
@@ -16915,7 +17249,9 @@ Rolling Temblor,轟く激震,とどろくげきしん,とどろくげきしん
 Rolling Thunder,とどろく雷鳴,とどろくらいめい,とどろくらいめい
 Rona's Vortex,ローナの渦,ろーなのうず,ろーなのうず
 "Rona, Disciple of Gix",ギックスの信奉者、ローナ,ぎっくすのしんぽうしゃろーな,ぎっくすのしんぽうしゃろーな
+"Rona, Herald of Invasion",侵攻の伝令、ローナ,しんこうのでんれいろーな,しんこうのでんれいろーな
 "Rona, Sheoldred's Faithful",シェオルドレッドの心酔者、ローナ,しぇおるどれっどのしんすいしゃろーな,しぇおるどれっどのしんすいしゃろーな
+"Rona, Tolarian Obliterator",トレイリアの抹消者、ローナ,とれいりあのまっしょうしゃろーな,とれいりあのまっしょうしゃろーな
 Ronin Cavekeeper,浪人の洞守り,ろうにんのほらもり,ろうにんのほらもり
 Ronin Cliffrider,浪人の崖乗り,ろうにんのがけのり,ろうにんのがけのり
 Ronin Houndmaster,浪人の犬師,ろうにんのいぬし,ろうにんのいぬし
@@ -16925,6 +17261,7 @@ Ronom Serpent,ロノムの海蛇,ろのむのうみへび,ろのむのうみへ�
 Ronom Unicorn,ロノムの一角獣,ろのむのいっかくじゅう,ろのむのいっかくじゅう
 Roofstalker Wight,屋根伝いのワイト,やねづたいのわいと,やねづたいのわいと
 Rooftop Nuisance,屋上の迷惑,おくじょうのめいわく,おくじょうのめいわく
+Rooftop Saboteurs,屋上の妨害工作員,おくじょうのぼうがいこうさくいん,おくじょうのぼうがいこうさくいん
 Rooftop Storm,屋根の上の嵐,やねのうえのあらし,やねのうえのあらし
 Rookie Mistake,初心者の過ち,しょしんしゃのあやまち,しょしんしゃのあやまち
 Roon of the Hidden Realm,隠された領域のローン,かくされたりょういきのろーん,かくされたりょういきのろーん
@@ -17004,6 +17341,7 @@ Rowan Kenrith,ローアン・ケンリス,ろーあんけんりす,ろーあん�
 Rowan Treefolk,ナナカマドのツリーフォーク,ななかまどのつりーふぉーく,ななかまどのつりーふぉーく
 Rowan's Battleguard,ローアンの寄騎,ろーあんのよりき,ろーあんのよりき
 Rowan's Stalwarts,ローアンの親衛隊,ろーあんのしんえいたい,ろーあんのしんえいたい
+Rowan's Talent,ローアンの才能,ろーあんのさいのう,ろーあんのさいのう
 "Rowan, Fearless Sparkmage",不敵な火花魔道士、ローアン,ふてきなひばなまどうしろーあん,ふてきなひばなまどうしろーあん
 "Rowan, Scholar of Sparks",火花の学者、ローアン,ひばなのがくしゃろーあん,ひばなのがくしゃろーあん
 Rowdy Crew,荒くれ船員,あらくれせんいん,あらくれせんいん
@@ -17049,6 +17387,7 @@ Ruinous Intrusion,壊滅的な介入,かいめつてきなかいにゅう,かい
 Ruinous Minotaur,破滅的なミノタウルス,はめつてきなみのたうるす,はめつてきなみのたうるす
 Ruinous Path,破滅の道,はめつのみち,はめつのみち
 Ruinous Ultimatum,破滅の根本原理,はめつのこんぽんげんり,はめつのこんぽんげんり
+Ruins Recluse,遺跡のイトグモ,いせきのいとぐも,いせきのいとぐも
 Ruins of Oran-Rief,オラン＝リーフの廃墟,おらんりーふのはいきょ,おらんりーふのはいきょ
 Ruins of Trokair,トロウケアの廃墟,とろうけあのはいきょ,とろうけあのはいきょ
 Rukh Egg,ルフ鳥の卵,るふちょうのたまご,るふちょうのたまご
@@ -17239,11 +17578,13 @@ Saheeli's Silverwing,サヒーリの銀翼,さひーりのぎんよく,さひー
 "Saheeli, the Gifted",天智、サヒーリ,てんちさひーり,てんちさひーり
 Sai of the Shinobi,忍びの釵,しのびのさい,しのびのさい
 "Sai, Master Thopterist",練達飛行機械職人、サイ,れんたつひこうきかいしょくにんさい,れんたつひこうきかいしょくにんさい
+Saiba Cryptomancer,サイバの暗号術師,さいばのあんごうじゅつし,さいばのあんごうじゅつし
 Saiba Trespassers,サイバの侵入者,さいばのしんにゅうしゃ,さいばのしんにゅうしゃ
 Said,任務,にんむ,にんむ
 Sailmonger,風受け売り,かぜうけうり,かぜうけうり
 Sailor of Means,財力ある船乗り,ざいりょくあるふなのり,ざいりょくあるふなのり
 Sailors' Bane,船乗りを滅ぼすもの,ふなのりをほろぼすもの,ふなのりをほろぼすもの
+Saint Traft and Rem Karolus,聖トラフトとレム・カロラス,せいとらふととれむかろらす,せいとらふととれむかろらす
 Sakashima of a Thousand Faces,千の顔の逆嶋,せんのかおのさかしま,せんのかおのさかしま
 Sakashima the Impostor,騙り者、逆嶋,かたりものさかしま,かたりものさかしま
 Sakashima's Protege,逆嶋の手下,さかしまのてした,さかしまのてした
@@ -17331,10 +17672,12 @@ Sands of Delirium,狂乱病の砂,きょうらんびょうのすな,きょうら
 Sands of Time,時の砂,ときのすな,ときのすな
 Sandskin,砂の皮膚,すなのひふ,すなのひふ
 Sandsower,砂蒔き,すなまき,すなまき
+Sandstalker Moloch,砂追いのモロク,すなおいのもろく,すなおいのもろく
 Sandsteppe Citadel,砂草原の城塞,すなそうげんのじょうさい,すなそうげんのじょうさい
 Sandsteppe Mastodon,砂草原のマストドン,すなそうげんのますとどん,すなそうげんのますとどん
 Sandsteppe Outcast,砂草原ののけ者,すなそうげんののけもの,すなそうげんののけもの
 Sandsteppe Scavenger,砂草原のゴミあさり,すなそうげんのごみあさり,すなそうげんのごみあさり
+Sandsteppe War Riders,砂草原の戦乗り,すなそうげんのいくさのり,すなそうげんのいくさのり
 Sandstone Bridge,砂岩の橋,さがんのはし,さがんのはし
 Sandstone Deadfall,砂岩の落としわな,さがんのおとしわな,さがんのおとしわな
 Sandstone Needle,鋭き砂岩,するどきさがん,するどきさがん
@@ -17544,6 +17887,7 @@ Scepter of Empires,帝国の王笏,ていこくのおうしゃく,ていこく�
 Scepter of Fugue,遁走の王笏,とんそうのおうしゃく,とんそうのおうしゃく
 Scepter of Insight,洞察の王笏,どうさつのおうしゃく,どうさつのおうしゃく
 Sceptre of Eternal Glory,久遠なる栄光の笏,くおんなるえいこうのしゃく,くおんなるえいこうのしゃく
+Schema Thief,設計図盗み,せっけいずぬすみ,せっけいずぬすみ
 Scheming Aspirant,策謀の有貌体,さくぼうのゆうぼうたい,さくぼうのゆうぼうたい
 Scheming Fence,策謀の故買人,さくぼうのこばいにん,さくぼうのこばいにん
 Scheming Symmetry,対称な対応,たいしょうなたいおう,たいしょうなたいおう
@@ -17585,6 +17929,7 @@ Scoria Cat,岩滓の猫,がんさいのねこ,がんさいのねこ
 Scoria Elemental,岩滓の精霊,がんさいのせいれい,がんさいのせいれい
 Scoria Wurm,岩滓のワーム,がんさいのわーむ,がんさいのわーむ
 Scorn Effigy,嘲笑の人形,ちょうしょうのにんぎょう,ちょうしょうのにんぎょう
+Scorn-Blade Berserker,軽蔑剣の狂戦士,けいべつけんのきょうせんし,けいべつけんのきょうせんし
 Scorned Villager,軽蔑された村人,けいべつされたむらびと,けいべつされたむらびと
 Scornful AEther-Lich,軽蔑するエーテリッチ,けいべつするえーてりっち,けいべつするえーてりっち
 Scornful Egotist,軽蔑する利己主義者,けいべつするりこしゅぎしゃ,けいべつするりこしゅぎしゃ
@@ -17627,6 +17972,7 @@ Scrapdiver Serpent,屑鉄潜りの海蛇,くずてつもぐりのうみへび,�
 Scrapheap,屑鉄の山,くずてつのやま,くずてつのやま
 Scrapheap Scrounger,屑鉄場のたかり屋,くずてつじょうのたかりや,くずてつじょうのたかりや
 Scrapper Champion,屑鉄会の勇者,くずてつかいのゆうしゃ,くずてつかいのゆうしゃ
+Scrappy Bruiser,気の強い暴れ者,きのつよいあばれもの,きのつよいあばれもの
 Scrapskin Drake,屑肌のドレイク,くずはだのどれいく,くずはだのどれいく
 Scrapwork Cohort,屑鉄造りの軍勢,くずてつづくりのぐんぜい,くずてつづくりのぐんぜい
 Scrapwork Mutt,屑鉄造りの雑種犬,くずてつづくりのざっしゅけん,くずてつづくりのざっしゅけん
@@ -17661,6 +18007,7 @@ Scroll of Fate,運命の巻物,うんめいのまきもの,うんめいのまき
 Scroll of Griselbrand,グリセルブランドの巻物,ぐりせるぶらんどのまきもの,ぐりせるぶらんどのまきもの
 Scroll of Origins,開闢の巻物,かいびゃくのまきもの,かいびゃくのまきもの
 Scroll of the Masters,達人の巻物,たつじんのまきもの,たつじんのまきもの
+Scrollshift,巻物変容,まきものへんよう,まきものへんよう
 Scrounge,たかり,たかり,たかり
 Scrounged Scythe,拾った大鎌,ひろったおおかま,ひろったおおかま
 Scrounger of Souls,魂のたかり屋,たましいのたかりや,たましいのたかりや
@@ -17669,6 +18016,7 @@ Scryb Ranger,スクリブのレインジャー,すくりぶのれいんじゃー
 Scryb Sprites,スクリブ・スプライト,すくりぶすぷらいと,すくりぶすぷらいと
 Scrying Glass,占いの鏡,うらないのかがみ,うらないのかがみ
 Scrying Sheets,占術の岩床,せんじゅつのがんしょう,せんじゅつのがんしょう
+Sculpted Perfection,彫り込まれた完成態,ほりこまれたかんせいたい,ほりこまれたかんせいたい
 Sculpted Sunburst,選択式サンバースト,せんたくしきさんばーすと,せんたくしきさんばーすと
 Sculpting Steel,彫り込み鋼,ほりこみはがね,ほりこみはがね
 Sculptor of Winter,冬を彫る者,ふゆをほるもの,ふゆをほるもの
@@ -17723,6 +18071,7 @@ Seafloor Stalker,海底の忍び寄り,かいていのしのびより,かいて�
 Seagraf Skaab,海墓のスカーブ,かいぼのすかーぶ,かいぼのすかーぶ
 Seahunter,海のハンター,うみのはんたー,うみのはんたー
 Seal Away,封じ込め,ふうじこめ,ふうじこめ
+Seal from Existence,存在の封印,そんざいのふういん,そんざいのふういん
 Seal of Cleansing,浄化の印章,じょうかのいんしょう,じょうかのいんしょう
 Seal of Doom,破滅の印章,はめつのいんしょう,はめつのいんしょう
 Seal of Fire,炎の印章,ほのおのいんしょう,ほのおのいんしょう
@@ -17744,6 +18093,7 @@ Search the City,市内捜査,しないそうさ,しないそうさ
 Search the Premises,家宅捜索,かたくそうさく,かたくそうさく
 Searchlight Companion,探照灯の相棒,たんしょうとうのあいぼう,たんしょうとうのあいぼう
 Searchlight Geist,照明灯の霊,しょうめいとうのれい,しょうめいとうのれい
+Searing Barb,焼尽の逆刺,しょうじんのさかざし,しょうじんのさかざし
 Searing Barrage,焼尽の連射,しょうじんのれんしゃ,しょうじんのれんしゃ
 Searing Blaze,焼尽の猛火,しょうじんのもうか,しょうじんのもうか
 Searing Blood,灼熱の血,しゃくねつのち,しゃくねつのち
@@ -17804,16 +18154,19 @@ Sedraxis Alchemist,セドラクシスの錬金術師,せどらくしすのれん
 Sedraxis Specter,セドラクシスの死霊,せどらくしすのしりょう,せどらくしすのしりょう
 "Sedris, the Traitor King",裏切り者の王、セドリス,うらぎりもののおうせどりす,うらぎりもののおうせどりす
 See Beyond,先読み,さきよみ,さきよみ
+See Double,二重視,にじゅうし,にじゅうし
 See Red,激怒,げきど,げきど
 See the Truth,真実の視認,しんじつのしにん,しんじつのしにん
 See the Unwritten,書かれざるものの視認,かかれざるもののしにん,かかれざるもののしにん
 Seed Guardian,種子の守護者,しゅしのしゅごしゃ,しゅしのしゅごしゃ
 Seed Spark,火花の結実,ひばなのけつじつ,ひばなのけつじつ
+Seed of Hope,希望の種子,きぼうのしゅし,きぼうのしゅし
 Seed the Land,地に種,ちにたね,ちにたね
 Seedborn Muse,種子生まれの詩神,しゅしうまれのししん,しゅしうまれのししん
 Seedcradle Witch,種かごの魔女,たねかごのまじょ,たねかごのまじょ
 Seedguide Ash,種導きのトネリコ,たねみちびきのとねりこ,たねみちびきのとねりこ
 Seedling Charm,若木の魔除け,わかぎのまよけ,わかぎのまよけ
+Seedpod Caretaker,種子殻の番人,しゅしかくのばんにん,しゅしかくのばんにん
 Seeds of Innocence,無垢への回帰,むくへのかいき,むくえのかいき
 Seeds of Renewal,蘇生の二粒,そせいのふたつぶ,そせいのふたつぶ
 Seeds of Strength,力の種,ちからのたね,ちからのたね
@@ -17827,6 +18180,7 @@ Seeker of Skybreak,天光を求める者,てんこうをもとめるもの,て�
 Seeker of Slaanesh,シーカー・オヴ・スラーネッシュ,しーかーおゔすらーねっしゅ,しーかーおゔすらーねっしゅ
 Seeker of the Way,道の探求者,みちのたんきゅうしゃ,みちのたんきゅうしゃ
 Seekers' Squire,探求者の従者,たんきゅうしゃのじゅうしゃ,たんきゅうしゃのじゅうしゃ
+Seer of Stolen Sight,奪われた視界を視る者,うばわれたしかいをみるもの,うばわれたしかいをみるもの
 Seer of the Last Tomorrow,最後の明日の予見者,さいごのあしたのよけんしゃ,さいごのあしたのよけんしゃ
 Seer's Lantern,予見者のランタン,よけんしゃのらんたん,よけんしゃのらんたん
 Seer's Sundial,予見者の日時計,よけんしゃのひどけい,よけんしゃのひどけい
@@ -17877,6 +18231,7 @@ Selesnya Guildgate,セレズニアのギルド門,せれずにあのぎるども
 Selesnya Guildmage,セレズニアのギルド魔道士,せれずにあのぎるどまどうし,せれずにあのぎるどまどうし
 Selesnya Keyrune,セレズニアの魔鍵,せれずにあのまけん,せれずにあのまけん
 Selesnya Locket,セレズニアのロケット,せれずにあのろけっと,せれずにあのろけっと
+Selesnya Loft Gardens,セレズニアの屋根庭,せれずにあのやねにわ,せれずにあのやねにわ
 Selesnya Sagittars,セレズニアの鋭射手,せれずにあのえいしゃしゅ,せれずにあのえいしゃしゅ
 Selesnya Sanctuary,セレズニアの聖域,せれずにあのせいいき,せれずにあのせいいき
 Selesnya Sentry,セレズニアの歩哨,せれずにあのほしょう,せれずにあのほしょう
@@ -17941,6 +18296,8 @@ Sequestered Stash,隔絶した隠し場所,かくぜつしたかくしばしょ,
 Seraph,熾天使,してんし,してんし
 Seraph Sanctuary,熾天使の聖域,してんしのせいいき,してんしのせいいき
 Seraph of Dawn,暁の熾天使,あかつきのしてんし,あかつきのしてんし
+Seraph of New Capenna,ニューカペナの熾天使,にゅーかぺなのしてんし,にゅーかぺなのしてんし
+Seraph of New Phyrexia,新ファイレクシアの熾天使,しんふぁいれくしあのしてんし,しんふぁいれくしあのしてんし
 Seraph of the Masses,衆生の熾天使,しゅじょうのしてんし,しゅじょうのしてんし
 Seraph of the Scales,秤の熾天使,はかりのしてんし,はかりのしてんし
 Seraph of the Suns,双陽の熾天使,そうようのしてんし,そうようのしてんし
@@ -17964,6 +18321,7 @@ Serpent of Yawning Depths,最深淵の海蛇,さいしんえんのうみへび,�
 Serpent of the Endless Sea,終わり無き海の海蛇,おわりなきうみのうみへび,おわりなきうみのうみへび
 Serpent's Gift,大蛇の贈り物,だいじゃのおくりもの,だいじゃのおくりもの
 Serpent's Soul-Jar,大蛇の魂瓶,だいじゃのこんぺい,だいじゃのこんぺい
+Serpent-Blade Assailant,大蛇刃の通り魔,だいじゃやいばのとおりま,だいじゃやいばのとおりま
 Serpentine Ambush,うねる待ち伏せ,うねるまちぶせ,うねるまちぶせ
 Serpentine Basilisk,うねるバジリスク,うねるばじりすく,うねるばじりすく
 Serpentine Curve,うねる曲線,うねるきょくせん,うねるきょくせん
@@ -17976,6 +18334,7 @@ Serra Avatar,セラのアバター,せらのあばたー,せらのあばたー
 Serra Avenger,セラの報復者,せらのほうふくしゃ,せらのほうふくしゃ
 Serra Bestiary,セラの獣小屋,せらのけものごや,せらのけものごや
 Serra Disciple,セラの信奉者,せらのしんぽうしゃ,せらのしんぽうしゃ
+Serra Faithkeeper,セラの信仰守り,せらのしんこうまもり,せらのしんこうまもり
 Serra Paladin,セラの聖騎士,せらのせいきし,せらのせいきし
 Serra Paragon,セラの模範,せらのもはん,せらのもはん
 Serra Redeemer,セラの救い手,せらのすくいて,せらのすくいて
@@ -18088,6 +18447,7 @@ Shah of Naar Isle,ナー島の領主,なーとうのりょうしゅ,なーとう
 "Shaile, Dean of Radiance",光輝の学部長、シャイル,こうきのがくぶちょうしゃいる,こうきのがくぶちょうしゃいる
 Shake the Foundations,基盤の揺るぎ,きばんのゆるぎ,きばんのゆるぎ
 Shakedown Heavy,強請る大入道,ゆするおおにゅうどう,ゆするおおにゅうどう
+Shalai and Hallar,シャライとハラー,しゃらいとはらー,しゃらいとはらー
 Shalai's Acolyte,シャライの侍者,しゃらいのじしゃ,しゃらいのじしゃ
 "Shalai, Voice of Plenty",豊潤の声、シャライ,ほうじゅんのこえしゃらい,ほうじゅんのこえしゃらい
 Shaleskin Bruiser,泥岩皮の暴れ者,でいがんひのあばれもの,でいがんひのあばれもの
@@ -18151,6 +18511,7 @@ Sharuum the Hegemon,覇者シャルム,はしゃしゃるむ,はしゃしゃる�
 Shatter,粉砕,ふんさい,ふんさい
 Shatter Assumptions,仮定の粉砕,かていのふんさい,かていのふんさい
 Shatter the Sky,空の粉砕,そらのふんさい,そらのふんさい
+Shatter the Source,元凶の粉砕,げんきょうのふんさい,げんきょうのふんさい
 Shattered Angel,砕けた天使,くだけたてんし,くだけたてんし
 Shattered Crypt,暴かれた墓所,あばかれたぼしょ,あばかれたぼしょ
 Shattered Dreams,砕かれた夢,くだかれたゆめ,くだかれたゆめ
@@ -18189,6 +18550,7 @@ Sheltering Light,防護の光,ぼうごのひかり,ぼうごのひかり
 Sheltering Prayers,防護の祈り,ぼうごのいのり,ぼうごのいのり
 Sheltering Word,防護の言葉,ぼうごのことば,ぼうごのことば
 Shenanigans,悪ふざけ,わるふざけ,わるふざけ
+Sheoldred,シェオルドレッド,しぇおるどれっど,しぇおるどれっど
 Sheoldred's Edict,シェオルドレッドの勅令,しぇおるどれっどのちょくれい,しぇおるどれっどのちょくれい
 Sheoldred's Headcleaver,シェオルドレッドの首狩り,しぇおるどれっどのくびかり,しぇおるどれっどのくびかり
 Sheoldred's Restoration,シェオルドレッドの修復術,しぇおるどれっどのしゅうふくじゅつ,しぇおるどれっどのしゅうふくじゅつ
@@ -18273,6 +18635,7 @@ Shipwreck Singer,難破船の歌い手,なんぱせんのうたいて,なんぱ�
 "Shirei, Shizo's Caretaker",死蔵の世話人、死零,しぞうのせわにんしれい,しぞうのせわにんしれい
 "Shisato, Whispering Hunter",囁きの狩人、しさ斗,ささやきのかりゅうどしさと,ささやきのかりゅうどしさと
 Shiv's Embrace,シヴの抱擁,しゔのほうよう,しゔのほうよう
+Shivan Branch-Burner,シヴ山の枝焼き,しゔさんのえだやき,しゔさんのえだやき
 Shivan Devastator,シヴの壊滅者,しゔのかいめつしゃ,しゔのかいめつしゃ
 Shivan Dragon,シヴ山のドラゴン,しゔさんのどらごん,しゔさんのどらごん
 Shivan Emissary,シヴの使者,しゔのししゃ,しゔのししゃ
@@ -18380,6 +18743,7 @@ Sickle Dancer,鎌の踊り手,かまのおどりて,かまのおどりて
 Sickle Ripper,鎌の切り裂き魔,かまのきりさきま,かまのきりさきま
 Sickleslicer,鎌切り,かまきり,かまきり
 Sidar Jabari,シダー・ジャバーリー,しだーじゃばーりー,しだーじゃばーりー
+Sidar Jabari of Zhalfir,ザルファーのシダー・ジャバーリー,ざるふぁーのしだーじゃばーりー,ざるふぁーのしだーじゃばーりー
 Sidar Kondo of Jamuraa,ジャムーラのシダー・コンド,じゃむーらのしだーこんど,じゃむーらのしだーこんど
 Sideswipe,横殴り,よこなぐり,よこなぐり
 Sidewinder Naga,横這ナーガ,よこばいなーが,よこばいなーが
@@ -18436,6 +18800,7 @@ Sigil of the New Dawn,新たな夜明けの印形,あらたなよあけのいん
 Sigiled Behemoth,印章持ちのビヒモス,いんしょうもちのびひもす,いんしょうもちのびひもす
 Sigiled Contender,印章持ちの挑戦者,いんしょうもちのちょうせんしゃ,いんしょうもちのちょうせんしゃ
 Sigiled Paladin,印章持ちの聖騎士,いんしょうもちのせいきし,いんしょうもちのせいきし
+Sigiled Sentinel,印章持ちの歩哨,いんしょうもちのほしょう,いんしょうもちのほしょう
 Sigiled Skink,印章持ちのスキンク,いんしょうもちのすきんく,いんしょうもちのすきんく
 Sigiled Starfish,印章持ちのヒトデ,いんしょうもちのひとで,いんしょうもちのひとで
 Sigiled Sword of Valeron,ヴァレロンの有印剣,ゔぁれろんのゆういんけん,ゔぁれろんのゆういんけん
@@ -18741,10 +19106,12 @@ Skyblinder Staff,空隠しの杖,そらかくしのつえ,そらかくしのつ�
 Skyboon Evangelist,空加護の福音者,そらかごのふくいんしゃ,そらかごのふくいんしゃ
 Skybridge Towers,天橋塔,てんきょうとう,てんきょうとう
 Skycat Sovereign,空猫の君主,そらねこのくんしゅ,そらねこのくんしゅ
+Skyclave Aerialist,スカイクレイブの曲芸士,すかいくれいぶのきょくげいし,すかいくれいぶのきょくげいし
 Skyclave Apparition,スカイクレイブの亡霊,すかいくれいぶのぼうれい,すかいくれいぶのぼうれい
 Skyclave Basilica,スカイクレイブの列柱廟,すかいくれいぶのれっちゅうびょう,すかいくれいぶのれっちゅうびょう
 Skyclave Cleric,スカイクレイブの僧侶,すかいくれいぶのそうりょ,すかいくれいぶのそうりょ
 Skyclave Geopede,スカイクレイブの土百足,すかいくれいぶのつちむかで,すかいくれいぶのつちむかで
+Skyclave Invader,スカイクレイブの侵略者,すかいくれいぶのしんりゃくしゃ,すかいくれいぶのしんりゃくしゃ
 Skyclave Pick-Axe,スカイクレイブの鶴嘴,すかいくれいぶのつるはし,すかいくれいぶのつるはし
 Skyclave Plunder,スカイクレイブの略奪,すかいくれいぶのりゃくだつ,すかいくれいぶのりゃくだつ
 Skyclave Relic,スカイクレイブの秘宝,すかいくれいぶのひほう,すかいくれいぶのひほう
@@ -18872,6 +19239,7 @@ Slice in Twain,真っ二つ,まっぷたつ,まっぷたつ
 "Slicer, Hired Muscle",雇われの剛力、スライサー,やとわれのごうりきすらいさー,やとわれのごうりきすらいさー
 Slime Molding,スライム成形,すらいむせいけい,すらいむせいけい
 Slimebind,スライム縛り,すらいむしばり,すらいむしばり
+Slimefoot and Squee,スライムフットとスクイー,すらいむふっととすくいー,すらいむふっととすくいー
 Slimefoot's Survey,スライムフットの調査,すらいむふっとのちょうさ,すらいむふっとのちょうさ
 "Slimefoot, the Stowaway",密航者、スライムフット,みっこうしゃすらいむふっと,みっこうしゃすらいむふっと
 Slimy Kavu,べたつきカヴー,べたつきかゔー,べたつきかゔー
@@ -19017,6 +19385,7 @@ Soaring Thought-Thief,空飛ぶ思考盗み,そらとぶしこうぬすみ,そ�
 Social Climber,社交界の野心家,しゃこうかいのやしんか,しゃこうかいのやしんか
 Soilshaper,泥穿ち,どろうがち,どろうがち
 Sojourner's Companion,滞留者の相棒,たいりゅうしゃのあいぼう,たいりゅうしゃのあいぼう
+Sokenzan,霜剣山,そうけんざん,そうけんざん
 Sokenzan Bruiser,霜剣山の暴れ者,そうけんざんのあばれもの,そうけんざんのあばれもの
 Sokenzan Renegade,霜剣山の背教者,そうけんざんのはいきょうしゃ,そうけんざんのはいきょうしゃ
 Sokenzan Smelter,霜剣山の製錬者,そうけんざんのせいれんしゃ,そうけんざんのせいれんしゃ
@@ -19258,6 +19627,7 @@ Sparring Mummy,演習ミイラ,えんしゅうみいら,えんしゅうみいら
 Sparring Regimen,戦闘講習,せんとうこうしゅう,せんとうこうしゅう
 Spatial Binding,次元の枷,じげんのかせ,じげんのかせ
 Spatial Contortion,次元の歪曲,じげんのわいきょく,じげんのわいきょく
+Spatial Merging,空間の接合,くうかんのせつごう,くうかんのせつごう
 Spawn of Mayhem,騒乱の落とし子,そうらんのおとしご,そうらんのおとしご
 Spawn of Rix Maadi,リックス・マーディの落とし子,りっくすまーでぃのおとしご,りっくすまーでぃのおとしご
 Spawn of Thraxes,トラクシーズの落とし子,とらくしーずのおとしご,とらくしーずのおとしご
@@ -19645,6 +20015,7 @@ Stag Beetle,雄鹿クワガタ,おじかくわがた,おじかくわがた
 Staggering Insight,圧倒的洞察,あっとうてきどうさつ,あっとうてきどうさつ
 Staggershock,よろめきショック,よろめきしょっく,よろめきしょっく
 Stain the Mind,精神染み,せいしんしみ,せいしんしみ
+Stairs to Infinity,無限への階段,むげんへのかいだん,むげんえのかいだん
 Stalker Hag,忍び寄るハッグ,しのびよるはっぐ,しのびよるはっぐ
 Stalking Assassin,忍び寄る暗殺者,しのびよるあんさつしゃ,しのびよるあんさつしゃ
 Stalking Bloodsucker,忍び寄る吸血者,しのびよるきゅうけつしゃ,しのびよるきゅうけつしゃ
@@ -19710,6 +20081,7 @@ Starved Rusalka,飢えたルサルカ,うえたるさるか,うえたるさる�
 Stasis,停滞,ていたい,ていたい
 Stasis Cell,停滞の監房,ていたいのかんぼう,ていたいのかんぼう
 Stasis Cocoon,停滞の繭,ていたいのまゆ,ていたいのまゆ
+Stasis Field,停滞域,ていたいいき,ていたいいき
 Stasis Snare,停滞の罠,ていたいのわな,ていたいのわな
 Statecraft,治国策,ちこくさく,ちこくさく
 Static Net,静止網,せいしあみ,せいしあみ
@@ -19774,6 +20146,7 @@ Steeple Creeper,尖塔に忍び寄るもの,せんとうにしのびよるもの
 Steeple Roc,尖塔のロック鳥,せんとうのろっくちょう,せんとうのろっくちょう
 Stenchskipper,臭跳び,くさとび,くさとび
 "Stenn, Paranoid Partisan",偏執的な援護者、ステン,へんしつてきなえんごしゃすてん,へんしつてきなえんごしゃすてん
+Stensia,ステンシア,すてんしあ,すてんしあ
 Stensia Banquet,ステンシアの晩餐,すてんしあのばんさん,すてんしあのばんさん
 Stensia Bloodhall,ステンシアの血の間,すてんしあのちのま,すてんしあのちのま
 Stensia Innkeeper,ステンシアの亭主,すてんしあのていしゅ,すてんしあのていしゅ
@@ -19917,6 +20290,7 @@ Storm of Forms,書類の嵐,しょるいのあらし,しょるいのあらし
 Storm of Souls,魂の嵐,たましいのあらし,たましいのあらし
 Storm the Citadel,城塞への猛攻,じょうさいへのもうこう,じょうさいえのもうこう
 Storm the Festival,収穫祭の襲撃,しゅうかくさいのしゅうげき,しゅうかくさいのしゅうげき
+Storm the Seedcore,種子中枢への襲撃,しゅしちゅうすうへのしゅうげき,しゅしちゅうすうえのしゅうげき
 Storm the Vault,宝物庫襲撃,ほうもつこしゅうげき,ほうもつこしゅうげき
 Storm's Wrath,嵐の怒り,あらしのいかり,あらしのいかり
 Storm-Charged Slasher,嵐蓄積の斬鬼,あらしちくせきのざんき,あらしちくせきのざんき
@@ -19931,6 +20305,7 @@ Stormcarved Coast,嵐削りの海岸,あらしけずりのかいがん,あらし
 Stormchaser Chimera,嵐追いのキマイラ,あらしおいのきまいら,あらしおいのきまいら
 Stormchaser Drake,嵐追いのドレイク,あらしおいのどれいく,あらしおいのどれいく
 Stormchaser Mage,嵐追いの魔道士,あらしおいのまどうし,あらしおいのまどうし
+Stormclaw Rager,嵐爪の憤怒鬼,あらしづめのふんぬき,あらしづめのふんぬき
 Stormcloud Djinn,嵐雲のジン,あらしぐものじん,あらしぐものじん
 Stormcrag Elemental,嵐の岩山の精霊,あらしのいわやまのせいれい,あらしのいわやまのせいれい
 Stormfist Crusader,嵐拳の聖戦士,らんけんのせいせんし,らんけんのせいせんし
@@ -19987,6 +20362,7 @@ Street Sweeper,通りの掃除機,とおりのそうじき,とおりのそうじ
 Street Urchin,街路の浮浪児,がいろのふろうじ,がいろのふろうじ
 Street Wraith,通りの悪霊,とおりのあくりょう,とおりのあくりょう
 Streetbreaker Wurm,通り砕きのワーム,とおりくだきのわーむ,とおりくだきのわーむ
+Streetwise Negotiator,世渡り上手の交渉人,よわたりじょうずのこうしょうにん,よわたりじょうずのこうしょうにん
 "Strefan, Maurer Progenitor",マウアーの太祖、ストレイファン,まうあーのたいそすとれいふぁん,まうあーのたいそすとれいふぁん
 Strength from the Fallen,倒れた者からの力,たおれたものからのちから,たおれたものからのちから
 Strength in Numbers,数の力,かずのちから,かずのちから
@@ -20010,6 +20386,7 @@ Strip Bare,剥ぎ取り,はぎとり,はぎとり
 Strip Mine,露天鉱床,ろてんこうしょう,ろてんこうしょう
 Striped Bears,シマクマ,しまくま,しまくま
 Striped Riverwinder,縞カワヘビ,しまかわへび,しまかわへび
+Strixhaven,ストリクスヘイヴン,すとりくすへいゔん,すとりくすへいゔん
 Strixhaven Stadium,ストリクスヘイヴンの競技場,すとりくすへいゔんのきょうぎじょう,すとりくすへいゔんのきょうぎじょう
 Stroke of Genius,天才のひらめき,てんさいのひらめき,てんさいのひらめき
 Stromgald Cabal,ストロームガルドの陰謀団,すとろーむがるどのいんぼうだん,すとろーむがるどのいんぼうだん
@@ -20029,6 +20406,7 @@ Stronghold Assassin,要塞の暗殺者,ようさいのあんさつしゃ,よう�
 Stronghold Biologist,要塞の生物学者,ようさいのせいぶつがくしゃ,ようさいのせいぶつがくしゃ
 Stronghold Confessor,要塞の聴罪司祭,ようさいのちょうざいしさい,ようさいのちょうざいしさい
 Stronghold Discipline,要塞の規律,ようさいのきりつ,ようさいのきりつ
+Stronghold Furnace,要塞の灼熱洞,ようさいのしゃくねつどう,ようさいのしゃくねつどう
 Stronghold Gambit,要塞の計略,ようさいのけいりゃく,ようさいのけいりゃく
 Stronghold Machinist,要塞の機械技師,ようさいのきかいぎし,ようさいのきかいぎし
 Stronghold Overseer,要塞の監視者,ようさいのかんししゃ,ようさいのかんししゃ
@@ -20138,6 +20516,7 @@ Sun Droplet,太陽のしずく,たいようのしずく,たいようのしずく
 Sun Sentinel,太陽の歩哨,たいようのほしょう,たいようのほしょう
 Sun Titan,太陽のタイタン,たいようのたいたん,たいようのたいたん
 Sun's Bounty,太陽の報奨,たいようのほうしょう,たいようのほうしょう
+Sun-Blessed Guardian,太陽恵みの守護者,たいようめぐみのしゅごしゃ,たいようめぐみのしゅごしゃ
 Sun-Blessed Mount,太陽恵みの乗用恐竜,たいようめぐみのじょうようきょうりゅう,たいようめぐみのじょうようきょうりゅう
 Sun-Collared Raptor,太陽襟の猛竜,たいようえりのもうりゅう,たいようえりのもうりゅう
 Sun-Crested Pterodon,太陽冠のプテロドン,たいようかんのぷてろどん,たいようかんのぷてろどん
@@ -20157,12 +20536,14 @@ Suncrusher,太陽を破壊するもの,たいようをはかいするもの,た�
 Sunder,隔離,かくり,かくり
 Sunder Shaman,引き裂くシャーマン,ひきさくしゃーまん,ひきさくしゃーまん
 Sunder from Within,内面からの切断,ないめんからのせつだん,ないめんからのせつだん
+Sunder the Gateway,門口の断絶,かどぐちのだんぜつ,かどぐちのだんぜつ
 Sundering Growth,隔離する成長,かくりするせいちょう,かくりするせいちょう
 Sundering Stroke,切り離す一撃,きりはなすいちげき,きりはなすいちげき
 Sundering Titan,隔離するタイタン,かくりするたいたん,かくりするたいたん
 Sundering Vitae,隔離する活力,かくりするかつりょく,かくりするかつりょく
 Sundial of the Infinite,無限の日時計,むげんのひどけい,むげんのひどけい
 Sundown Pass,日没の道,にちぼつのみち,にちぼつのみち
+Sunfall,太陽降下,たいようこうか,たいようこうか
 Sunfire Balm,陽光の香油,ようこうのこうゆ,ようこうのこうゆ
 Sunflare Shaman,太陽弾けのシャーマン,たいようはじけのしゃーまん,たいようはじけのしゃーまん
 Sunforger,太陽打ちの槌,たいよううちのつち,たいよううちのつち
@@ -20236,6 +20617,7 @@ Surge Engine,高波エンジン,たかなみえんじん,たかなみえんじ�
 Surge Mare,波濤牝馬,はとうひんば,はとうひんば
 Surge Node,うねりの結節,うねりのけっせつ,うねりのけっせつ
 Surge of Righteousness,正義のうねり,せいぎのうねり,せいぎのうねり
+Surge of Salvation,救済の波濤,きゅうさいのはとう,きゅうさいのはとう
 Surge of Strength,力のうねり,ちからのうねり,ちからのうねり
 Surge of Thoughtweft,思考の糸のうねり,しこうのいとのうねり,しこうのいとのうねり
 Surge of Zeal,盲信のうねり,もうしんのうねり,もうしんのうねり
@@ -20252,6 +20634,7 @@ Surging Sentinels,うねる歩哨,うねるほしょう,うねるほしょう
 Surly Badgersaur,無愛想なアナグマザウルス,ぶあいそなあなぐまざうるす,ぶあいそなあなぐまざうるす
 Surprise Deployment,奇襲の配備,きしゅうのはいび,きしゅうのはいび
 Surrak Dragonclaw,龍爪のスーラク,りゅうそうのすーらく,りゅうそうのすーらく
+Surrak and Goreclaw,スーラクと殺し爪,すーらくところしづめ,すーらくところしづめ
 "Surrak, the Hunt Caller",狩猟の統率者、スーラク,しゅりょうのとうそつしゃすーらく,しゅりょうのとうそつしゃすーらく
 Surrakar Banisher,サラカーの消し去り,さらかーのけしさり,さらかーのけしさり
 Surrakar Marauder,サラカーの匪賊,さらかーのひぞく,さらかーのひぞく
@@ -20356,6 +20739,7 @@ Sword of Hearth and Home,家庭と故郷の剣,かていとこきょうのけん
 Sword of Hours,時の剣,ときのけん,ときのけん
 Sword of Kaldra,カルドラの剣,かるどらのけん,かるどらのけん
 Sword of Light and Shadow,光と影の剣,ひかりとかげのけん,ひかりとかげのけん
+Sword of Once and Future,過去と未来の剣,かことみらいのけん,かことみらいのけん
 Sword of Sinew and Steel,筋腱と鋼鉄の剣,きんけんとこうてつのけん,きんけんとこうてつのけん
 Sword of Truth and Justice,真理と正義の剣,しんりとせいぎのけん,しんりとせいぎのけん
 Sword of Vengeance,執念の剣,しゅうねんのけん,しゅうねんのけん
@@ -20367,6 +20751,7 @@ Sword of the Paruns,パルンズの剣,ぱるんずのけん,ぱるんずのけ�
 Sword of the Realms,領界の剣,りょうかいのけん,りょうかいのけん
 Sword-Point Diplomacy,剣呑な交渉,けんのんなこうしょう,けんのんなこうしょう
 Swords to Plowshares,剣を鍬に,つるぎをすきに,つるぎをすきに
+Swordsworn Cavalier,剣誓いの騎兵,つるぎちかいのきへい,つるぎちかいのきへい
 Swordwise Centaur,ケンタウルスの武芸者,けんたうるすのぶげいしゃ,けんたうるすのぶげいしゃ
 Sworn Companions,刎頸の友,ふんけいのとも,ふんけいのとも
 Sworn Guardian,誓いの守護者,ちかいのしゅごしゃ,ちかいのしゅごしゃ
@@ -20496,6 +20881,7 @@ Take into Custody,身柄拘束,みがらこうそく,みがらこうそく
 Take to the Streets,街宣行進,がいせんこうしん,がいせんこうしん
 Takeno's Cavalry,武野の騎兵,たけののきへい,たけののきへい
 "Takeno, Samurai General",侍の御大将、武野,さむらいのおんたいしょうたけの,さむらいのおんたいしょうたけの
+Takenuma,竹沼,たけぬま,たけぬま
 Takenuma Bleeder,竹沼の嫌われ者,たけぬまのきらわれもの,たけぬまのきらわれもの
 "Takenuma, Abandoned Mire",見捨てられたぬかるみ、竹沼,みすてられたぬかるみたけぬま,みすてられたぬかるみたけぬま
 Takklemaggot,タックル蛆,たっくるうじ,たっくるうじ
@@ -20525,6 +20911,7 @@ Talisman of Unity,団結のタリスマン,だんけつのたりすまん,だん
 Tall as a Beanstalk,伸びゆく豆の木,のびゆくまめのき,のびゆくまめのき
 Tallowisp,脂火玉,あぶらひだま,あぶらひだま
 Tallyman of Nurgle,タリーマン・オヴ・ナーグル,たりーまんおゔなーぐる,たりーまんおゔなーぐる
+Talon Gates,鉤爪の門,かぎづめのもん,かぎづめのもん
 Talon Sliver,かぎ爪のスリヴァー,かぎづめのすりゔぁー,かぎづめのすりゔぁー
 Talon Trooper,鉤爪の強兵,かぎづめのきょうへい,かぎづめのきょうへい
 Talon of Pain,苦痛の鉤爪,くつうのかぎづめ,くつうのかぎづめ
@@ -20553,6 +20940,7 @@ Tamiyo's Safekeeping,タミヨウの保管,たみようのほかん,たみよう
 Tanazir Quandrix,ターナジール・クアンドリクス,たーなじーるくあんどりくす,たーなじーるくあんどりくす
 Tandem Lookout,二人組の見張り番,ふたりぐみのみはりばん,ふたりぐみのみはりばん
 Tandem Tactics,二人戦術,ににんせんじゅつ,ににんせんじゅつ
+Tandem Takedown,二人組の叩き伏せ,ふたりぐみのたたきふせ,ふたりぐみのたたきふせ
 Tangle,もつれ,もつれ,もつれ
 Tangle Angler,絡み森の鮟鱇,からみもりのあんこう,からみもりのあんこう
 Tangle Asp,絡み森のアスプ,からみもりのあすぷ,からみもりのあすぷ
@@ -20565,6 +20953,7 @@ Tanglebloom,絡み花,からみばな,からみばな
 Tangleclaw Werewolf,絡み爪の人狼,からみづめのじんろう,からみづめのじんろう
 Tangled Florahedron,絡みつく花面晶体,からみつくはなめんしょうたい,からみつくはなめんしょうたい
 Tangled Islet,絡みつく島嶼域,からみつくとうしょいき,からみつくとうしょいき
+Tangled Skyline,もつれた地平線,もつれたちへいせん,もつれたちへいせん
 Tangled Vale,絡み谷,からみだに,からみだに
 Tanglepool Bridge,糸絡渦の橋,しろかのはし,しろかのはし
 Tangleroot,絡み樹の根,からみぎのね,からみぎのね
@@ -20587,6 +20976,7 @@ Tarfire,タール火,たーるび,たーるび
 "Targ Nar, Demon-Fang Gnoll",悪魔牙のノール、ターグ・ナール,あくまきばののーるたーぐなーる,あくまきばののーるたーぐなーる
 "Tariel, Reckoner of Souls",魂を数える者、タリエル,たましいをかぞえるものたりえる,たましいをかぞえるものたりえる
 Tariff,関税,かんぜい,かんぜい
+Tarkir Duneshaper,タルキールの砂丘造り,たるきーるのさきゅうづくり,たるきーるのさきゅうづくり
 Tarmogoyf,タルモゴイフ,たるもごいふ,たるもごいふ
 Tarnished Citadel,色あせた城塞,いろあせたじょうさい,いろあせたじょうさい
 Tarox Bladewing,刃の翼タロックス,やいばのつばさたろっくす,やいばのつばさたろっくす
@@ -20657,6 +21047,7 @@ Teeka's Dragon,ティーカのドラゴン,てぃーかのどらごん,てぃー
 Teetering Peaks,ぐらつく峰,ぐらつくみね,ぐらつくみね
 Teeterpeak Ambusher,ぐらつく峰の伏兵,ぐらつくみねのふくへい,ぐらつくみねのふくへい
 Teething Wurmlet,生歯の子ワーム,せいしのこわーむ,せいしのこわーむ
+Teferi Akosa of Zhalfir,ザルファーのテフェリー・アコサ,ざるふぁーのてふぇりーあこさ,ざるふぁーのてふぇりーあこさ
 Teferi's Ageless Insight,テフェリーの永遠の洞察,てふぇりーのえいえんのどうさつ,てふぇりーのえいえんのどうさつ
 Teferi's Care,テフェリーの配慮,てふぇりーのはいりょ,てふぇりーのはいりょ
 Teferi's Curse,テフェリーの呪い,てふぇりーののろい,てふぇりーののろい
@@ -20671,6 +21062,7 @@ Teferi's Puzzle Box,テフェリーの細工箱,てふぇりーのさいくば�
 Teferi's Realm,テフェリーの世界,てふぇりーのせかい,てふぇりーのせかい
 Teferi's Response,テフェリーの反応,てふぇりーのはんのう,てふぇりーのはんのう
 Teferi's Sentinel,テフェリーの歩哨,てふぇりーのほしょう,てふぇりーのほしょう
+Teferi's Talent,テフェリーの才能,てふぇりーのさいのう,てふぇりーのさいのう
 Teferi's Time Twist,テフェリーの時間改変,てふぇりーのじかんかいへん,てふぇりーのじかんかいへん
 Teferi's Tutelage,テフェリーの後見,てふぇりーのこうけん,てふぇりーのこうけん
 Teferi's Veil,テフェリーのヴェール,てふぇりーのゔぇーる,てふぇりーのゔぇーる
@@ -20744,6 +21136,7 @@ Temple of the False God,邪神の寺院,じゃしんのじいん,じゃしんの
 Temporal Adept,時間の名人,じかんのめいじん,じかんのめいじん
 Temporal Aperture,束の間の開口,つかのまのかいこう,つかのまのかいこう
 Temporal Cascade,時間の滝,じかんのたき,じかんのたき
+Temporal Cleansing,経時的浄化,けいじてきじょうか,けいじてきじょうか
 Temporal Distortion,時間のひずみ,じかんのひずみ,じかんのひずみ
 Temporal Eddy,時間の渦,じかんのうず,じかんのうず
 Temporal Extortion,時間の恐喝,じかんのきょうかつ,じかんのきょうかつ
@@ -20776,6 +21169,7 @@ Temur Charm,ティムールの魔除け,てぃむーるのまよけ,てぃむー
 Temur Runemark,ティムールの呪印,てぃむーるのじゅいん,てぃむーるのじゅいん
 Temur Sabertooth,ティムールの剣歯虎,てぃむーるのけんしとら,てぃむーるのけんしとら
 Temur War Shaman,ティムールの戦巫師,てぃむーるのいくさふし,てぃむーるのいくさふし
+Ten Wizards Mountain,十巫山,じゅっぷざん,じゅっぷざん
 Tenacious Dead,執拗な死者,しつようなししゃ,しつようなししゃ
 Tenacious Hunter,強靭な狩り手,きょうじんなかりて,きょうじんなかりて
 Tenacious Underdog,しつこい負け犬,しつこいまけいぬ,しつこいまけいぬ
@@ -20794,6 +21188,7 @@ Tenth District Legionnaire,第10管区の軍団兵,だいじゅうかんくの�
 Tenth District Veteran,第10管区の古参兵,だいじゅうかんくのこさんへい,だいじゅうかんくのこさんへい
 Tenuous Truce,不安定な休戦,ふあんていなきゅうせん,ふあんていなきゅうせん
 Tenured Inkcaster,終身書唱師,しゅうしんしょしょうし,しゅうしんしょしょうし
+Tenured Oilcaster,終身油唱師,しゅうしんゆしょうし,しゅうしんゆしょうし
 "Tenza, Godo's Maul",伍堂の大槌、天鎖,ごどうのおおづちてんざ,ごどうのおおづちてんざ
 Tephraderm,テフラダーム,てふらだーむ,てふらだーむ
 Terashi's Cry,天羅至の叫び,てらしのさけび,てらしのさけび
@@ -20840,6 +21235,7 @@ Terror,恐怖,きょうふ,きょうふ
 Terror Ballista,恐怖のバリスタ,きょうふのばりすた,きょうふのばりすた
 Terror of Kruin Pass,クルーイン峡の恐怖,くるーいんきょうのきょうふ,くるーいんきょうのきょうふ
 Terror of Mount Velus,ヴェリュス山の恐怖,ゔぇりゅすさんのきょうふ,ゔぇりゅすさんのきょうふ
+Terror of Towashi,都和市の恐怖,とわしのきょうふ,とわしのきょうふ
 Terror of the Fairgrounds,博覧会場の恐怖,はくらんかいじょうのきょうふ,はくらんかいじょうのきょうふ
 Terror of the Peaks,峰の恐怖,みねのきょうふ,みねのきょうふ
 Terrus Wurm,テーラスのワーム,てーらすのわーむ,てーらすのわーむ
@@ -20887,6 +21283,7 @@ Thalakos Mistfolk,サラカスのミストフォーク,さらかすのみすと�
 Thalakos Scout,サラカスの斥候,さらかすのせっこう,さらかすのせっこう
 Thalakos Seer,サラカスの予見者,さらかすのよけんしゃ,さらかすのよけんしゃ
 Thalakos Sentry,サラカスの歩哨,さらかすのほしょう,さらかすのほしょう
+Thalia and The Gitrog Monster,サリアとギトラグの怪物,さりあとぎとらぐのかいぶつ,さりあとぎとらぐのかいぶつ
 Thalia's Geistcaller,サリアの霊呼び,さりあのれいよび,さりあのれいよび
 Thalia's Lancers,サリアの槍騎兵,さりあのそうきへい,さりあのそうきへい
 Thalia's Lieutenant,サリアの副官,さりあのふくかん,さりあのふくかん
@@ -20913,9 +21310,11 @@ Thatcher Revolt,屋根職人の反乱,やねしょくにんのはんらん,や�
 Thaumatic Compass,魔学コンパス,まがくこんぱす,まがくこんぱす
 Thaumatog,ソーマトグ,そーまとぐ,そーまとぐ
 Thaumaturge's Familiar,秘術師の使い魔,ひじゅつしのつかいま,ひじゅつしのつかいま
+The AEther Flues,霊気筒,れいきづつ,れいきづつ
 The Akroan War,アクロス戦争,あくろすせんそう,あくろすせんそう
 The Antiquities War,アンティキティー戦争,あんてぃきてぃーせんそう,あんてぃきてぃーせんそう
 The Archimandrite,最高機構長,さいこうきこうちょう,さいこうきこうちょう
+The Argent Etchings,銀白の刻文,ぎんぱくのこくぶん,ぎんぱくのこくぶん
 The Autonomous Furnace,自律焼炉,じりつしょうろ,じりつしょうろ
 The Beamtown Bullies,梁町の暴漢,はりまちのぼうかん,はりまちのぼうかん
 The Bears of Littjara,リトヤラの熊々,りとやらのくまぐま,りとやらのくまぐま
@@ -20926,8 +21325,10 @@ The Blackstaff of Waterdeep,ウォーターディープの黒杖,うぉーたー
 The Bloodsky Massacre,血空の虐殺,ちぞらのぎゃくさつ,ちぞらのぎゃくさつ
 The Book of Exalted Deeds,高貴なる行いの書,こうきなるおこないのしょ,こうきなるおこないのしょ
 The Book of Vile Darkness,不浄なる暗黒の書,ふじょうなるあんこくのしょ,ふじょうなるあんこくのしょ
+The Broken Sky,壊れた空,こわれたそら,こわれたそら
 The Brothers' War,兄弟戦争,きょうだいせんそう,きょうだいせんそう
 The Brute,粗暴,そぼう,そぼう
+The Caldaia,カルダイヤ地区,かるだいやちく,かるだいやちく
 The Cauldron of Eternity,永遠の大釜,えいえんのおおがま,えいえんのおおがま
 The Celestus,セレスタス,せれすたす,せれすたす
 The Chain Veil,鎖のヴェール,くさりのゔぇーる,くさりのゔぇーる
@@ -20949,6 +21350,7 @@ The Fall of Kroog,クルーグの陥落,くるーぐのかんらく,くるーぐ
 The Fall of Lord Konda,君主今田の凋落,くんしゅこんだのちょうらく,くんしゅこんだのちょうらく
 The Fallen,堕ちたる者,おちたるもの,おちたるもの
 The Fate of the Flammable,燃え得る物の運命,もえうるもののうんめい,もえうるもののうんめい
+The Fertile Lands of Saulvinia,ソールヴィニアの肥沃な大地,そーるゔぃにあのひよくなだいち,そーるゔぃにあのひよくなだいち
 The Filigree Sylex,金線の酒杯,きんせんのしゅはい,きんせんのしゅはい
 The First Eruption,最初の噴火,さいしょのふんか,さいしょのふんか
 The First Iroan Games,第１回イロアス競技会,だいいっかいいろあすきょうぎかい,だいいっかいいろあすきょうぎかい
@@ -20957,9 +21359,15 @@ The First Tyrannic War,第一次ティラン戦役,だいいちじてぃらん�
 The Flame of Keld,ケルドの炎,けるどのほのお,けるどのほのお
 The Flesh Is Weak,肉体は脆い,にくたいはもろい,にくたいわもろい
 The Gitrog Monster,ギトラグの怪物,ぎとらぐのかいぶつ,ぎとらぐのかいぶつ
+The Golden City of Orazca,オラーズカの黄金都市,おらーずかのおうごんとし,おらーずかのおうごんとし
 The Golden Throne,黄金の玉座,おうごんのぎょくざ,おうごんのぎょくざ
+The Grand Evolution,偉大なる進化,いだいなるしんか,いだいなるしんか
+The Great Aerie,大いなる高楼,おおいなるこうろう,おおいなるこうろう
 The Great Aurora,大オーロラ,だいおーろら,だいおーろら
+The Great Forest,偉大なる森,いだいなるもり,いだいなるもり
 The Great Henge,グレートヘンジ,ぐれーとへんじ,ぐれーとへんじ
+The Great Synthesis,大いなる合成,おおいなるごうせい,おおいなるごうせい
+The Great Work,大いなる業,おおいなるわざ,おおいなるわざ
 The Haunt of Hightower,高塔の憑依者,こうとうのひょういしゃ,こうとうのひょういしゃ
 The Hive,蜂の巣,はちのす,はちのす
 The Horus Heresy,ホルスの大逆,ほるすのたいぎゃく,ほるすのたいぎゃく
@@ -20986,6 +21394,7 @@ The Ozolith,オゾリス,おぞりす,おぞりす
 The Peregrine Dynamo,流浪の発電機,るろうのはつでんき,るろうのはつでんき
 The Phasing of Zhalfir,ザルファーのフェイジング,ざるふぁーのふぇいじんぐ,ざるふぁーのふぇいじんぐ
 The Pieces Are Coming Together,部品が集まってきた,ぶひんがあつまってきた,ぶひんがあつまってきた
+The Pit,奈落,ならく,ならく
 The Prismatic Bridge,虹色の橋,にじいろのはし,にじいろのはし
 The Prismatic Piper,虹色の笛吹き,にじいろのふえふき,にじいろのふえふき
 The Rack,拷問台,ごうもんだい,ごうもんだい
@@ -21011,6 +21420,7 @@ The Temporal Anchor,時空錨,じくうびょう,じくうびょう
 The Three Seasons,三つの季節,みっつのきせつ,みっつのきせつ
 The Trickster-God's Heist,悪戯の神の強奪,いたずらのかみのごうだつ,いたずらのかみのごうだつ
 The Triumph of Anax,アナックスの勝利,あなっくすのしょうり,あなっくすのしょうり
+The True Scriptures,真実の教典,しんじつのきょうてん,しんじつのきょうてん
 The Underworld Cookbook,地獄料理書,じごくりょうりしょ,じごくりょうりしょ
 The Unspeakable,語られざるもの、忌話図,かたられざるものいわず,かたられざるものいわず
 The Ur-Dragon,始祖ドラゴン,しそどらごん,しそどらごん
@@ -21019,9 +21429,12 @@ The Wanderer,放浪者,ほうろうしゃ,ほうろうしゃ
 The Wandering Emperor,放浪皇,ほうろうおう,ほうろうおう
 The War in Heaven,天界の戦争,てんかいのせんそう,てんかいのせんそう
 The Weatherseed Treaty,ウェザーシード盟約,うぇざーしーどめいやく,うぇざーしーどめいやく
+The Western Cloud,西雲,さいうん,さいうん
+The Wilds,僻境,へききょう,へききょう
 The World Spell,世界呪文,せかいじゅもん,せかいじゅもん
 The World Tree,世界樹,せかいじゅ,せかいじゅ
 The Wretched,卑劣なる者,ひれつなるもの,ひれつなるもの
+The Zephyr Maze,西風の迷宮,にしかぜのめいきゅう,にしかぜのめいきゅう
 Theater of Horrors,恐怖の劇場,きょうふのげきじょう,きょうふのげきじょう
 Theft of Dreams,盗まれた夢,ぬすまれたゆめ,ぬすまれたゆめ
 Their Name Is Death,彼らの名は死を意味する,かれらのなはしをいみする,かれらのなわしをいみする
@@ -21173,6 +21586,7 @@ Thrash,強撃,きょうげき,きょうげき
 Thrash of Raptors,猛竜の群れ,もうりゅうのむれ,もうりゅうのむれ
 Thrasher Brute,打破する粗暴者,だはするそぼうしゃ,だはするそぼうしゃ
 Thrashing Brontodon,打ち壊すブロントドン,うちこわすぶろんとどん,うちこわすぶろんとどん
+Thrashing Frontliner,打ち壊す前線兵,うちこわすぜんせんへい,うちこわすぜんせんへい
 Thrashing Mossdog,のたうつ苔犬,のたうつこけいぬ,のたうつこけいぬ
 Thrashing Mudspawn,のたうつ汚泥獣,のたうつおでいじゅう,のたうつおでいじゅう
 Thrashing Wumpus,のたうつウンパス,のたうつうんぱす,のたうつうんぱす
@@ -21251,6 +21665,7 @@ Thundercloud Elemental,雷雲の精霊,らいうんのせいれい,らいうん�
 Thundercloud Shaman,雷雲のシャーマン,らいうんのしゃーまん,らいうんのしゃーまん
 Thunderfoot Baloth,雷足のベイロス,らいそくのべいろす,らいそくのべいろす
 Thunderhawk Gunship,サンダーホーク・ガンシップ,さんだーほーくがんしっぷ,さんだーほーくがんしっぷ
+Thunderhead Squadron,いかづち頭の戦隊,いかづちあたまのせんたい,いかづちあたまのせんたい
 Thunderheads,いかづち頭,いかづちあたま,いかづちあたま
 Thunderherd Migration,雷群れの渡り,かみなりむれのわたり,かみなりむれのわたり
 Thundering Ceratok,轟く角獣,とどろくかくじゅう,とどろくかくじゅう
@@ -21299,6 +21714,7 @@ Tidal Courier,高潮の急使,たかしおのきゅうし,たかしおのきゅ�
 Tidal Force,潮力,ちょうりょく,ちょうりょく
 Tidal Kraken,高潮のクラーケン,たかしおのくらーけん,たかしおのくらーけん
 Tidal Surge,打ち寄せる大波,うちよせるおおなみ,うちよせるおおなみ
+Tidal Terror,高潮の恐怖,たかしおのきょうふ,たかしおのきょうふ
 Tidal Visionary,高潮の幻想家,たかしおのげんそうか,たかしおのげんそうか
 Tidal Warrior,高潮の戦士,たかしおのせんし,たかしおのせんし
 Tidal Wave,高波,たかなみ,たかなみ
@@ -21323,6 +21739,7 @@ Tiger-Tribe Hunter,虎飼い族の狩人,とらかいぞくのかりゅうど,�
 Tigereye Cameo,虎目石のカメオ,とらめいしのかめお,とらめいしのかめお
 Tightening Coils,巻き締め付け,まきしめつけ,まきしめつけ
 Tiller Engine,操舵エンジン,そうだえんじん,そうだえんじん
+Tiller of Flesh,肉体の耕し手,にくたいのたがやして,にくたいのたがやして
 Tilling Treefolk,耕すツリーフォーク,たがやすつりーふぉーく,たがやすつりーふぉーく
 Tilonalli's Crown,ティロナーリの冠,てぃろなーりのかんむり,てぃろなーりのかんむり
 Tilonalli's Knight,ティロナーリの騎士,てぃろなーりのきし,てぃろなーりのきし
@@ -21333,6 +21750,7 @@ Timber Protector,森林の庇護者,しんりんのひごしゃ,しんりんの�
 Timber Shredder,森林を切り裂くもの,しんりんをきりさくもの,しんりんをきりさくもの
 Timber Wolves,森林狼,しんりんおおかみ,しんりんおおかみ
 Timbercrown Pathway,樹木被りの小道,じゅもくかぶりのこみち,じゅもくかぶりのこみち
+Timberland Ancient,森林地の古霊,しんりんちのこれい,しんりんちのこれい
 Timberland Guide,森林地の先達,しんりんちのせんだつ,しんりんちのせんだつ
 Timberland Ruins,森林地の廃墟,しんりんちのはいきょ,しんりんちのはいきょ
 Timbermare,ティンバーメア,てぃんばーめあ,てぃんばーめあ
@@ -21558,6 +21976,7 @@ Tovolar's Magehunter,トヴォラーの魔道士狩り,とゔぉらーのまど�
 Tovolar's Packleader,トヴォラーの群れ率い,とゔぉらーのむれひきい,とゔぉらーのむれひきい
 "Tovolar, Dire Overlord",不吉な首領、トヴォラー,ふきつなしゅりょうとゔぉらー,ふきつなしゅりょうとゔぉらー
 "Tovolar, the Midnight Scourge",深夜の災い魔、トヴォラー,しんやのわざわいまとゔぉらー,しんやのわざわいまとゔぉらー
+Towashi,都和市,とわし,とわし
 Towashi Guide-Bot,都和市の案内ボット,とわしのあんないぼっと,とわしのあんないぼっと
 Towashi Songshaper,都和市の整歌師,とわしのせいかし,とわしのせいかし
 Tower Above,見下し,みくだし,みくだし
@@ -21605,8 +22024,10 @@ Tragic Slip,悲劇的な過ち,ひげきてきなあやまち,ひげきてきな
 Trail of Crumbs,パンくずの道標,ぱんくずのみちしるべ,ぱんくずのみちしるべ
 Trail of Evidence,証拠の痕跡,しょうこのこんせき,しょうこのこんせき
 Trail of Mystery,神秘の痕跡,しんぴのこんせき,しんぴのこんせき
+Trail of the Mage-Rings,魔道士輪の跡,まどうしりんのあと,まどうしりんのあと
 Trailblazer's Boots,先駆者の長靴,せんくしゃのながぐつ,せんくしゃのながぐつ
 Trailblazer's Torch,先駆者の松明,はやあしのぶーつ,はやあしのぶーつ
+Trailblazing Historian,先駆的な歴史家,せんくてきなれきしか,せんくてきなれきしか
 Train of Thought,思考訓練,しこうくんれん,しこうくんれん
 Trained Armodon,訓練されたアーモドン,くんれんされたあーもどん,くんれんされたあーもどん
 Trained Caracal,訓練されたカラカル,くんれんされたからかる,くんれんされたからかる
@@ -21636,6 +22057,7 @@ Tranquility,平穏,へいおん,へいおん
 Transcendence,卓絶,たくぜつ,たくぜつ
 Transcendent Envoy,卓絶した特使,たくぜつしたとくし,たくぜつしたとくし
 Transcendent Master,卓絶の達人,たくぜつのたつじん,たくぜつのたつじん
+Transcendent Message,卓絶した声明,たくぜつしたせいめい,たくぜつしたせいめい
 Transgress the Mind,精神背信,せいしんはいしん,せいしんはいしん
 Transguild Courier,ギルド渡りの急使,ぎるどわたりのきゅうし,ぎるどわたりのきゅうし
 Transguild Promenade,ギルド渡りの遊歩道,ぎるどわたりのゆうほどう,ぎるどわたりのゆうほどう
@@ -21657,6 +22079,7 @@ Trapmaker's Snare,罠師の引き込み,わなしのひきこみ,わなしのひ
 Trapped in the Tower,塔への閉じ込め,とうへのとじこめ,とうえのとじこめ
 Traproot Kami,罠根の神,わなねのかみ,わなねのかみ
 Trash for Treasure,財宝発掘,ざいほうはっくつ,ざいほうはっくつ
+Traumatic Revelation,衝撃的な啓示,しょうげきてきなけいじ,しょうげきてきなけいじ
 Traumatic Visions,衝撃的な幻視,しょうげきてきなげんし,しょうげきてきなげんし
 Traumatize,心の傷跡,こころのきずあと,こころのきずあと
 Travel Preparations,旅の準備,たびのじゅんび,たびのじゅんび
@@ -21751,6 +22174,7 @@ Tribute to Horobi,崩老卑への貢納,ほろびへのこうのう,ほろびえ
 Tribute to Hunger,飢えへの貢ぎ物,うえへのみつぎもの,うええのみつぎもの
 Tribute to Urborg,アーボーグへの貢納,あーぼーぐへのこうのう,あーぼーぐえのこうのう
 Tribute to the Wild,野生への貢ぎ物,やせいへのみつぎもの,やせいえのみつぎもの
+Tribute to the World Tree,世界樹への貢納,せかいじゅへのこうのう,せかいじゅえのこうのう
 Trickbind,計略縛り,けいりゃくしばり,けいりゃくしばり
 Trickery Charm,計略の魔除け,けいりゃくのまよけ,けいりゃくのまよけ
 Tricks of the Trade,商売の秘訣,しょうばいのひけつ,しょうばいのひけつ
@@ -21820,6 +22244,8 @@ Truefire Paladin,真火の聖騎士,しんかのせいきし,しんかのせい�
 Trueheart Duelist,信念の決闘者,しんねんのけっとうしゃ,しんねんのけっとうしゃ
 Trueheart Twins,信念の双子,しんねんのふたご,しんねんのふたご
 Trufflesnout,トリュフ嗅ぎ,とりゅふかぎ,とりゅふかぎ
+Truga Cliffcharger,トルーガの断崖突き,とるーがのだんがいづき,とるーがのだんがいづき
+Truga Jungle,トルーガの密林,とるーがのみつりん,とるーがのみつりん
 Trumpet Blast,ラッパの一吹き,らっぱのひとふき,らっぱのひとふき
 Trumpeting Armodon,いななくアーモドン,いななくあーもどん,いななくあーもどん
 Trumpeting Gnarr,嘶くナール,いななくなーる,いななくなーる
@@ -21881,6 +22307,7 @@ Turntimber Sower,変わり樹の蒔き手,かわりぎのまきて,かわりぎ�
 Turntimber Symbiosis,変わり樹の共生,かわりぎのきょうせい,かわりぎのきょうせい
 "Turntimber, Serpentine Wood",うねる森、変わり樹,うねるもりかわりぎ,うねるもりかわりぎ
 Turret Ogre,砲塔のオーガ,ほうとうのおーが,ほうとうのおーが
+Turri Island,ターリ島,たーりとう,たーりとう
 Turtleshell Changeling,亀の甲の変わり身,かめのこうのかわりみ,かめのこうのかわりみ
 Tusked Colossodon,大牙コロッソドン,おおきばころっそどん,おおきばころっそどん
 Tuskeri Firewalker,タスケーリの火歩き,たすけーりのひあるき,たすけーりのひあるき
@@ -22027,6 +22454,7 @@ Uncanny Speed,異常な俊敏性,いじょうなしゅんびんせい,いじょ�
 Unchained Berserker,解き放たれた狂戦士,ときはなたれたきょうせんし,ときはなたれたきょうせんし
 Uncharted Haven,未知なる安息地,みちなるあんそくち,みちなるあんそくち
 Unchecked Growth,野放しの成長,のばなしのせいちょう,のばなしのせいちょう
+Uncivil Unrest,不穏な暴動,ふおんなぼうどう,ふおんなぼうどう
 Unclaimed Territory,手付かずの領土,てつかずのりょうど,てつかずのりょうど
 Uncle Istvan,イシュトヴァーンおじ,いしゅとゔぁーんおじ,いしゅとゔぁーんおじ
 Uncomfortable Chill,不快な冷気,ふかいなれいき,ふかいなれいき
@@ -22051,6 +22479,7 @@ Undercellar Sweep,地下の地下の一掃,ちかのちかのいっそう,ちか
 Undercity Informer,地底街の密告人,ちていがいのみっこくにん,ちていがいのみっこくにん
 Undercity Necrolisk,地底街のネクロリスク,ちていがいのねくろりすく,ちていがいのねくろりすく
 Undercity Plague,地底街の疫病,ちていがいのえきびょう,ちていがいのえきびょう
+Undercity Reaches,地底街の辺境,ちていがいのへんきょう,ちていがいのへんきょう
 Undercity Scavenger,地底街のゴミあさり,ちていがいのごみあさり,ちていがいのごみあさり
 Undercity Scrounger,地下街のたかり屋,ちかがいのたかりや,ちかがいのたかりや
 Undercity Shade,地底街の影,ちていがいのかげ,ちていがいのかげ
@@ -22160,6 +22589,7 @@ Unravel the AEther,霊気のほころび,れいきのほころび,れいきの�
 Unraveling Mummy,ほころびミイラ,ほころびみいら,ほころびみいら
 Unruly Mob,物騒な群衆,ぶっそうなぐんしゅう,ぶっそうなぐんしゅう
 "Unscythe, Killer of Kings",王を葬る鎌、アンサイズ,おうをほうむるかまあんさいず,おうをほうむるかまあんさいず
+Unseal the Necropolis,死滅都市の開封,しめつとしのかいふう,しめつとしのかいふう
 Unseen Walker,見えざる旅人,みえざるたびびと,みえざるたびびと
 Unsettled Mariner,不確定な船乗り,ふかくていなふなのり,ふかくていなふなのり
 Unspeakable Symbol,語られざる印,かたられざるいん,かたられざるいん
@@ -22186,6 +22616,7 @@ Unwilling Recruit,不本意な徴募,ふほんいなちょうぼ,ふほんいな
 Unwind,巻き戻し,まきもどし,まきもどし
 Unwinding Clock,巻き戻しの時計,まきもどしのとけい,まきもどしのとけい
 Unworthy Dead,卑しき死者,いやしきししゃ,いやしきししゃ
+Unyaro,ウンヤロ,うんやろ,うんやろ
 Unyaro Bee Sting,ウンヤロ蜂の一刺し,うんやろばちのひとさし,うんやろばちのひとさし
 Unyaro Bees,ウンヤロ蜂,うんやろはち,うんやろはち
 Unyaro Griffin,ウンヤロ・グリフィン,うんやろぐりふぃん,うんやろぐりふぃん
@@ -22198,6 +22629,7 @@ Upriser Renegade,蜂起軍の無法者,ほうきぐんのむほうもの,ほう�
 Uproot,根絶やし,ねだやし,ねだやし
 Upwelling,湧出,ゆうしゅつ,ゆうしゅつ
 Ur-Golem's Eye,ウル＝ゴーレムの目,うるごーれむのめ,うるごーれむのめ
+Urabrask,ウラブラスク,うらぶらすく,うらぶらすく
 Urabrask the Hidden,隠れしウラブラスク,かくれしうらぶらすく,かくれしうらぶらすく
 Urabrask's Anointer,ウラブラスクの選定師,うらぶらすくのせんていし,うらぶらすくのせんていし
 Urabrask's Forge,ウラブラスクの溶鉱炉,うらぶらすくのようこうろ,うらぶらすくのようこうろ
@@ -22227,6 +22659,7 @@ Urge to Feed,食餌の衝動,しょくじのしょうどう,しょくじのし�
 Urgent Exorcism,緊急の除霊,きんきゅうのじょれい,きんきゅうのじょれい
 "Urgoros, the Empty One",虚ろな者、アゴロス,うつろなものあごろす,うつろなものあごろす
 "Uril, the Miststalker",霧を歩むもの、ウリル,きりをあゆむものうりる,きりをあゆむものうりる
+Urn of Godfire,神の火の壺,かみのひのつぼ,かみのひのつぼ
 "Uro, Titan of Nature's Wrath",自然の怒りのタイタン、ウーロ,しぜんのいかりのたいたんうーろ,しぜんのいかりのたいたんうーろ
 Ursapine,ウルサパイン,うるさぱいん,うるさぱいん
 Ursine Champion,熊のチャンピオン,くまのちゃんぴおん,くまのちゃんぴおん
@@ -22306,6 +22739,8 @@ Valor Made Real,真の武勇,しんのぶゆう,しんのぶゆう
 Valor Singer,武勇の歌い手,ぶゆうのうたいて,ぶゆうのうたいて
 Valor in Akros,アクロスでの武勇,あくろすでのぶゆう,あくろすでのぶゆう
 Valor of the Worthy,傑士の武勇,けっしのぶゆう,けっしのぶゆう
+Valor's Reach,武勇の場,ぶゆうのば,ぶゆうのば
+Valor's Reach Tag Team,武勇の場の二人組,ぶゆうのばのふたりぐみ,ぶゆうのばのふたりぐみ
 Valorous Charge,勇敢な突撃,ゆうかんなとつげき,ゆうかんなとつげき
 Valorous Stance,勇敢な姿勢,ゆうかんなしせい,ゆうかんなしせい
 Valorous Steed,勇敢な駿馬,ゆうかんなしゅんめ,ゆうかんなしゅんめ
@@ -22453,6 +22888,7 @@ Venerated Loxodon,敬慕されるロクソドン,けいぼされるろくそど�
 Venerated Rotpriest,敬慕される腐敗僧,けいぼされるふはいそう,けいぼされるふはいそう
 Venerated Teacher,敬慕される教師,けいぼされるきょうし,けいぼされるきょうし
 Vengeance,復讐,ふくしゅう,ふくしゅう
+Vengeant Earth,復讐する大地,ふくしゅうするだいち,ふくしゅうするだいち
 Vengeful Ancestor,復讐の祖霊,ふくしゅうのそれい,ふくしゅうのそれい
 Vengeful Archon,復讐に燃えたアルコン,ふくしゅうにもえたあるこん,ふくしゅうにもえたあるこん
 Vengeful Dead,復讐に燃えた死者,ふくしゅうにもえたししゃ,ふくしゅうにもえたししゃ
@@ -22520,6 +22956,7 @@ Vernadi Shieldmate,ヴァーナーディーの盾仲間,ゔぁーなーでぃー
 Vernal Bloom,花盛りの春,はなざかりのはる,はなざかりのはる
 Vernal Equinox,春分,しゅんぶん,しゅんぶん
 "Verrak, Warped Sengir",歪んだセンギア、ヴェラック,ゆがんだせんぎあゔぇらっく,ゆがんだせんぎあゔぇらっく
+Vertex Paladin,天頂の聖騎士,てんちょうのせいきし,てんちょうのせいきし
 Vertigo,めまい,めまい,めまい
 Vertigo Spawn,眩暈の落とし子,めまいのおとしご,めまいのおとしご
 Vesper Ghoul,夕闇のグール,ゆうやみのぐーる,ゆうやみのぐーる
@@ -22751,6 +23188,7 @@ Vivien's Grizzly,ビビアンの灰色熊,びびあんのはいいろぐま,び�
 Vivien's Invocation,ビビアンの召致,びびあんのしょうち,びびあんのしょうち
 Vivien's Jaguar,ビビアンのジャガー,びびあんのじゃがー,びびあんのじゃがー
 Vivien's Stampede,ビビアンの暴走,びびあんのぼうそう,びびあんのぼうそう
+Vivien's Talent,ビビアンの才能,びびあんのさいのう,びびあんのさいのう
 "Vivien, Arkbow Ranger",アーク弓のレインジャー、ビビアン,あーくゆみのれいんじゃーびびあん,あーくゆみのれいんじゃーびびあん
 "Vivien, Champion of the Wilds",野獣の擁護者、ビビアン,やじゅうのようごしゃびびあん,やじゅうのようごしゃびびあん
 "Vivien, Monsters' Advocate",怪物の代言者、ビビアン,かいぶつのだいげんしゃびびあん,かいぶつのだいげんしゃびびあん
@@ -22781,6 +23219,7 @@ Vodalian Mindsinger,ヴォーデイリアの精神詠い,ゔぉーでいりあ�
 Vodalian Mystic,ヴォーデイリアの神秘家,ゔぉーでいりあのしんぴか,ゔぉーでいりあのしんぴか
 Vodalian Serpent,ヴォーデイリアの海蛇,ゔぉーでいりあのうみへび,ゔぉーでいりあのうみへび
 Vodalian Soldiers,ヴォーデイリアの兵士,ゔぉーでいりあのへいし,ゔぉーでいりあのへいし
+Vodalian Wave-Knight,ヴォーデイリアの波の騎士,ゔぉーでいりあのなみのきし,ゔぉーでいりあのなみのきし
 Vodalian Zombie,ヴォーデイリアのゾンビ,ゔぉーでいりあのぞんび,ゔぉーでいりあのぞんび
 "Vohar, Vodalian Desecrator",ヴォーデイリアの冒涜者、ヴォハー,ゔぉーでいりあのぼうとくしゃゔぉはー,ゔぉーでいりあのぼうとくしゃゔぉはー
 Voice of All,万物の声,ばんぶつのこえ,ばんぶつのこえ
@@ -22832,6 +23271,7 @@ Volcanic Offering,火山の捧げ物,かざんのささげもの,かざんのさ
 Volcanic Rambler,火山の彷徨,かざんのほうこう,かざんのほうこう
 Volcanic Rush,火山の猛進,かざんのもうしん,かざんのもうしん
 Volcanic Salvo,一斉噴火,いっせいふんか,いっせいふんか
+Volcanic Spite,火山の悪意,かざんのあくい,かざんのあくい
 Volcanic Spray,溶岩の飛散,ようがんのひさん,ようがんのひさん
 Volcanic Strength,火山の力,かざんのちから,かざんのちから
 Volcanic Submersion,火山流埋め,かざんりゅううめ,かざんりゅううめ
@@ -22848,6 +23288,7 @@ Voldaren Epicure,ヴォルダーレンの美食家,ゔぉるだーれんのび�
 Voldaren Estate,ヴォルダーレンの居城,ゔぉるだーれんのきょじょう,ゔぉるだーれんのきょじょう
 Voldaren Pariah,ヴォルダーレンの下層民,ゔぉるだーれんのかそうみん,ゔぉるだーれんのかそうみん
 Voldaren Stinger,ヴォルダーレンの刺剣士,ゔぉるだーれんのしけんし,ゔぉるだーれんのしけんし
+Voldaren Thrillseeker,ヴォルダーレンの興奮探し,ゔぉるだーれんのこうふんさがし,ゔぉるだーれんのこうふんさがし
 Volition Reins,決断の手綱,けつだんのたづな,けつだんのたづな
 Volley Veteran,斉射の古参兵,せいしゃのこさんへい,せいしゃのこさんへい
 Volley of Boulders,飛来する石弾,ひらいするせきだん,ひらいするせきだん
@@ -22887,6 +23328,7 @@ Voracious Vampire,貪食の吸血鬼,どんしょくのきゅうけつき,どん
 Voracious Wurm,大食のワーム,たいしょくのわーむ,たいしょくのわーむ
 Vorapede,食百足,しょくむかで,しょくむかで
 Vorel of the Hull Clade,育殻組のヴォレル,いくかくぐみのゔぉれる,いくかくぐみのゔぉれる
+Vorinclex,ヴォリンクレックス,ゔぉりんくれっくす,ゔぉりんくれっくす
 "Vorinclex, Monstrous Raider",巨怪な略奪者、ヴォリンクレックス,きょかいなりゃくだつしゃゔぉりんくれっくす,きょかいなりゃくだつしゃゔぉりんくれっくす
 "Vorinclex, Voice of Hunger",飢餓の声、ヴォリンクレックス,きがのこえゔぉりんくれっくす,きがのこえゔぉりんくれっくす
 "Vorosh, the Hunter",狩るものヴォラシュ,かるものゔぉらしゅ,かるものゔぉらしゅ
@@ -22926,6 +23368,7 @@ Vryn Wingmare,ヴリンの翼馬,ゔりんのよくば,ゔりんのよくば
 Vug Lizard,岩間のトカゲ,いわまのとかげ,いわまのとかげ
 Vulpikeet,狐インコ,きつねいんこ,きつねいんこ
 Vulpine Goliath,巨体の狐,きょたいのきつね,きょたいのきつね
+Vulpine Harvester,狐の収穫者,きつねのしゅうかくしゃ,きつねのしゅうかくしゃ
 Vulshok Battlegear,ヴァルショクの戦具,ゔぁるしょくのせんぐ,ゔぁるしょくのせんぐ
 Vulshok Battlemaster,ヴァルショクの戦場の達人,ゔぁるしょくのせんじょうのたつじん,ゔぁるしょくのせんじょうのたつじん
 Vulshok Berserker,ヴァルショクの狂戦士,ゔぁるしょくのきょうせんし,ゔぁるしょくのきょうせんし
@@ -23032,6 +23475,7 @@ Wand of Orcus,ワンド・オヴ・オルクス,わんどおゔおるくす,わ�
 Wand of Vertebrae,背骨のワンド,せぼねのわんど,せぼねのわんど
 Wand of Wonder,ワンド・オヴ・ワンダー,わんどおゔわんだー,わんどおゔわんだー
 Wand of the Elements,精霊のワンド,せいれいのわんど,せいれいのわんど
+Wand of the Worldsoul,世界魂の杖,せかいこんのつえ,せかいこんのつえ
 Wander in Death,死後の放浪,しごのほうろう,しごのほうろう
 Wanderbrine Rootcutters,ワンダーブラインの根切り,わんだーぶらいんのねぎり,わんだーぶらいんのねぎり
 Wanderer's Intervention,放浪者の介入,ほうろうしゃのかいにゅう,ほうろうしゃのかいにゅう
@@ -23066,6 +23510,7 @@ War Elemental,戦争の精霊,せんそうのせいれい,せんそうのせい�
 War Elephant,ウォー・エレファント,うぉーえれふぁんと,うぉーえれふぁんと
 War Falcon,軍用隼,ぐんようはやぶさ,ぐんようはやぶさ
 War Flare,戦乱の閃光,せんらんのせんこう,せんらんのせんこう
+War Historian,戦争歴史家,せんそうれきしか,せんそうれきしか
 War Horn,戦の角笛,いくさのつのぶえ,いくさのつのぶえ
 War Mammoth,ウォー・マンモス,うぉーまんもす,うぉーまんもす
 War Oracle,戦乱の神託者,せんらんのしんたくしゃ,せんらんのしんたくしゃ
@@ -23078,6 +23523,7 @@ War's Toll,戦争の代価,せんそうのだいか,せんそうのだいか
 War-Name Aspirant,戦名を望む者,いくさなをのぞむもの,いくさなをのぞむもの
 War-Spike Changeling,戦釘の変わり身,いくさくぎのかわりみ,いくさくぎのかわりみ
 War-Torch Goblin,戦松明のゴブリン,いくさたいまつのごぶりん,いくさたいまつのごぶりん
+War-Trained Slasher,戦鍛えの斬鬼,いくさぎたえのざんき,いくさぎたえのざんき
 War-Wing Siren,戦争翼のセイレーン,せんそうつばさのせいれーん,せんそうつばさのせいれーん
 Warbreak Trumpeter,開戦のラッパ吹き,かいせんのらっぱふき,かいせんのらっぱふき
 Warbriar Blessing,戦茨の恩恵,いくさいばらのおんけい,いくさいばらのおんけい
@@ -23146,6 +23592,7 @@ Warstorm Surge,戦嵐のうねり,せんらんのうねり,せんらんのうね
 Warteye Witch,イボ眼の魔女,いぼめのまじょ,いぼめのまじょ
 Warthog,イボイノシシ,いぼいのしし,いぼいのしし
 Wary Okapi,用心深いオカピ,ようじんぶかいおかぴ,ようじんぶかいおかぴ
+Wary Thespian,用心深い演劇役者,ようじんぶかいえんげきやくしゃ,ようじんぶかいえんげきやくしゃ
 Wash Away,洗い落とし,あらいおとし,あらいおとし
 Wash Out,洗い流し,あらいながし,あらいながし
 "Wasitora, Nekoru Queen",ネコルーの女王、ワシトラ,ねこるーのじょおうわしとら,ねこるーのじょおうわしとら
@@ -23384,6 +23831,7 @@ Wicked Akuba,血塗られた悪姥,ちぬられたあくば,ちぬられたあ�
 Wicked Guardian,意地悪な後見人,いじわるなこうけいにん,いじわるなこうけいにん
 Wicked Pact,血塗られた取り引き,ちぬられたとりひき,ちぬられたとりひき
 Wicked Reward,血塗られた報奨,ちぬられたほうしょう,ちぬられたほうしょう
+Wicked Slumber,忌まわしき眠り,いまわしきねむり,いまわしきねむり
 Wicked Wolf,意地悪な狼,いじわるなおおかみ,いじわるなおおかみ
 Wicker Warcrawler,小枝の戦這い,こえだのいくさはい,こえだのいくさはい
 Wicker Witch,枝細工の魔女,えだざいくのまじょ,えだざいくのまじょ
@@ -23437,6 +23885,7 @@ Wilderness Reclamation,荒野の再生,こうやのさいせい,こうやのさ�
 Wildest Dreams,途方もない夢,とほうもないゆめ,とほうもないゆめ
 Wildfield Borderpost,荒原の境界石,こうげんのきょうかいせき,こうげんのきょうかいせき
 Wildfire,燎原の火,りょうげんのひ,りょうげんのひ
+Wildfire Awakener,野火の呼び覚ます者,のびのよびさますもの,のびのよびさますもの
 Wildfire Cerberus,燎原の火のケルベロス,りょうげんのひのけるべろす,りょうげんのひのけるべろす
 Wildfire Devils,野火の悪魔,のびのあくま,のびのあくま
 Wildfire Elemental,野火の精霊,のびのせいれい,のびのせいれい
@@ -23447,6 +23896,7 @@ Wildheart Invoker,野心の発動者,やしんのはつどうしゃ,やしんの
 Wildsize,野生の寸法,やせいのすんぽう,やせいのすんぽう
 Wildslayer Elves,野生薙ぎのエルフ,やせいなぎのえるふ,やせいなぎのえるふ
 Wildsong Howler,野生の歌を吠えるもの,やせいのうたをほえるもの,やせいのうたをほえるもの
+Wildwood Escort,野生林の随員,やせいりんのずいいん,やせいりんのずいいん
 Wildwood Geist,猛森の霊,もうしんのれい,もうしんのれい
 Wildwood Patrol,野生林の巡回兵,やせいりんのじゅんかいへい,やせいりんのじゅんかいへい
 Wildwood Rebirth,野生林の再誕,やせいりんのさいたん,やせいりんのさいたん
@@ -23496,6 +23946,7 @@ Winding Wurm,巻きつくワーム,まきつくわーむ,まきつくわーむ
 Windreader Sphinx,風読みのスフィンクス,かぜよみのすふぃんくす,かぜよみのすふぃんくす
 Windreaper Falcon,ウィンドリーパー,うぃんどりーぱー,うぃんどりーぱー
 Windreaver,風を裂くもの,かぜをさくもの,かぜをさくもの
+Windriddle Palaces,風謎の宮殿,かぜなぞのきゅうでん,かぜなぞのきゅうでん
 Windrider Eel,風乗りの長魚,かぜのりのながうお,かぜのりのながうお
 Windrider Patrol,風乗りの巡回兵,かぜのりのじゅんかいへい,かぜのりのじゅんかいへい
 Windrider Wizard,風乗りの魔術師,かぜのりのまじゅつし,かぜのりのまじゅつし
@@ -23543,6 +23994,7 @@ Wingspan Mentor,翼長の導師,よくちょうのどうし,よくちょうの�
 Wingsteed Rider,天馬の乗り手,てんまののりて,てんまののりて
 Winnow,選り分け,えりわけ,えりわけ
 Winnower Patrol,選別者の巡回兵,せんべつしゃのじゅんかいへい,せんべつしゃのじゅんかいへい
+Winnowing Forces,選別する軍団,せんべつするぐんだん,せんべつするぐんだん
 "Winota, Joiner of Forces",軍団のまとめ役、ウィノータ,ぐんだんのまとめやくうぃのーた,ぐんだんのまとめやくうぃのーた
 Winter Blast,北風,きたかぜ,きたかぜ
 Winter Eladrin,冬のエラドリン,ふゆのえらどりん,ふゆのえらどりん
@@ -23753,8 +24205,10 @@ Wren's Run Hydra,レンの地のハイドラ,れんのちのはいどら,れん�
 Wren's Run Packmaster,レンの地の群れ使い,れんのちのむれつかい,れんのちのむれつかい
 Wren's Run Vanquisher,レンの地の克服者,れんのちのこくふくしゃ,れんのちのこくふくしゃ
 Wrench Mind,精神ねじ切り,せいしんねじきり,せいしんねじきり
+Wrenn and Realmbreaker,レンと次元壊し,れんとじげんこわし,れんとじげんこわし
 Wrenn and Seven,レンと七番,れんとななばん,れんとななばん
 Wrenn and Six,レンと六番,れんとろくばん,れんとろくばん
+Wrenn's Resolve,レンの決意,れんのけつい,れんのけつい
 Wretched Anurid,卑劣なアヌーリッド,ひれつなあぬーりっど,ひれつなあぬーりっど
 Wretched Banquet,惨めな食事,みじめなしょくじ,みじめなしょくじ
 Wretched Camel,不憫なラクダ,ふびんならくだ,ふびんならくだ
@@ -23803,6 +24257,7 @@ Xathrid Slyblade,ザスリッドの隠し刃,ざすりっどのかくしやい�
 "Xenagos, the Reveler",歓楽者ゼナゴス,かんらくしゃぜなごす,かんらくしゃぜなごす
 Xenic Poltergeist,異形の騒霊,いぎょうのそうれい,いぎょうのそうれい
 Xenograft,異種移植,いしゅいしょく,いしゅいしょく
+Xerex Strobe-Knight,キセレクスの投光騎士,きせれくすのとうこうきし,きせれくすのとうこうきし
 "Xiahou Dun, the One-Eyed",隻眼の将軍 夏侯惇,せきがんのしょうぐんかこうとん,せきがんのしょうぐんかこうとん
 Xira Arien,ジラ・エリアン,じらえりあん,じらえりあん
 "Xira, the Golden Sting",黄金の一刺し、ジラ,おうごんのひとさしじら,おうごんのひとさしじら
@@ -23816,6 +24271,7 @@ Yamabushi's Storm,山伏の嵐,やまぶしのあらし,やまぶしのあらし
 Yanling's Harbinger,ヤンリンの先触れ,やんりんのさきぶれ,やんりんのさきぶれ
 "Yannik, Scavenging Sentinel",物あさりの見張り役、ヤーンニック,ものあさりのみはりやくやーんにっく,ものあさりのみはりやくやーんにっく
 Yare,早技,はやわざ,はやわざ
+Yargle and Multani,ヤーグルとムルタニ,やーぐるとむるたに,やーぐるとむるたに
 "Yargle, Glutton of Urborg",アーボーグの暴食、ヤーグル,あーぼーぐのぼうしょくやーぐる,あーぼーぐのぼうしょくやーぐる
 Yarok's Fenlurker,ヤロクの沼潜み,やろくのぬまひそみ,やろくのぬまひそみ
 Yarok's Wavecrasher,ヤロクの波壊し,やろくのなみこわし,やろくのなみこわし
@@ -23963,8 +24419,10 @@ Zephyr Falcon,西風の隼,にしかぜのはやぶさ,にしかぜのはやぶ�
 Zephyr Net,西風の網,にしかぜのあみ,にしかぜのあみ
 Zephyr Scribe,微風の写字官,びふうのしゃじかん,びふうのしゃじかん
 Zephyr Sentinel,微風の歩哨,びふうのほしょう,びふうのほしょう
+Zephyr Singer,微風の歌い手,びふうのうたいて,びふうのうたいて
 Zephyr Spirit,西風のスピリット,にしかぜのすぴりっと,にしかぜのすぴりっと
 Zephyr Sprite,西風のスプライト,にしかぜのすぷらいと,にしかぜのすぷらいと
+Zephyr Winder,微風巻き,びふうまき,びふうまき
 Zephyrim,ゼフィリム,ぜふぃりむ,ぜふぃりむ
 Zerapa Minotaur,ゼラパのミノタウルス,ぜらぱのみのたうるす,ぜらぱのみのたうるす
 "Zeriam, Golden Wind",黄金の風、ゼリアム,おうごんのかぜぜりあむ,おうごんのかぜぜりあむ
@@ -23974,6 +24432,8 @@ Zhalfirin Commander,ザルファーの指揮官,ざるふぁーのしきかん,�
 Zhalfirin Crusader,ザルファーの聖戦士,ざるふぁーのせいせんし,ざるふぁーのせいせんし
 Zhalfirin Decoy,ザルファーのおとり,ざるふぁーのおとり,ざるふぁーのおとり
 Zhalfirin Knight,ザルファーの騎士,ざるふぁーのきし,ざるふぁーのきし
+Zhalfirin Lancer,ザルファーの槍騎兵,ざるふぁーのそうきへい,ざるふぁーのそうきへい
+Zhalfirin Shapecraft,ザルファーの形成術,ざるふぁーのけいせいじゅつ,ざるふぁーのけいせいじゅつ
 Zhalfirin Void,ザルファーの虚空,ざるふぁーのこくう,ざるふぁーのこくう
 "Zhang Fei, Fierce Warrior",猛将 張飛,もうしょうちょうひ,もうしょうちょうひ
 "Zhang He, Wei General",魏の将軍 張コウ,ぎのしょうぐんちょうこう,ぎのしょうぐんちょうこう
@@ -23989,7 +24449,9 @@ Zhur-Taa Swine,ザル＝ターの豚,ざるたーのぶた,ざるたーのぶた
 Ziatora's Envoy,ジアトラの特使,じあとらのとくし,じあとらのとくし
 Ziatora's Proving Ground,ジアトラの試練場,じあとらのしれんじょう,じあとらのしれんじょう
 "Ziatora, the Incinerator",焼却するもの、ジアトラ,しょうきゃくするものじあとら,しょうきゃくするものじあとら
+"Zilortha, Apex of Ikoria",イコリアの頂点、ジローサ,いこりあのちょうてんじろーさ,いこりあのちょうてんじろーさ
 "Zilortha, Strength Incarnate",力の具現、ジローサ,ちからのぐげんじろーさ,ちからのぐげんじろーさ
+Zimone and Dina,ジモーンとダイナ,じもーんとだいな,じもーんとだいな
 "Zimone, Quandrix Prodigy",クアンドリクスの神童、ジモーン,くあんどりくすのしんどうじもーん,くあんどりくすのしんどうじもーん
 "Zirda, the Dawnwaker",黎明起こし、ザーダ,れいめいおこしざーだ,れいめいおこしざーだ
 Zirilan of the Claw,鉤爪のジィーリィーラン,かぎづめのじぃーりぃーらん,かぎづめのじぃーりぃーらん
@@ -24046,6 +24508,7 @@ Zuran Orb,ズアーの宝珠,ずあーのほうじゅ,ずあーのほうじゅ
 Zuran Spellcaster,ズアーの投呪士,ずあーのとうじゅし,ずあーのとうじゅし
 Zurgo Bellstriker,鐘突きのズルゴ,かねつきのずるご,かねつきのずるご
 Zurgo Helmsmasher,兜砕きのズルゴ,かぶとくだきのずるご,かぶとくだきのずるご
+Zurgo and Ojutai,ズルゴとオジュタイ,ずるごとおじゅたい,ずるごとおじゅたい
 "Zurzoth, Chaos Rider",混沌の乗り手、ザルゾス,こんとんののりてざるぞす,こんとんののりてざるぞす
 "Zamriel, Seraph of Steel",鋼の熾天使、ザムリエル,はがねのしてんしざむりえる,はがねのしてんしざむりえる
 "Maeve, Insidious Singer",腹黒い歌い手、メイヴ,はらぐろいうたいてめいゔ,はらぐろいうたいてめいゔ
