@@ -4,8 +4,8 @@
 
 日本語の響きの近さを測るモジュール
 
-- Webアプリはこちら https://mondegreen-search.streamlit.app/
-- 解説はこちら https://zenn.dev/articles/c97c8a59f3cc19
+- 📝 解説 https://zenn.dev/articles/c97c8a59f3cc19
+- Webアプリ [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mondegreen-search.streamlit.app)
 
 ## インストール
 ```bash
