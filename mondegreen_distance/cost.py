@@ -36,7 +36,7 @@ def _compute_consonant_cost(cons1: Optional[str], cons2: Optional[str]) -> float
         return 0.0
 
     if cons1 is None or cons2 is None:
-        return 1.0
+        return 0.8
 
     cost = 0.2
     if is_voiced(cons1) != is_voiced(cons2):
@@ -78,7 +78,8 @@ def _compute_mora_cost(mora1: str, mora2: str) -> float:
     sp1 = is_special_mora(mora1)
     sp2 = is_special_mora(mora2)
     if sp1 != sp2:
-        return 1.0  # TODO: decrease replacing cost between 'N' and (voiced or nasal)
+        # TODO: decrease replacing cost between 'N' and (voiced or nasal)
+        return 1.0
     if sp1 and sp2:
         return 0.0 if mora1 == mora2 else 1.0
 
@@ -95,18 +96,18 @@ def _compute_mora_cost(mora1: str, mora2: str) -> float:
         return mora[0] if is_consonant(mora[0]) else None
 
     cost = 0.0
-    # 0 <= vowel cost <= 0.5
+    # 0 <= vowel cost <= 0.6
     vowel1 = get_vowel(mora1)
     vowel2 = get_vowel(mora2)
-    cost += 0.5 * VOWEL_COST_MATRIX[vowel1][vowel2]
+    cost += 0.6 * VOWEL_COST_MATRIX[vowel1][vowel2]
     # 0 <= semivowel cost <= 0.1
     semivowel1 = get_semivowel(mora1)
     semivowel2 = get_semivowel(mora2)
     cost += 0.0 if semivowel1 == semivowel2 else 0.1
-    # 0 <= consonant cost <= 0.4
+    # 0 <= consonant cost <= 0.3
     consonant1 = get_consonant(mora1)
     consonant2 = get_consonant(mora2)
-    cost += 0.4 * _compute_consonant_cost(consonant1, consonant2)
+    cost += 0.3 * _compute_consonant_cost(consonant1, consonant2)
     return cost
 
 

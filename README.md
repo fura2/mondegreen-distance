@@ -17,8 +17,8 @@ pip3 install .
 ```python
 from mondegreen_distance import distance
 print(distance('からあげ', 'からあげ'))  # output: 0.0
-print(distance('やきとり', 'からあげ'))  # output: 2.4189041095890413
-print(distance('からおけ', 'からあげ'))  # output: 0.4134246575342466
+print(distance('からあげ', 'やきとり'))  # output: 2.1506849315068495
+print(distance('からあげ', 'からおけ'))  # output: 0.4241095890410959
 ```
 
 ## デモ
